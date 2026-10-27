@@ -1,0 +1,3787 @@
+PokerStars Hand #2700000002:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:04:25 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IAN ($1985 in chips)
+Seat 2: KENNY B ($2965 in chips)
+Seat 3: DOUG ($9975 in chips)
+Seat 4: PRAVEENN ($1000 in chips)
+Seat 5: CHASE ($4000 in chips)
+Seat 6: RAMJAM ($3040 in chips)
+Seat 7: IOWA MATT ($6070 in chips)
+Seat 8: TALL PAUL ($1995 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to IAN [Js Jd 9d 4h]
+Dealt to KENNY B [Th 9h 4d 2d]
+Dealt to DOUG [Qs Ts 6h 6d]
+Dealt to PRAVEENN [Qd Td 8s 5d]
+Dealt to CHASE [Jh 8c 7s 5s]
+Dealt to RAMJAM [Kc 3s 3d 2c]
+Dealt to IOWA MATT [Qh 6s 5h 2h]
+Dealt to TALL PAUL [Ad Ac 9c 7d]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: raises $100 to $125
+IAN: folds
+KENNY B: folds
+DOUG: folds
+PRAVEENN: calls $100
+*** FLOP *** [4c Qc As]
+PRAVEENN: checks
+TALL PAUL: bets $125
+PRAVEENN: folds
+Uncalled bet ($125) returned to TALL PAUL
+TALL PAUL collected $290 from pot
+*** SUMMARY ***
+Total pot $290 | Rake $0
+Board [4c Qc As]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: DOUG folded before Flop
+Seat 4: PRAVEENN folded on the Flop
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL (button) collected ($290)
+
+
+PokerStars Hand #2700000003:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:07:32 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: KENNY B ($2960 in chips)
+Seat 2: DOUG ($9965 in chips)
+Seat 3: PRAVEENN ($775 in chips)
+Seat 4: CHASE ($4000 in chips)
+Seat 5: RAMJAM ($3040 in chips)
+Seat 6: IOWA MATT ($6070 in chips)
+Seat 7: TALL PAUL ($2160 in chips)
+Seat 8: IAN ($1985 in chips)
+KENNY B: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Qh Jd 2h 2d]
+Dealt to RAMJAM [8s 5d 5c 3c]
+Dealt to IOWA MATT [Ac Ts 5h 4s]
+Dealt to TALL PAUL [Kc Qd Td 8d]
+Dealt to IAN [7c 3s 3h 2c]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: raises $75 to $100
+IAN: folds
+KENNY B: folds
+DOUG: folds
+PRAVEENN: calls $75
+*** FLOP *** [9h 4h 9d]
+PRAVEENN: checks
+TALL PAUL: bets $50
+PRAVEENN: calls $50
+*** TURN *** [9h 4h 9d] [Ah]
+PRAVEENN: checks
+TALL PAUL: checks
+*** RIVER *** [9h 4h 9d Ah] [Qc]
+PRAVEENN: bets $200
+TALL PAUL: folds
+Uncalled bet ($200) returned to PRAVEENN
+PRAVEENN collected $315 from pot
+*** SUMMARY ***
+Total pot $315 | Rake $0
+Board [9h 4h 9d Ah Qc]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN collected ($315)
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the River
+Seat 8: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000005:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:12:38 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: PRAVEENN ($2525 in chips)
+Seat 2: CHASE ($3965 in chips)
+Seat 3: RAMJAM ($2990 in chips)
+Seat 4: IOWA MATT ($4980 in chips)
+Seat 5: TALL PAUL ($2010 in chips)
+Seat 6: IAN ($1985 in chips)
+Seat 7: KENNY B ($2960 in chips)
+Seat 8: DOUG ($9415 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+IOWA MATT: posts straddle $50
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Qs Td 6c 4c]
+Dealt to CHASE [Ks 8d 3s 3d]
+Dealt to RAMJAM [Ac Kd Jd 5h]
+Dealt to IOWA MATT [6h 6d 3h 2s]
+Dealt to TALL PAUL [Jc 5c 3c 2h]
+Dealt to KENNY B [Th 9s 8s 5s]
+Dealt to DOUG [Ah Jh 7h 7d]
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $100 to $150
+DOUG: calls $150
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: calls $100
+*** FLOP *** [9c Ts Kc]
+IOWA MATT: checks
+KENNY B: checks
+DOUG: checks
+*** TURN *** [9c Ts Kc] [4h]
+IOWA MATT: checks
+KENNY B: checks
+DOUG: checks
+*** RIVER *** [9c Ts Kc 4h] [6s]
+IOWA MATT: bets $400
+KENNY B: folds
+DOUG: folds
+Uncalled bet ($400) returned to IOWA MATT
+IOWA MATT collected $490 from pot
+*** SUMMARY ***
+Total pot $490 | Rake $0
+Board [9c Ts Kc 4h 6s]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) folded before Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT collected ($490)
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded before Flop (didn't bet)
+Seat 7: KENNY B folded on the River
+Seat 8: DOUG (button) folded on the River
+
+
+PokerStars Hand #2700000006:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:15:07 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: CHASE ($3960 in chips)
+Seat 2: RAMJAM ($2980 in chips)
+Seat 3: IOWA MATT ($5345 in chips)
+Seat 4: TALL PAUL ($2010 in chips)
+Seat 5: IAN ($1985 in chips)
+Seat 6: KENNY B ($2810 in chips)
+Seat 7: DOUG ($9390 in chips)
+Seat 8: PRAVEENN ($2525 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Jd Jc 6s 6c]
+Dealt to RAMJAM [8s 7d 4c 3h]
+Dealt to IOWA MATT [Kd Kc Jh 3s]
+Dealt to TALL PAUL [Kh Qh Td 2s]
+Dealt to DOUG [Qc 8h 8d 2d]
+Dealt to PRAVEENN [Ah 9h 9d 5d]
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+DOUG: calls $25
+PRAVEENN: raises $75 to $100
+CHASE: calls $95
+RAMJAM: folds
+IOWA MATT: calls $75
+DOUG: calls $75
+*** FLOP *** [7s As 4h]
+CHASE: checks
+IOWA MATT: checks
+DOUG: checks
+PRAVEENN: bets $300
+CHASE: folds
+IOWA MATT: folds
+DOUG: folds
+Uncalled bet ($300) returned to PRAVEENN
+PRAVEENN collected $410 from pot
+*** SUMMARY ***
+Total pot $410 | Rake $0
+Board [7s As 4h]
+Seat 1: CHASE (small blind) folded on the Flop
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: IOWA MATT folded on the Flop
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded before Flop (didn't bet)
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: DOUG folded on the Flop
+Seat 8: PRAVEENN (button) collected ($410)
+
+
+PokerStars Hand #2700000007:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:16:47 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: RAMJAM ($2930 in chips)
+Seat 2: IOWA MATT ($5260 in chips)
+Seat 3: TALL PAUL ($1960 in chips)
+Seat 4: IAN ($1935 in chips)
+Seat 5: KENNY B ($2810 in chips)
+Seat 6: DOUG ($9315 in chips)
+Seat 7: PRAVEENN ($2785 in chips)
+Seat 8: CHASE ($3865 in chips)
+RAMJAM: posts small blind $5
+IOWA MATT: posts big blind $10
+TALL PAUL: posts straddle $25
+IAN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to RAMJAM [Qs Qd 9d 6c]
+Dealt to IOWA MATT [Kd 5h 4s 2d]
+Dealt to TALL PAUL [Js 7h 7c 2c]
+Dealt to IAN [Jc Td 9s 3h]
+Dealt to KENNY B [Ad Th 7d 4d]
+Dealt to DOUG [Kc Qc 9c 6d]
+Dealt to PRAVEENN [Jh Jd 9h 2h]
+Dealt to CHASE [Ac 6h 4h 3d]
+KENNY B: folds
+DOUG: folds
+PRAVEENN: calls $50
+CHASE: folds
+RAMJAM: calls $45
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: checks
+*** FLOP *** [5s 7s 4c]
+RAMJAM: checks
+TALL PAUL: checks
+IAN: checks
+PRAVEENN: checks
+*** TURN *** [5s 7s 4c] [Kh]
+RAMJAM: checks
+TALL PAUL: bets $125
+IAN: folds
+PRAVEENN: folds
+RAMJAM: folds
+Uncalled bet ($125) returned to TALL PAUL
+TALL PAUL collected $210 from pot
+*** SUMMARY ***
+Total pot $210 | Rake $0
+Board [5s 7s 4c Kh]
+Seat 1: RAMJAM (small blind) folded on the Turn
+Seat 2: IOWA MATT (big blind) folded before Flop
+Seat 3: TALL PAUL collected ($210)
+Seat 4: IAN folded on the Turn
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: PRAVEENN folded on the Turn
+Seat 8: CHASE (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000009:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:21:03 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: TALL PAUL ($2155 in chips)
+Seat 2: IAN ($1990 in chips)
+Seat 3: KENNY B ($2735 in chips)
+Seat 4: DOUG ($9215 in chips)
+Seat 5: PRAVEENN ($4835 in chips)
+Seat 6: CHASE ($3865 in chips)
+Seat 7: RAMJAM ($2930 in chips)
+Seat 8: IOWA MATT ($5255 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+DOUG: posts straddle $50
+*** HOLE CARDS ***
+Dealt to TALL PAUL [6s 6d 5c 4h]
+Dealt to IAN [Qd 9c 7h 3c]
+Dealt to KENNY B [As Kc Jh 5h]
+Dealt to DOUG [Qc Ts Td 2c]
+Dealt to RAMJAM [Ks Qs 8h 8c]
+Dealt to IOWA MATT [Th 9s 6c 5s]
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: calls $50
+IOWA MATT: calls $50
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $225 to $275
+DOUG: folds
+RAMJAM: calls $225
+IOWA MATT: calls $225
+*** FLOP *** [4d 4s 8s]
+KENNY B: bets $375
+RAMJAM: calls $375
+IOWA MATT: folds
+*** TURN *** [4d 4s 8s] [3h]
+KENNY B: checks
+RAMJAM: bets $700
+KENNY B: folds
+Uncalled bet ($700) returned to RAMJAM
+RAMJAM collected $1640 from pot
+*** SUMMARY ***
+Total pot $1640 | Rake $0
+Board [4d 4s 8s 3h]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded before Flop
+Seat 3: KENNY B folded on the Turn
+Seat 4: DOUG folded before Flop
+Seat 5: PRAVEENN folded before Flop (didn't bet)
+Seat 6: CHASE folded before Flop (didn't bet)
+Seat 7: RAMJAM collected ($1640)
+Seat 8: IOWA MATT (button) folded on the Flop
+
+
+PokerStars Hand #2700000010:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:23:54 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IAN ($1985 in chips)
+Seat 2: KENNY B ($2100 in chips)
+Seat 3: DOUG ($9190 in chips)
+Seat 4: PRAVEENN ($4635 in chips)
+Seat 5: CHASE ($3865 in chips)
+Seat 6: RAMJAM ($3920 in chips)
+Seat 7: IOWA MATT ($4980 in chips)
+Seat 8: TALL PAUL ($2155 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+DOUG: posts straddle $25
+PRAVEENN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Js Td 9d 6d]
+Dealt to KENNY B [9s 6c 3s 3c]
+Dealt to PRAVEENN [6h 3d 2h 2d]
+Dealt to CHASE [Ac Qd 7c 5c]
+Dealt to RAMJAM [Ad Kc 9c 2c]
+Dealt to IOWA MATT [Ah Jd Ts 7d]
+Dealt to TALL PAUL [Jh Tc 8s 2s]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: raises $150 to $200
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $190
+DOUG: folds
+PRAVEENN: calls $150
+*** FLOP *** [5d 8c 9h]
+KENNY B: checks
+PRAVEENN: checks
+IOWA MATT: bets $650
+KENNY B: folds
+PRAVEENN: folds
+Uncalled bet ($650) returned to IOWA MATT
+IOWA MATT collected $630 from pot
+*** SUMMARY ***
+Total pot $630 | Rake $0
+Board [5d 8c 9h]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded on the Flop
+Seat 3: DOUG folded before Flop
+Seat 4: PRAVEENN folded on the Flop
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT collected ($630)
+Seat 8: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000011:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:25:45 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: KENNY B ($1810 in chips)
+Seat 2: DOUG ($9180 in chips)
+Seat 3: PRAVEENN ($4535 in chips)
+Seat 4: CHASE ($3865 in chips)
+Seat 5: RAMJAM ($3920 in chips)
+Seat 6: IOWA MATT ($5410 in chips)
+Seat 7: TALL PAUL ($2155 in chips)
+Seat 8: IAN ($1985 in chips)
+KENNY B: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Ah Td 9d 8d]
+Dealt to PRAVEENN [Kc Tc 7c 6d]
+Dealt to RAMJAM [Ad 6h 5c 4s]
+Dealt to IOWA MATT [Kh Jd Ts 7h]
+Dealt to TALL PAUL [Js 9c 7s 4h]
+Dealt to IAN [Ks Qs 4d 2d]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $95
+DOUG: folds
+PRAVEENN: calls $75
+*** FLOP *** [2h Ac Qd]
+KENNY B: checks
+PRAVEENN: checks
+IOWA MATT: bets $300
+KENNY B: folds
+PRAVEENN: calls $300
+*** TURN *** [2h Ac Qd] [8c]
+PRAVEENN: checks
+IOWA MATT: checks
+*** RIVER *** [2h Ac Qd 8c] [9h]
+PRAVEENN: bets $925
+IOWA MATT: raises $2075 to $3000
+PRAVEENN: folds
+Uncalled bet ($2075) returned to IOWA MATT
+IOWA MATT collected $2760 from pot
+*** SUMMARY ***
+Total pot $2760 | Rake $0
+Board [2h Ac Qd 8c 9h]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded on the River
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT collected ($2760)
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000012:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:28:01 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: DOUG ($9175 in chips)
+Seat 2: PRAVEENN ($3300 in chips)
+Seat 3: CHASE ($3840 in chips)
+Seat 4: RAMJAM ($3920 in chips)
+Seat 5: IOWA MATT ($6845 in chips)
+Seat 6: TALL PAUL ($2155 in chips)
+Seat 7: IAN ($1985 in chips)
+Seat 8: KENNY B ($1810 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to DOUG [Kc Td 9c 7d]
+Dealt to PRAVEENN [Jc 8c 5d 3c]
+Dealt to CHASE [9h 8h 5h 2h]
+Dealt to RAMJAM [As Qh 9d 5s]
+Dealt to IOWA MATT [Ks Jh Jd 9s]
+Dealt to KENNY B [Ad Qd 8d 4h]
+RAMJAM: folds
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $200 to $300
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+IOWA MATT: calls $200
+*** FLOP *** [2c 4c 2d]
+IOWA MATT: checks
+KENNY B: checks
+*** TURN *** [2c 4c 2d] [5c]
+IOWA MATT: checks
+KENNY B: checks
+*** RIVER *** [2c 4c 2d 5c] [7c]
+IOWA MATT: checks
+KENNY B: checks
+*** SHOW DOWN ***
+IOWA MATT: shows [Ks Jh Jd 9s]
+KENNY B: shows [Ad Qd 8d 4h]
+IOWA MATT collected $640 from pot
+*** SUMMARY ***
+Total pot $640 | Rake $0
+Board [2c 4c 2d 5c 7c]
+Seat 1: DOUG (small blind) folded before Flop
+Seat 2: PRAVEENN (big blind) folded before Flop
+Seat 3: CHASE folded before Flop
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT showed [Ks Jh Jd 9s] and won ($640)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN folded before Flop (didn't bet)
+Seat 8: KENNY B (button) showed [Ad Qd 8d 4h] and lost
+
+
+PokerStars Hand #2700000013:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:29:51 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: PRAVEENN ($3295 in chips)
+Seat 2: CHASE ($3830 in chips)
+Seat 3: RAMJAM ($3895 in chips)
+Seat 4: IOWA MATT ($7135 in chips)
+Seat 5: TALL PAUL ($2155 in chips)
+Seat 6: IAN ($1985 in chips)
+Seat 7: KENNY B ($1510 in chips)
+Seat 8: DOUG ($9175 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+IOWA MATT: posts straddle $50
+*** HOLE CARDS ***
+Dealt to PRAVEENN [9h 7c 4d 3d]
+Dealt to CHASE [Ac Kh 5c 3c]
+Dealt to RAMJAM [Ad Jh Td Tc]
+Dealt to IOWA MATT [Th 8h 4h 3s]
+Dealt to IAN [As Ts 8d 5d]
+Dealt to DOUG [Ah Ks 8s 2h]
+TALL PAUL: folds
+IAN: raises $150 to $200
+KENNY B: folds
+DOUG: calls $200
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: calls $175
+IOWA MATT: folds
+*** FLOP *** [7s Kd 6h]
+RAMJAM: checks
+IAN: checks
+DOUG: checks
+*** TURN *** [7s Kd 6h] [Qd]
+RAMJAM: checks
+IAN: checks
+DOUG: bets $200
+RAMJAM: raises $800 to $1000
+IAN: folds
+DOUG: folds
+Uncalled bet ($800) returned to RAMJAM
+RAMJAM collected $1065 from pot
+*** SUMMARY ***
+Total pot $1065 | Rake $0
+Board [7s Kd 6h Qd]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) folded before Flop
+Seat 3: RAMJAM collected ($1065)
+Seat 4: IOWA MATT folded before Flop
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded on the Turn
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: DOUG (button) folded on the Turn
+
+
+PokerStars Hand #2700000014:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:32:24 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: CHASE ($3825 in chips)
+Seat 2: RAMJAM ($4575 in chips)
+Seat 3: IOWA MATT ($7035 in chips)
+Seat 4: TALL PAUL ($2155 in chips)
+Seat 5: IAN ($1785 in chips)
+Seat 6: KENNY B ($2510 in chips)
+Seat 7: DOUG ($8775 in chips)
+Seat 8: PRAVEENN ($3195 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Ks 9s 5s 4d]
+Dealt to RAMJAM [9h 8c 3d 3c]
+Dealt to IOWA MATT [As Kh Tc 6d]
+Dealt to TALL PAUL [Ah Jc 9d 3h]
+Dealt to IAN [Qh 8s 6h 4h]
+Dealt to KENNY B [Qs 6s 6c 5c]
+Dealt to DOUG [Kc Jd 9c 4c]
+Dealt to PRAVEENN [Ad Qd 5h 2c]
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $75 to $100
+DOUG: folds
+PRAVEENN: calls $100
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: calls $75
+*** FLOP *** [7s Ts 4s]
+IOWA MATT: checks
+KENNY B: checks
+PRAVEENN: checks
+*** TURN *** [7s Ts 4s] [Td]
+IOWA MATT: bets $325
+KENNY B: calls $325
+PRAVEENN: folds
+*** RIVER *** [7s Ts 4s Td] [Ac]
+IOWA MATT: checks
+KENNY B: checks
+*** SHOW DOWN ***
+IOWA MATT: shows [As Kh Tc 6d]
+KENNY B: shows [Qs 6s 6c 5c]
+IOWA MATT collected $965 from pot
+*** SUMMARY ***
+Total pot $965 | Rake $0
+Board [7s Ts 4s Td Ac]
+Seat 1: CHASE (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: IOWA MATT showed [As Kh Tc 6d] and won ($965)
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded before Flop (didn't bet)
+Seat 6: KENNY B showed [Qs 6s 6c 5c] and lost
+Seat 7: DOUG folded before Flop (didn't bet)
+Seat 8: PRAVEENN (button) folded on the Turn
+
+
+PokerStars Hand #2700000016:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:36:43 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IOWA MATT ($7660 in chips)
+Seat 2: TALL PAUL ($2120 in chips)
+Seat 3: IAN ($1235 in chips)
+Seat 4: KENNY B ($2575 in chips)
+Seat 5: DOUG ($8775 in chips)
+Seat 6: PRAVEENN ($3145 in chips)
+Seat 7: CHASE ($3825 in chips)
+Seat 8: RAMJAM ($4520 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Qh 7s 6s 4h]
+Dealt to KENNY B [Jd Th 7d 3h]
+Dealt to DOUG [Ac 9s 8s 5d]
+Dealt to PRAVEENN [Kd Kc 9h 2c]
+Dealt to CHASE [Jc 9c 8h 2d]
+Dealt to RAMJAM [Ks 7h 6d 5s]
+DOUG: folds
+PRAVEENN: calls $50
+CHASE: folds
+RAMJAM: calls $50
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $25
+KENNY B: checks
+*** FLOP *** [Qc 7c 9d]
+IAN: checks
+KENNY B: checks
+PRAVEENN: bets $125
+RAMJAM: folds
+IAN: folds
+KENNY B: calls $125
+*** TURN *** [Qc 7c 9d] [8c]
+KENNY B: checks
+PRAVEENN: bets $325
+KENNY B: calls $325
+*** RIVER *** [Qc 7c 9d 8c] [5c]
+KENNY B: checks
+PRAVEENN: bets $800
+KENNY B: folds
+Uncalled bet ($800) returned to PRAVEENN
+PRAVEENN collected $1115 from pot
+*** SUMMARY ***
+Total pot $1115 | Rake $0
+Board [Qc 7c 9d 8c 5c]
+Seat 1: IOWA MATT (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded on the Flop
+Seat 4: KENNY B folded on the River
+Seat 5: DOUG folded before Flop (didn't bet)
+Seat 6: PRAVEENN collected ($1115)
+Seat 7: CHASE folded before Flop (didn't bet)
+Seat 8: RAMJAM (button) folded on the Flop
+
+
+PokerStars Hand #2700000017:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:39:21 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: TALL PAUL ($2115 in chips)
+Seat 2: IAN ($1225 in chips)
+Seat 3: KENNY B ($2100 in chips)
+Seat 4: DOUG ($8600 in chips)
+Seat 5: PRAVEENN ($3810 in chips)
+Seat 6: CHASE ($3825 in chips)
+Seat 7: RAMJAM ($4520 in chips)
+Seat 8: IOWA MATT ($7660 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+DOUG: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Kc 9s 9d 2d]
+Dealt to KENNY B [Ad 6c 5s 4d]
+Dealt to DOUG [Kd Js Jh 2h]
+Dealt to PRAVEENN [9c 6h 5c 3d]
+Dealt to CHASE [Ah Qd 8h 5d]
+Dealt to RAMJAM [Kh Tc 4c 3c]
+Dealt to IOWA MATT [Jd 9h 8c 3s]
+PRAVEENN: calls $50
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $125 to $175
+DOUG: calls $125
+PRAVEENN: calls $125
+*** FLOP *** [Qs 8s 7d]
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** TURN *** [Qs 8s 7d] [Th]
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** RIVER *** [Qs 8s 7d Th] [3h]
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** SHOW DOWN ***
+KENNY B: shows [Ad 6c 5s 4d]
+DOUG: shows [Kd Js Jh 2h]
+PRAVEENN: shows [9c 6h 5c 3d]
+PRAVEENN collected $540 from pot
+*** SUMMARY ***
+Total pot $540 | Rake $0
+Board [Qs 8s 7d Th 3h]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded before Flop
+Seat 3: KENNY B showed [Ad 6c 5s 4d] and lost
+Seat 4: DOUG showed [Kd Js Jh 2h] and lost
+Seat 5: PRAVEENN showed [9c 6h 5c 3d] and won ($540)
+Seat 6: CHASE folded before Flop (didn't bet)
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000018:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:41:35 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IAN ($2220 in chips)
+Seat 2: KENNY B ($1900 in chips)
+Seat 3: DOUG ($8550 in chips)
+Seat 4: PRAVEENN ($4125 in chips)
+Seat 5: CHASE ($3825 in chips)
+Seat 6: RAMJAM ($4520 in chips)
+Seat 7: IOWA MATT ($7660 in chips)
+Seat 8: TALL PAUL ($2115 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+DOUG: posts straddle $25
+PRAVEENN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Ac Qd 3d 3c]
+Dealt to KENNY B [Jh Th 9c 6h]
+Dealt to DOUG [Ah Jc 5h 4s]
+Dealt to PRAVEENN [As Js 8h 5s]
+Dealt to CHASE [Tc 9h 8s 4h]
+Dealt to RAMJAM [Qh 6s 6c 2s]
+Dealt to IOWA MATT [Jd 8c 7h 2h]
+Dealt to TALL PAUL [Ts 9s 9d 7c]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $45
+KENNY B: calls $40
+DOUG: calls $25
+PRAVEENN: raises $100 to $150
+IAN: calls $100
+KENNY B: calls $100
+DOUG: calls $100
+*** FLOP *** [8d 4d 3h]
+IAN: checks
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** TURN *** [8d 4d 3h] [3s]
+IAN: checks
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** RIVER *** [8d 4d 3h 3s] [Kd]
+IAN: checks
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** SHOW DOWN ***
+IAN: shows [Ac Qd 3d 3c]
+KENNY B: shows [Jh Th 9c 6h]
+DOUG: shows [Ah Jc 5h 4s]
+PRAVEENN: shows [As Js 8h 5s]
+IAN collected $600 from pot
+*** SUMMARY ***
+Total pot $600 | Rake $0
+Board [8d 4d 3h 3s Kd]
+Seat 1: IAN (small blind) showed [Ac Qd 3d 3c] and won ($600)
+Seat 2: KENNY B (big blind) showed [Jh Th 9c 6h] and lost
+Seat 3: DOUG showed [Ah Jc 5h 4s] and lost
+Seat 4: PRAVEENN showed [As Js 8h 5s] and lost
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000022:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:54:41 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: PRAVEENN ($3545 in chips)
+Seat 2: CHASE ($3740 in chips)
+Seat 3: RAMJAM ($7625 in chips)
+Seat 4: IOWA MATT ($9785 in chips)
+Seat 5: TALL PAUL ($1900 in chips)
+Seat 6: IAN ($2625 in chips)
+Seat 7: KENNY B ($3145 in chips)
+Seat 8: DOUG ($11365 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Ad Ac Ks 6d]
+Dealt to RAMJAM [Js Td 6s 4c]
+Dealt to IOWA MATT [7s 7d 5c 4d]
+Dealt to TALL PAUL [Kd Qh Qd 2s]
+Dealt to IAN [Th 9h 7h 2d]
+Dealt to KENNY B [Ts Tc 7c 4h]
+Dealt to DOUG [As Jd 5s 3d]
+IOWA MATT: raises $75 to $100
+TALL PAUL: calls $100
+IAN: folds
+KENNY B: calls $100
+DOUG: calls $100
+PRAVEENN: folds
+CHASE: raises $475 to $575
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+KENNY B: folds
+DOUG: calls $475
+*** FLOP *** [3c Kh 2h]
+CHASE: bets $1325
+DOUG: folds
+Uncalled bet ($1325) returned to CHASE
+CHASE collected $1480 from pot
+*** SUMMARY ***
+Total pot $1480 | Rake $0
+Board [3c Kh 2h]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) collected ($1480)
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT folded before Flop
+Seat 5: TALL PAUL folded before Flop
+Seat 6: IAN folded before Flop (didn't bet)
+Seat 7: KENNY B folded before Flop
+Seat 8: DOUG (button) folded on the Flop
+
+
+PokerStars Hand #2700000023:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 20:56:51 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: CHASE ($4650 in chips)
+Seat 2: RAMJAM ($7525 in chips)
+Seat 3: IOWA MATT ($9660 in chips)
+Seat 4: TALL PAUL ($1900 in chips)
+Seat 5: IAN ($2625 in chips)
+Seat 6: KENNY B ($3145 in chips)
+Seat 7: LOI ($2400 in chips)
+Seat 8: DOUG ($10890 in chips)
+Seat 9: PRAVEENN ($3445 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [9h 7c 6d 2s]
+Dealt to RAMJAM [Qh Qd Js 5s]
+Dealt to IOWA MATT [8h 7d 6s 5c]
+Dealt to IAN [Ks Kh 9d 2d]
+Dealt to KENNY B [Jd 8d 4s 4c]
+Dealt to LOI [Ah Qc 4h 4d]
+Dealt to DOUG [Qs Jc 7s 2h]
+Dealt to PRAVEENN [6h 5h 3d 2c]
+TALL PAUL: folds
+IAN: raises $75 to $100
+KENNY B: folds
+LOI: calls $100
+DOUG: folds
+PRAVEENN: calls $100
+CHASE: folds
+RAMJAM: calls $90
+IOWA MATT: calls $75
+*** FLOP *** [8c Ts 3h]
+RAMJAM: checks
+IOWA MATT: checks
+IAN: checks
+LOI: checks
+PRAVEENN: checks
+*** TURN *** [8c Ts 3h] [Ac]
+RAMJAM: checks
+IOWA MATT: checks
+IAN: checks
+LOI: bets $500
+PRAVEENN: folds
+RAMJAM: folds
+IOWA MATT: folds
+IAN: folds
+Uncalled bet ($500) returned to LOI
+LOI collected $505 from pot
+*** SUMMARY ***
+Total pot $505 | Rake $0
+Board [8c Ts 3h Ac]
+Seat 1: CHASE (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) folded on the Turn
+Seat 3: IOWA MATT folded on the Turn
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded on the Turn
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: LOI collected ($505)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: PRAVEENN (button) folded on the Turn
+
+
+PokerStars Hand #2700000024:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:00:11 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: RAMJAM ($7520 in chips)
+Seat 2: IOWA MATT ($9575 in chips)
+Seat 3: TALL PAUL ($1900 in chips)
+Seat 4: IAN ($2325 in chips)
+Seat 5: KENNY B ($3145 in chips)
+Seat 6: LOI ($2905 in chips)
+Seat 7: DOUG ($10890 in chips)
+Seat 8: PRAVEENN ($3245 in chips)
+Seat 9: CHASE ($4650 in chips)
+RAMJAM: posts small blind $5
+IOWA MATT: posts big blind $10
+TALL PAUL: posts straddle $25
+IAN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Jd Jc 3s 3d]
+Dealt to IAN [8h 7h 4s 4c]
+Dealt to KENNY B [9s 9h 6d 5d]
+Dealt to LOI [6h 5h 4h 2c]
+Dealt to DOUG [Kh Js Td 9d]
+Dealt to PRAVEENN [Ac Qh Tc 7s]
+Dealt to CHASE [Ad Jh 6c 5s]
+KENNY B: folds
+LOI: folds
+DOUG: raises $150 to $200
+PRAVEENN: calls $200
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $175
+IAN: calls $150
+*** FLOP *** [4d 8c Qs]
+TALL PAUL: checks
+IAN: checks
+DOUG: checks
+PRAVEENN: checks
+*** TURN *** [4d 8c Qs] [3h]
+TALL PAUL: bets $400
+IAN: calls $400
+DOUG: calls $400
+PRAVEENN: folds
+*** RIVER *** [4d 8c Qs 3h] [Kc]
+TALL PAUL: bets $1300 and is all-in
+IAN: calls $1300
+DOUG: folds
+*** SHOW DOWN ***
+TALL PAUL: shows [Jd Jc 3s 3d]
+IAN: shows [8h 7h 4s 4c]
+IAN collected $4615 from pot
+*** SUMMARY ***
+Total pot $4615 | Rake $0
+Board [4d 8c Qs 3h Kc]
+Seat 1: RAMJAM (small blind) folded before Flop
+Seat 2: IOWA MATT (big blind) folded before Flop
+Seat 3: TALL PAUL showed [Jd Jc 3s 3d] and lost
+Seat 4: IAN showed [8h 7h 4s 4c] and won ($4615)
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: LOI folded before Flop (didn't bet)
+Seat 7: DOUG folded on the River
+Seat 8: PRAVEENN folded on the Turn
+Seat 9: CHASE (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000025:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:03:21 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($9570 in chips)
+Seat 2: TALL PAUL ($1950 in chips)
+Seat 3: IAN ($5190 in chips)
+Seat 4: KENNY B ($3095 in chips)
+Seat 5: LOI ($2905 in chips)
+Seat 6: DOUG ($10290 in chips)
+Seat 7: PRAVEENN ($3195 in chips)
+Seat 8: CHASE ($4600 in chips)
+Seat 9: RAMJAM ($7520 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IOWA MATT [8s 8d 7d 6s]
+Dealt to TALL PAUL [Ad Td 5h 3c]
+Dealt to IAN [Ah Qc Tc 4s]
+Dealt to KENNY B [Qh 6d 6c 2d]
+Dealt to LOI [8h 7h 4c 2h]
+Dealt to DOUG [Jd Th 9h 6h]
+Dealt to PRAVEENN [As 9s 9c 7s]
+Dealt to CHASE [Ac Jh Jc 8c]
+Dealt to RAMJAM [Qs Js 7c 4h]
+LOI: folds
+DOUG: folds
+PRAVEENN: calls $50
+CHASE: calls $50
+RAMJAM: folds
+IOWA MATT: calls $45
+TALL PAUL: calls $40
+IAN: calls $25
+KENNY B: checks
+*** FLOP *** [Kd 2c 5s]
+IOWA MATT: checks
+TALL PAUL: checks
+IAN: checks
+KENNY B: checks
+PRAVEENN: checks
+CHASE: checks
+*** TURN *** [Kd 2c 5s] [4d]
+IOWA MATT: checks
+TALL PAUL: bets $100
+IAN: folds
+KENNY B: raises $500 to $600
+PRAVEENN: folds
+CHASE: folds
+IOWA MATT: calls $600
+TALL PAUL: calls $500
+*** RIVER *** [Kd 2c 5s 4d] [Kc]
+IOWA MATT: bets $2100
+TALL PAUL: folds
+KENNY B: folds
+Uncalled bet ($2100) returned to IOWA MATT
+IOWA MATT collected $2100 from pot
+*** SUMMARY ***
+Total pot $2100 | Rake $0
+Board [Kd 2c 5s 4d Kc]
+Seat 1: IOWA MATT (small blind) collected ($2100)
+Seat 2: TALL PAUL (big blind) folded on the River
+Seat 3: IAN folded on the Turn
+Seat 4: KENNY B folded on the River
+Seat 5: LOI folded before Flop (didn't bet)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: PRAVEENN folded on the Turn
+Seat 8: CHASE folded on the Turn
+Seat 9: RAMJAM (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000026:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:06:02 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($1345 in chips)
+Seat 2: IAN ($5165 in chips)
+Seat 3: KENNY B ($2470 in chips)
+Seat 4: LOI ($2905 in chips)
+Seat 5: DOUG ($10290 in chips)
+Seat 6: PRAVEENN ($3170 in chips)
+Seat 7: CHASE ($4600 in chips)
+Seat 8: RAMJAM ($7520 in chips)
+Seat 9: IOWA MATT ($11025 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+*** HOLE CARDS ***
+Dealt to IAN [Kh Jh 9d 5s]
+Dealt to KENNY B [8h 4s 3s 2s]
+Dealt to LOI [Ks Qh Qd 7d]
+Dealt to PRAVEENN [Kd 6c 4c 2c]
+Dealt to CHASE [Ad 9h 6h 6d]
+Dealt to RAMJAM [Tc 7h 5d 3c]
+Dealt to IOWA MATT [Qs 9s 7s 2d]
+LOI: calls $25
+DOUG: folds
+PRAVEENN: calls $25
+CHASE: calls $25
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $15
+KENNY B: checks
+*** FLOP *** [4d 6s 8s]
+IAN: checks
+KENNY B: checks
+LOI: checks
+PRAVEENN: checks
+CHASE: bets $100
+IAN: folds
+KENNY B: calls $100
+LOI: calls $100
+PRAVEENN: calls $100
+*** TURN *** [4d 6s 8s] [7c]
+KENNY B: checks
+LOI: checks
+PRAVEENN: checks
+CHASE: checks
+*** RIVER *** [4d 6s 8s 7c] [Kc]
+KENNY B: checks
+LOI: checks
+PRAVEENN: checks
+CHASE: checks
+*** SHOW DOWN ***
+KENNY B: shows [8h 4s 3s 2s]
+LOI: shows [Ks Qh Qd 7d]
+PRAVEENN: shows [Kd 6c 4c 2c]
+CHASE: shows [Ad 9h 6h 6d]
+CHASE collected $530 from pot
+*** SUMMARY ***
+Total pot $530 | Rake $0
+Board [4d 6s 8s 7c Kc]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded on the Flop
+Seat 3: KENNY B showed [8h 4s 3s 2s] and lost
+Seat 4: LOI showed [Ks Qh Qd 7d] and lost
+Seat 5: DOUG folded before Flop (didn't bet)
+Seat 6: PRAVEENN showed [Kd 6c 4c 2c] and lost
+Seat 7: CHASE showed [Ad 9h 6h 6d] and won ($530)
+Seat 8: RAMJAM folded before Flop (didn't bet)
+Seat 9: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000027:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:08:37 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IAN ($5160 in chips)
+Seat 2: KENNY B ($2360 in chips)
+Seat 3: LOI ($2755 in chips)
+Seat 4: DOUG ($10265 in chips)
+Seat 5: PRAVEENN ($3045 in chips)
+Seat 6: CHASE ($5005 in chips)
+Seat 7: RAMJAM ($7520 in chips)
+Seat 8: IOWA MATT ($11025 in chips)
+Seat 9: TALL PAUL ($1320 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+LOI: posts straddle $25
+*** HOLE CARDS ***
+Dealt to IAN [Qs 9d 7c 6d]
+Dealt to KENNY B [Qc 8h 4h 2s]
+Dealt to LOI [Kd Td 2d 2c]
+Dealt to DOUG [Qh Jc Tc 6h]
+Dealt to PRAVEENN [9h 6c 5d 3s]
+Dealt to CHASE [Js Th 7h 5c]
+Dealt to RAMJAM [Ah 5h 3c 2h]
+Dealt to IOWA MATT [Qd 7s 6s 3h]
+Dealt to TALL PAUL [Ad Kh 9c 3d]
+DOUG: calls $25
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: folds
+KENNY B: calls $15
+LOI: checks
+*** FLOP *** [7d As 8d]
+KENNY B: checks
+LOI: checks
+DOUG: checks
+PRAVEENN: bets $150
+TALL PAUL: calls $150
+KENNY B: folds
+LOI: calls $150
+DOUG: folds
+*** TURN *** [7d As 8d] [8s]
+LOI: checks
+PRAVEENN: checks
+TALL PAUL: checks
+*** RIVER *** [7d As 8d 8s] [4s]
+LOI: bets $600
+PRAVEENN: calls $600
+TALL PAUL: folds
+*** SHOW DOWN ***
+LOI: shows [Kd Td 2d 2c]
+PRAVEENN: shows [9h 6c 5d 3s]
+PRAVEENN collected $1780 from pot
+*** SUMMARY ***
+Total pot $1780 | Rake $0
+Board [7d As 8d 8s 4s]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded on the Flop
+Seat 3: LOI showed [Kd Td 2d 2c] and lost
+Seat 4: DOUG folded on the Flop
+Seat 5: PRAVEENN showed [9h 6c 5d 3s] and won ($1780)
+Seat 6: CHASE folded before Flop (didn't bet)
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: TALL PAUL (button) folded on the River
+
+
+PokerStars Hand #2700000028:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:11:44 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: KENNY B ($2320 in chips)
+Seat 2: LOI ($1995 in chips)
+Seat 3: DOUG ($10240 in chips)
+Seat 4: PRAVEENN ($4075 in chips)
+Seat 5: CHASE ($5005 in chips)
+Seat 6: RAMJAM ($7495 in chips)
+Seat 7: IOWA MATT ($11025 in chips)
+Seat 8: TALL PAUL ($1170 in chips)
+Seat 9: IAN ($5160 in chips)
+KENNY B: posts small blind $5
+LOI: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Kd 4s 4d 2s]
+Dealt to LOI [Ad Td 6d 6c]
+Dealt to DOUG [Kh Qh 9h 6s]
+Dealt to PRAVEENN [Ah 7h 5c 3h]
+Dealt to CHASE [Js Tc 5h 3s]
+Dealt to RAMJAM [Ac Kc 9s 7s]
+Dealt to IOWA MATT [Qc Ts 5s 4c]
+Dealt to IAN [As Ks 8s 4h]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: calls $25
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $20
+LOI: calls $15
+DOUG: checks
+*** FLOP *** [2h 8c Jh]
+KENNY B: checks
+LOI: checks
+DOUG: bets $100
+PRAVEENN: calls $100
+RAMJAM: folds
+KENNY B: folds
+LOI: folds
+*** TURN *** [2h 8c Jh] [Qs]
+DOUG: checks
+PRAVEENN: bets $325
+DOUG: calls $325
+*** RIVER *** [2h 8c Jh Qs] [9c]
+DOUG: bets $25
+PRAVEENN: folds
+Uncalled bet ($25) returned to DOUG
+DOUG collected $975 from pot
+*** SUMMARY ***
+Total pot $975 | Rake $0
+Board [2h 8c Jh Qs 9c]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: LOI (big blind) folded on the Flop
+Seat 3: DOUG collected ($975)
+Seat 4: PRAVEENN folded on the River
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded on the Flop
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000029:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:14:41 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: LOI ($1975 in chips)
+Seat 2: DOUG ($10590 in chips)
+Seat 3: PRAVEENN ($3600 in chips)
+Seat 4: CHASE ($4955 in chips)
+Seat 5: RAMJAM ($7495 in chips)
+Seat 6: IOWA MATT ($11025 in chips)
+Seat 7: TALL PAUL ($1170 in chips)
+Seat 8: IAN ($5160 in chips)
+Seat 9: KENNY B ($2320 in chips)
+LOI: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+CHASE: posts straddle $50
+*** HOLE CARDS ***
+Dealt to LOI [Qh Ts 8h 6h]
+Dealt to DOUG [Kc Jd 9c 7d]
+Dealt to PRAVEENN [Ah Tc 5s 3c]
+Dealt to RAMJAM [6s 4s 2s 2d]
+Dealt to IOWA MATT [Ad Kh 9h 5c]
+Dealt to TALL PAUL [Ac Ks Js 5d]
+Dealt to IAN [Jh 8d 6d 3h]
+Dealt to KENNY B [Qc 4d 4c 2c]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: raises $150 to $200
+IAN: folds
+KENNY B: folds
+LOI: folds
+DOUG: calls $190
+PRAVEENN: folds
+CHASE: folds
+*** FLOP *** [Qd 3d 7h]
+DOUG: checks
+TALL PAUL: checks
+*** TURN *** [Qd 3d 7h] [6c]
+DOUG: bets $500
+TALL PAUL: folds
+Uncalled bet ($500) returned to DOUG
+DOUG collected $480 from pot
+*** SUMMARY ***
+Total pot $480 | Rake $0
+Board [Qd 3d 7h 6c]
+Seat 1: LOI (small blind) folded before Flop
+Seat 2: DOUG (big blind) collected ($480)
+Seat 3: PRAVEENN folded before Flop
+Seat 4: CHASE folded before Flop
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the Turn
+Seat 8: IAN folded before Flop (didn't bet)
+Seat 9: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000030:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:16:52 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: DOUG ($11065 in chips)
+Seat 2: PRAVEENN ($3590 in chips)
+Seat 3: CHASE ($4855 in chips)
+Seat 4: RAMJAM ($7495 in chips)
+Seat 5: IOWA MATT ($11025 in chips)
+Seat 6: TALL PAUL ($2970 in chips)
+Seat 7: IAN ($5160 in chips)
+Seat 8: KENNY B ($2320 in chips)
+Seat 9: LOI ($1975 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to DOUG [Kh Qd 9s 3h]
+Dealt to PRAVEENN [8c 7s 6h 5c]
+Dealt to CHASE [9h 9d 8h 5d]
+Dealt to RAMJAM [Qc Jh 3s 2s]
+Dealt to IAN [Kc Ts 8s 8d]
+Dealt to KENNY B [Ac 7d 5h 2h]
+Dealt to LOI [As Ks 7c 4h]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: raises $75 to $100
+KENNY B: folds
+LOI: calls $100
+DOUG: folds
+PRAVEENN: calls $90
+CHASE: calls $75
+*** FLOP *** [6c Kd Ah]
+PRAVEENN: checks
+CHASE: checks
+IAN: checks
+LOI: bets $400
+PRAVEENN: folds
+CHASE: folds
+IAN: folds
+Uncalled bet ($400) returned to LOI
+LOI collected $405 from pot
+*** SUMMARY ***
+Total pot $405 | Rake $0
+Board [6c Kd Ah]
+Seat 1: DOUG (small blind) folded before Flop
+Seat 2: PRAVEENN (big blind) folded on the Flop
+Seat 3: CHASE folded on the Flop
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN folded on the Flop
+Seat 8: KENNY B folded before Flop (didn't bet)
+Seat 9: LOI (button) collected ($405)
+
+
+PokerStars Hand #2700000031:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:18:43 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: PRAVEENN ($3400 in chips)
+Seat 2: CHASE ($4845 in chips)
+Seat 3: RAMJAM ($7470 in chips)
+Seat 4: IOWA MATT ($11025 in chips)
+Seat 5: TALL PAUL ($2970 in chips)
+Seat 6: IAN ($5060 in chips)
+Seat 7: KENNY B ($2320 in chips)
+Seat 8: LOI ($2280 in chips)
+Seat 9: DOUG ($11065 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Ad Ts 9d 2h]
+Dealt to CHASE [Kc Jh Td 7d]
+Dealt to RAMJAM [Kd 3d 3c 2d]
+Dealt to IOWA MATT [Kh Th 8d 2c]
+Dealt to TALL PAUL [As Tc 9h 6d]
+Dealt to IAN [Jd 7h 4s 4h]
+Dealt to KENNY B [Ks Qd 7c 2s]
+Dealt to LOI [Ac 9s 8h 7s]
+Dealt to DOUG [Qc 9c 6s 3s]
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+LOI: calls $25
+DOUG: calls $25
+PRAVEENN: raises $75 to $100
+CHASE: calls $90
+RAMJAM: folds
+LOI: calls $75
+DOUG: calls $75
+*** FLOP *** [6c 5s 6h]
+PRAVEENN: checks
+CHASE: checks
+LOI: bets $350
+DOUG: calls $350
+PRAVEENN: folds
+CHASE: folds
+*** TURN *** [6c 5s 6h] [5c]
+LOI: checks
+DOUG: checks
+*** RIVER *** [6c 5s 6h 5c] [Ah]
+LOI: checks
+DOUG: checks
+*** SHOW DOWN ***
+LOI: shows [Ac 9s 8h 7s]
+DOUG: shows [Qc 9c 6s 3s]
+DOUG collected $1125 from pot
+*** SUMMARY ***
+Total pot $1125 | Rake $0
+Board [6c 5s 6h 5c Ah]
+Seat 1: PRAVEENN (small blind) folded on the Flop
+Seat 2: CHASE (big blind) folded on the Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT folded before Flop (didn't bet)
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded before Flop (didn't bet)
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: LOI showed [Ac 9s 8h 7s] and lost
+Seat 9: DOUG (button) showed [Qc 9c 6s 3s] and won ($1125)
+
+
+PokerStars Hand #2700000032:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:21:07 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: CHASE ($4750 in chips)
+Seat 2: RAMJAM ($7460 in chips)
+Seat 3: IOWA MATT ($11000 in chips)
+Seat 4: TALL PAUL ($2970 in chips)
+Seat 5: IAN ($5060 in chips)
+Seat 6: KENNY B ($2320 in chips)
+Seat 7: LOI ($1830 in chips)
+Seat 8: DOUG ($11740 in chips)
+Seat 9: PRAVEENN ($3400 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Kh Jd 7c 5c]
+Dealt to RAMJAM [5d 3d 2s 2c]
+Dealt to IOWA MATT [7s 4d 2h 2d]
+Dealt to TALL PAUL [Ks Jh 9h 9c]
+Dealt to IAN [As Ah 6c 3h]
+Dealt to KENNY B [Ts Td 7h 5s]
+Dealt to LOI [Kd Qh Qc 9d]
+Dealt to DOUG [Qs Qd 4h 3c]
+Dealt to PRAVEENN [Jc Tc 8c 6s]
+TALL PAUL: calls $25
+IAN: folds
+KENNY B: calls $25
+LOI: raises $50 to $75
+DOUG: folds
+PRAVEENN: calls $75
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $50
+KENNY B: calls $50
+*** FLOP *** [8h 9s 6d]
+TALL PAUL: checks
+KENNY B: bets $150
+LOI: calls $150
+PRAVEENN: calls $150
+TALL PAUL: calls $150
+*** TURN *** [8h 9s 6d] [8s]
+TALL PAUL: checks
+KENNY B: checks
+LOI: checks
+PRAVEENN: bets $400
+TALL PAUL: calls $400
+KENNY B: folds
+LOI: calls $400
+*** RIVER *** [8h 9s 6d 8s] [4s]
+TALL PAUL: bets $1325
+LOI: folds
+PRAVEENN: calls $1325
+*** SHOW DOWN ***
+TALL PAUL: shows [Ks Jh 9h 9c]
+PRAVEENN: shows [Jc Tc 8c 6s]
+TALL PAUL collected $4790 from pot
+*** SUMMARY ***
+Total pot $4790 | Rake $0
+Board [8h 9s 6d 8s 4s]
+Seat 1: CHASE (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: IOWA MATT folded before Flop
+Seat 4: TALL PAUL showed [Ks Jh 9h 9c] and won ($4790)
+Seat 5: IAN folded before Flop (didn't bet)
+Seat 6: KENNY B folded on the Turn
+Seat 7: LOI folded on the River
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: PRAVEENN (button) showed [Jc Tc 8c 6s] and lost
+
+
+PokerStars Hand #2700000033:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:25:07 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: RAMJAM ($7455 in chips)
+Seat 2: IOWA MATT ($10990 in chips)
+Seat 3: TALL PAUL ($5785 in chips)
+Seat 4: IAN ($5010 in chips)
+Seat 5: KENNY B ($2095 in chips)
+Seat 6: LOI ($3655 in chips)
+Seat 7: DOUG ($11690 in chips)
+Seat 8: PRAVEENN ($1400 in chips)
+Seat 9: CHASE ($4750 in chips)
+RAMJAM: posts small blind $5
+IOWA MATT: posts big blind $10
+TALL PAUL: posts straddle $25
+IAN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to RAMJAM [Ac 7s 5c 4h]
+Dealt to IOWA MATT [Qh Jd 3d 3c]
+Dealt to IAN [Ks Th 4d 2s]
+Dealt to KENNY B [Td 9s 6s 6d]
+Dealt to LOI [As Kc 7h 6c]
+Dealt to DOUG [9c 8s 7c 5d]
+Dealt to PRAVEENN [Qs 6h 4s 2c]
+Dealt to CHASE [Kh Jc 4c 3s]
+KENNY B: calls $50
+LOI: calls $50
+DOUG: calls $50
+PRAVEENN: calls $50
+CHASE: folds
+RAMJAM: calls $45
+IOWA MATT: calls $40
+TALL PAUL: folds
+IAN: checks
+*** FLOP *** [Js 9d Ah]
+RAMJAM: checks
+IOWA MATT: checks
+IAN: checks
+KENNY B: checks
+LOI: checks
+DOUG: checks
+PRAVEENN: checks
+*** TURN *** [Js 9d Ah] [8c]
+RAMJAM: checks
+IOWA MATT: checks
+IAN: checks
+KENNY B: checks
+LOI: checks
+DOUG: checks
+PRAVEENN: folds
+*** RIVER *** [Js 9d Ah 8c] [Tc]
+RAMJAM: checks
+IOWA MATT: bets $150
+IAN: folds
+KENNY B: folds
+LOI: calls $150
+DOUG: folds
+RAMJAM: folds
+*** SHOW DOWN ***
+IOWA MATT: shows [Qh Jd 3d 3c]
+LOI: shows [As Kc 7h 6c]
+IOWA MATT collected $675 from pot
+*** SUMMARY ***
+Total pot $675 | Rake $0
+Board [Js 9d Ah 8c Tc]
+Seat 1: RAMJAM (small blind) folded on the River
+Seat 2: IOWA MATT (big blind) showed [Qh Jd 3d 3c] and won ($675)
+Seat 3: TALL PAUL folded before Flop
+Seat 4: IAN folded on the River
+Seat 5: KENNY B folded on the River
+Seat 6: LOI showed [As Kc 7h 6c] and lost
+Seat 7: DOUG folded on the River
+Seat 8: PRAVEENN folded on the Turn
+Seat 9: CHASE (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000034:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:28:18 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($11470 in chips)
+Seat 2: TALL PAUL ($5775 in chips)
+Seat 3: IAN ($4860 in chips)
+Seat 4: KENNY B ($2895 in chips)
+Seat 5: LOI ($3505 in chips)
+Seat 6: DOUG ($11540 in chips)
+Seat 7: PRAVEENN ($1250 in chips)
+Seat 8: CHASE ($4750 in chips)
+Seat 9: RAMJAM ($7410 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IOWA MATT [Ah Qh 8c 6d]
+Dealt to TALL PAUL [As Kd 8h 5d]
+Dealt to IAN [Jc Td 9c 4d]
+Dealt to KENNY B [9s 9d 3d 2h]
+Dealt to LOI [Qs 6h 3c 2c]
+Dealt to DOUG [Ac Js Ts 9h]
+Dealt to PRAVEENN [8s 7d 7c 4h]
+Dealt to CHASE [Ad Ks 6c 2s]
+LOI: folds
+DOUG: raises $100 to $150
+PRAVEENN: calls $150
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $125
+KENNY B: calls $100
+*** FLOP *** [Kh Jh Qd]
+IAN: checks
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+*** TURN *** [Kh Jh Qd] [8d]
+IAN: bets $500
+KENNY B: folds
+DOUG: raises $800 to $1300
+PRAVEENN: folds
+IAN: folds
+Uncalled bet ($800) returned to DOUG
+DOUG collected $1615 from pot
+*** SUMMARY ***
+Total pot $1615 | Rake $0
+Board [Kh Jh Qd 8d]
+Seat 1: IOWA MATT (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded on the Turn
+Seat 4: KENNY B folded on the Turn
+Seat 5: LOI folded before Flop (didn't bet)
+Seat 6: DOUG collected ($1615)
+Seat 7: PRAVEENN folded on the Turn
+Seat 8: CHASE folded before Flop (didn't bet)
+Seat 9: RAMJAM (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000035:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:31:57 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($5770 in chips)
+Seat 2: IAN ($4310 in chips)
+Seat 3: KENNY B ($2845 in chips)
+Seat 4: LOI ($3455 in chips)
+Seat 5: DOUG ($12655 in chips)
+Seat 6: PRAVEENN ($1200 in chips)
+Seat 7: CHASE ($4750 in chips)
+Seat 8: RAMJAM ($7410 in chips)
+Seat 9: IOWA MATT ($11470 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+LOI: posts straddle $50
+*** HOLE CARDS ***
+Dealt to TALL PAUL [8c 6h 5c 2d]
+Dealt to IAN [Kh Jc Th 4d]
+Dealt to KENNY B [Qc 9h 8s 6d]
+Dealt to LOI [Ad Kc 6c 5s]
+Dealt to DOUG [Td 8h 7h 3s]
+Dealt to PRAVEENN [Ac Qd 4c 2c]
+Dealt to CHASE [Js 9c 4s 2h]
+Dealt to RAMJAM [Qs Tc 5h 3c]
+Dealt to IOWA MATT [Jh 8d 6s 4h]
+DOUG: folds
+PRAVEENN: calls $50
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $40
+KENNY B: calls $25
+LOI: checks
+*** FLOP *** [7s As Qh]
+IAN: checks
+KENNY B: checks
+LOI: bets $225
+PRAVEENN: calls $225
+IAN: calls $225
+KENNY B: folds
+*** TURN *** [7s As Qh] [7c]
+IAN: checks
+LOI: bets $900
+PRAVEENN: folds
+IAN: folds
+Uncalled bet ($900) returned to LOI
+LOI collected $880 from pot
+*** SUMMARY ***
+Total pot $880 | Rake $0
+Board [7s As Qh 7c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded on the Turn
+Seat 3: KENNY B folded on the Flop
+Seat 4: LOI collected ($880)
+Seat 5: DOUG folded before Flop (didn't bet)
+Seat 6: PRAVEENN folded on the Turn
+Seat 7: CHASE folded before Flop (didn't bet)
+Seat 8: RAMJAM folded before Flop (didn't bet)
+Seat 9: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000036:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:33:24 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IAN ($4060 in chips)
+Seat 2: KENNY B ($2835 in chips)
+Seat 3: LOI ($4085 in chips)
+Seat 4: DOUG ($12655 in chips)
+Seat 5: PRAVEENN ($950 in chips)
+Seat 6: CHASE ($4750 in chips)
+Seat 7: RAMJAM ($7410 in chips)
+Seat 8: IOWA MATT ($11470 in chips)
+Seat 9: TALL PAUL ($5745 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+LOI: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Ac Js 7s 2d]
+Dealt to LOI [As Ad 4c 3c]
+Dealt to DOUG [Qc Ts 6s 6h]
+Dealt to PRAVEENN [9s 8c 3h 2s]
+Dealt to CHASE [Kd 8s 7d 3d]
+Dealt to RAMJAM [Ks Qd 5s 3s]
+Dealt to IOWA MATT [Qs Jh 9c 6d]
+Dealt to TALL PAUL [Tc 8h 6c 4h]
+DOUG: folds
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: calls $20
+KENNY B: folds
+LOI: raises $75 to $100
+PRAVEENN: calls $75
+TALL PAUL: calls $75
+IAN: calls $75
+*** FLOP *** [9d Qh 5d]
+IAN: checks
+LOI: checks
+PRAVEENN: checks
+TALL PAUL: checks
+*** TURN *** [9d Qh 5d] [7h]
+IAN: checks
+LOI: checks
+PRAVEENN: checks
+TALL PAUL: bets $425
+IAN: folds
+LOI: folds
+PRAVEENN: folds
+Uncalled bet ($425) returned to TALL PAUL
+TALL PAUL collected $410 from pot
+*** SUMMARY ***
+Total pot $410 | Rake $0
+Board [9d Qh 5d 7h]
+Seat 1: IAN (small blind) folded on the Turn
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: LOI folded on the Turn
+Seat 4: DOUG folded before Flop (didn't bet)
+Seat 5: PRAVEENN folded on the Turn
+Seat 6: CHASE folded before Flop (didn't bet)
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: TALL PAUL (button) collected ($410)
+
+
+PokerStars Hand #2700000037:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:35:43 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: KENNY B ($2830 in chips)
+Seat 2: LOI ($4000 in chips)
+Seat 3: DOUG ($12530 in chips)
+Seat 4: PRAVEENN ($850 in chips)
+Seat 5: CHASE ($4750 in chips)
+Seat 6: RAMJAM ($7410 in chips)
+Seat 7: IOWA MATT ($11470 in chips)
+Seat 8: TALL PAUL ($6080 in chips)
+Seat 9: IAN ($3985 in chips)
+KENNY B: posts small blind $5
+LOI: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Qd Qc 7d 2c]
+Dealt to LOI [Th 7c 5h 4h]
+Dealt to DOUG [Qs Tc 9s 9d]
+Dealt to PRAVEENN [Jh 7h 6h 3h]
+Dealt to CHASE [Ah Ac Kh Js]
+Dealt to RAMJAM [Jd 5d 3d 3c]
+Dealt to IOWA MATT [Ad Qh Jc 6c]
+Dealt to TALL PAUL [Ts 8c 7s 5c]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: calls $25
+IOWA MATT: raises $100 to $125
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $120
+LOI: calls $115
+DOUG: calls $100
+PRAVEENN: calls $100
+RAMJAM: folds
+*** FLOP *** [8d 4d 8s]
+KENNY B: checks
+LOI: checks
+DOUG: checks
+PRAVEENN: checks
+IOWA MATT: checks
+*** TURN *** [8d 4d 8s] [2h]
+KENNY B: checks
+LOI: bets $400
+DOUG: folds
+PRAVEENN: folds
+IOWA MATT: folds
+KENNY B: calls $400
+*** RIVER *** [8d 4d 8s 2h] [5s]
+KENNY B: checks
+LOI: bets $1450
+KENNY B: folds
+Uncalled bet ($1450) returned to LOI
+LOI collected $1450 from pot
+*** SUMMARY ***
+Total pot $1450 | Rake $0
+Board [8d 4d 8s 2h 5s]
+Seat 1: KENNY B (small blind) folded on the River
+Seat 2: LOI (big blind) collected ($1450)
+Seat 3: DOUG folded on the Turn
+Seat 4: PRAVEENN folded on the Turn
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop
+Seat 7: IOWA MATT folded on the Turn
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000038:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:38:39 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: LOI ($4930 in chips)
+Seat 2: DOUG ($12520 in chips)
+Seat 3: PRAVEENN ($1225 in chips)
+Seat 4: CHASE ($4750 in chips)
+Seat 5: RAMJAM ($7360 in chips)
+Seat 6: IOWA MATT ($11345 in chips)
+Seat 7: TALL PAUL ($6080 in chips)
+Seat 8: IAN ($3985 in chips)
+Seat 9: KENNY B ($2310 in chips)
+LOI: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to LOI [7c 6s 6d 5c]
+Dealt to DOUG [Jd 9s 9h 7h]
+Dealt to CHASE [Ac Qh 3s 2c]
+Dealt to RAMJAM [6h 4h 4d 3d]
+Dealt to IOWA MATT [Kh Qc Js Tc]
+Dealt to TALL PAUL [Ah Td 5h 3c]
+Dealt to IAN [Jh 7s 5s 3h]
+Dealt to KENNY B [Kc Qd 9d 8c]
+CHASE: folds
+RAMJAM: calls $25
+IOWA MATT: raises $100 to $125
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $275 to $400
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+RAMJAM: folds
+IOWA MATT: calls $275
+*** FIRST FLOP *** [2s 8h 7d]
+IOWA MATT: checks
+KENNY B: bets $500
+IOWA MATT: calls $500
+*** FIRST TURN *** [2s 8h 7d] [5d]
+IOWA MATT: bets $1875
+KENNY B: calls $1410 and is all-in
+*** FIRST RIVER *** [2s 8h 7d 5d] [Ts]
+*** SECOND RIVER *** [2s 8h 7d 5d] [4c]
+*** FIRST SHOW DOWN ***
+IOWA MATT: shows [Kh Qc Js Tc]
+KENNY B: shows [Kc Qd 9d 8c]
+IOWA MATT collected $2805 from pot
+KENNY B collected $2345 from pot
+*** SECOND SHOW DOWN ***
+IOWA MATT: shows [Kh Qc Js Tc]
+KENNY B: shows [Kc Qd 9d 8c]
+*** SUMMARY ***
+Total pot $5150 | Rake $0
+Hand was run twice
+FIRST Board [2s 8h 7d 5d Ts]
+SECOND Board [2s 8h 7d 5d 4c]
+Seat 1: LOI (small blind) folded before Flop
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded before Flop
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded before Flop
+Seat 6: IOWA MATT showed [Kh Qc Js Tc] and won ($2805)
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IAN folded before Flop (didn't bet)
+Seat 9: KENNY B (button) showed [Kc Qd 9d 8c] and won ($2345)
+
+
+PokerStars Hand #2700000040:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:44:46 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: DOUG ($12465 in chips)
+Seat 2: PRAVEENN ($1040 in chips)
+Seat 3: CHASE ($4675 in chips)
+Seat 4: RAMJAM ($7360 in chips)
+Seat 5: IOWA MATT ($11650 in chips)
+Seat 6: TALL PAUL ($6030 in chips)
+Seat 7: IAN ($3810 in chips)
+Seat 8: KENNY B ($2620 in chips)
+Seat 9: LOI ($4880 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Td 9c 5d 2d]
+Dealt to RAMJAM [Jh 7h 6h 3c]
+Dealt to IAN [Kh Tc 9s 7c]
+Dealt to KENNY B [Ad Kc Jd 8h]
+Dealt to LOI [Ks Qd 8s 6s]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: raises $75 to $100
+KENNY B: raises $150 to $250
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+IAN: calls $150
+*** FLOP *** [Ts Js 4d]
+IAN: checks
+KENNY B: checks
+*** TURN *** [Ts Js 4d] [5c]
+IAN: checks
+KENNY B: checks
+*** RIVER *** [Ts Js 4d 5c] [3d]
+IAN: checks
+KENNY B: checks
+*** SHOW DOWN ***
+IAN: shows [Kh Tc 9s 7c]
+KENNY B: shows [Ad Kc Jd 8h]
+KENNY B collected $540 from pot
+*** SUMMARY ***
+Total pot $540 | Rake $0
+Board [Ts Js 4d 5c 3d]
+Seat 1: DOUG (small blind) folded before Flop
+Seat 2: PRAVEENN (big blind) folded before Flop
+Seat 3: CHASE folded before Flop
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN showed [Kh Tc 9s 7c] and lost
+Seat 8: KENNY B showed [Ad Kc Jd 8h] and won ($540)
+Seat 9: LOI (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000041:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:48:21 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: PRAVEENN ($940 in chips)
+Seat 2: CHASE ($4665 in chips)
+Seat 3: RAMJAM ($7260 in chips)
+Seat 4: IOWA MATT ($11650 in chips)
+Seat 5: TALL PAUL ($6030 in chips)
+Seat 6: IAN ($3460 in chips)
+Seat 7: KENNY B ($2910 in chips)
+Seat 8: LOI ($4880 in chips)
+Seat 9: DOUG ($12465 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Ks 8d 6h 2s]
+Dealt to CHASE [7c 6d 6c 2d]
+Dealt to RAMJAM [Ac Qh 9h 2c]
+Dealt to IOWA MATT [Ts Th 5c 4d]
+Dealt to IAN [Ah Kc Qs Qc]
+Dealt to KENNY B [Kd Td 4h 2h]
+Dealt to LOI [9d 8c 3h 3c]
+Dealt to DOUG [Js 4s 3s 3d]
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+IAN: calls $100
+KENNY B: folds
+LOI: folds
+DOUG: folds
+PRAVEENN: calls $95
+CHASE: calls $90
+RAMJAM: calls $75
+*** FLOP *** [Jc 5h 9s]
+PRAVEENN: checks
+CHASE: checks
+RAMJAM: checks
+IOWA MATT: bets $400
+IAN: folds
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: folds
+Uncalled bet ($400) returned to IOWA MATT
+IOWA MATT collected $500 from pot
+*** SUMMARY ***
+Total pot $500 | Rake $0
+Board [Jc 5h 9s]
+Seat 1: PRAVEENN (small blind) folded on the Flop
+Seat 2: CHASE (big blind) folded on the Flop
+Seat 3: RAMJAM folded on the Flop
+Seat 4: IOWA MATT collected ($500)
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded on the Flop
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: LOI folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000044:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 21:55:26 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($11935 in chips)
+Seat 2: TALL PAUL ($5970 in chips)
+Seat 3: IAN ($3385 in chips)
+Seat 4: KENNY B ($5825 in chips)
+Seat 5: LOI ($1970 in chips)
+Seat 6: DOUG ($12465 in chips)
+Seat 7: PRAVEENN ($840 in chips)
+Seat 8: CHASE ($4570 in chips)
+Seat 9: RAMJAM ($7520 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to KENNY B [Qd 8h 3d 2h]
+Dealt to LOI [Kh 9s 7d 4d]
+Dealt to DOUG [Ts 8c 5c 3c]
+Dealt to PRAVEENN [Ah Kd 7h 5s]
+Dealt to CHASE [8s 7s 6s 5h]
+Dealt to RAMJAM [Ks Kc Qs Th]
+LOI: folds
+DOUG: folds
+PRAVEENN: calls $50
+CHASE: raises $200 to $250
+RAMJAM: calls $250
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+PRAVEENN: calls $200
+*** FLOP *** [Td 6d Js]
+PRAVEENN: checks
+CHASE: checks
+RAMJAM: checks
+*** TURN *** [Td 6d Js] [Qc]
+PRAVEENN: bets $590 and is all-in
+CHASE: folds
+RAMJAM: calls $590
+*** RIVER *** [Td 6d Js Qc] [6c]
+*** SHOW DOWN ***
+PRAVEENN: shows [Ah Kd 7h 5s]
+RAMJAM: shows [Ks Kc Qs Th]
+PRAVEENN collected $2020 from pot
+*** SUMMARY ***
+Total pot $2020 | Rake $0
+Board [Td 6d Js Qc 6c]
+Seat 1: IOWA MATT (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded before Flop
+Seat 4: KENNY B folded before Flop
+Seat 5: LOI folded before Flop (didn't bet)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: PRAVEENN showed [Ah Kd 7h 5s] and won ($2020)
+Seat 8: CHASE folded on the Turn
+Seat 9: RAMJAM (button) showed [Ks Kc Qs Th] and lost
+
+
+PokerStars Hand #2700000046:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:01:12 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IAN ($1360 in chips)
+Seat 2: KENNY B ($5790 in chips)
+Seat 3: LOI ($4395 in chips)
+Seat 4: DOUG ($12415 in chips)
+Seat 5: PRAVEENN ($6440 in chips)
+Seat 6: CHASE ($3970 in chips)
+Seat 7: RAMJAM ($6680 in chips)
+Seat 8: IOWA MATT ($9915 in chips)
+Seat 9: TALL PAUL ($5965 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+LOI: posts straddle $25
+DOUG: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Qs 8s 4c 2d]
+Dealt to KENNY B [Ah Kd Tc 3c]
+Dealt to LOI [7h 4d 3d 2c]
+Dealt to DOUG [Ks Qd 7d 6h]
+Dealt to PRAVEENN [As 8h 5d 5c]
+Dealt to CHASE [Qh Qc 5s 5h]
+Dealt to RAMJAM [9c 7s 6s 2h]
+Dealt to IOWA MATT [Ac 6c 4s 2s]
+Dealt to TALL PAUL [Ad Ts 7c 3s]
+PRAVEENN: calls $50
+CHASE: calls $50
+RAMJAM: folds
+IOWA MATT: raises $250 to $300
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: calls $250
+*** FLOP *** [8c Kc Js]
+CHASE: checks
+IOWA MATT: bets $500
+CHASE: folds
+Uncalled bet ($500) returned to IOWA MATT
+IOWA MATT collected $740 from pot
+*** SUMMARY ***
+Total pot $740 | Rake $0
+Board [8c Kc Js]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: LOI folded before Flop
+Seat 4: DOUG folded before Flop
+Seat 5: PRAVEENN folded before Flop
+Seat 6: CHASE folded on the Flop
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: IOWA MATT collected ($740)
+Seat 9: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000047:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:02:42 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: KENNY B ($5785 in chips)
+Seat 2: LOI ($4245 in chips)
+Seat 3: DOUG ($12265 in chips)
+Seat 4: PRAVEENN ($6390 in chips)
+Seat 5: CHASE ($3720 in chips)
+Seat 6: RAMJAM ($6680 in chips)
+Seat 7: IOWA MATT ($10355 in chips)
+Seat 8: TALL PAUL ($5940 in chips)
+Seat 9: IAN ($1360 in chips)
+KENNY B: posts small blind $5
+LOI: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Js Tc 9d 6c]
+Dealt to LOI [Jh Jd 8c 5h]
+Dealt to DOUG [Ah Ac 8d 5d]
+Dealt to PRAVEENN [Ks Ts 3d 2s]
+Dealt to CHASE [Kh Td 9s 5s]
+Dealt to IOWA MATT [Th 7d 3h 3c]
+Dealt to TALL PAUL [Qh 6d 4h 2d]
+Dealt to IAN [Ad Kd Qc 9h]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: raises $125 to $150
+KENNY B: folds
+LOI: calls $140
+DOUG: calls $125
+PRAVEENN: calls $125
+TALL PAUL: folds
+*** FIRST FLOP *** [2h 7h As]
+LOI: checks
+DOUG: checks
+PRAVEENN: checks
+IAN: bets $650
+LOI: folds
+DOUG: raises $1350 to $2000
+PRAVEENN: folds
+IAN: calls $560 and is all-in
+*** FIRST TURN *** [2h 7h As] [7c]
+*** FIRST RIVER *** [2h 7h As 7c] [Kc]
+*** SECOND TURN *** [2h 7h As] [7s]
+*** SECOND RIVER *** [2h 7h As 7s] [4s]
+*** FIRST SHOW DOWN ***
+DOUG: shows [Ah Ac 8d 5d]
+IAN: shows [Ad Kd Qc 9h]
+DOUG collected $1920 from pot
+*** SECOND SHOW DOWN ***
+DOUG: shows [Ah Ac 8d 5d]
+IAN: shows [Ad Kd Qc 9h]
+DOUG collected $1920 from pot
+*** SUMMARY ***
+Total pot $3840 | Rake $0
+Hand was run twice
+FIRST Board [2h 7h As 7c Kc]
+SECOND Board [2h 7h As 7s 4s]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: LOI (big blind) folded on the Flop
+Seat 3: DOUG showed [Ah Ac 8d 5d] and won ($3840)
+Seat 4: PRAVEENN folded on the Flop
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded before Flop
+Seat 9: IAN (button) showed [Ad Kd Qc 9h] and lost
+
+
+PokerStars Hand #2700000048:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:04:55 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: LOI ($4245 in chips)
+Seat 2: DOUG ($14095 in chips)
+Seat 3: PRAVEENN ($6215 in chips)
+Seat 4: CHASE ($3720 in chips)
+Seat 5: RAMJAM ($6680 in chips)
+Seat 6: IOWA MATT ($10255 in chips)
+Seat 7: TALL PAUL ($5940 in chips)
+Seat 8: KENNY B ($5785 in chips)
+LOI: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to LOI [Qd 9s 8d 3s]
+Dealt to PRAVEENN [Kc Td 6c 5d]
+Dealt to IOWA MATT [Ah Kh Qs 7s]
+Dealt to TALL PAUL [8h 4c 3c 2h]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+KENNY B: folds
+LOI: calls $95
+DOUG: folds
+PRAVEENN: calls $75
+*** FLOP *** [3h 3d Qc]
+LOI: bets $200
+PRAVEENN: calls $200
+IOWA MATT: folds
+*** TURN *** [3h 3d Qc] [5h]
+LOI: bets $500
+PRAVEENN: raises $500 to $1000
+LOI: calls $500
+*** RIVER *** [3h 3d Qc 5h] [8c]
+LOI: bets $2945 and is all-in
+PRAVEENN: folds
+Uncalled bet ($2945) returned to LOI
+LOI collected $2710 from pot
+*** SUMMARY ***
+Total pot $2710 | Rake $0
+Board [3h 3d Qc 5h 8c]
+Seat 1: LOI (small blind) collected ($2710)
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded on the River
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT folded on the Flop
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000049:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:06:55 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: DOUG ($14090 in chips)
+Seat 2: PRAVEENN ($4930 in chips)
+Seat 3: CHASE ($3695 in chips)
+Seat 4: RAMJAM ($6680 in chips)
+Seat 5: IOWA MATT ($10255 in chips)
+Seat 6: TALL PAUL ($5940 in chips)
+Seat 7: IAN ($1000 in chips)
+Seat 8: KENNY B ($5785 in chips)
+Seat 9: LOI ($5655 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to DOUG [Jh Th Td 5d]
+Dealt to PRAVEENN [Qh Jd 2d 2c]
+Dealt to CHASE [Qc Tc 8h 5h]
+Dealt to RAMJAM [8c 6d 4d 2s]
+Dealt to IAN [Ad Kd 5c 3c]
+Dealt to KENNY B [Qd Jc 7d 6c]
+Dealt to LOI [Ah Ac Ts 3h]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: raises $75 to $100
+KENNY B: raises $175 to $275
+LOI: raises $725 to $1000
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+IAN: folds
+KENNY B: calls $725
+*** FLOP *** [8d Js 9h]
+KENNY B: checks
+LOI: checks
+*** TURN *** [8d Js 9h] [Ks]
+KENNY B: checks
+LOI: checks
+*** RIVER *** [8d Js 9h Ks] [Kh]
+KENNY B: bets $1050
+LOI: calls $1050
+*** SHOW DOWN ***
+KENNY B: shows [Qd Jc 7d 6c]
+LOI: shows [Ah Ac Ts 3h]
+LOI collected $4240 from pot
+*** SUMMARY ***
+Total pot $4240 | Rake $0
+Board [8d Js 9h Ks Kh]
+Seat 1: DOUG (small blind) folded before Flop
+Seat 2: PRAVEENN (big blind) folded before Flop
+Seat 3: CHASE folded before Flop
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN folded before Flop
+Seat 8: KENNY B showed [Qd Jc 7d 6c] and lost
+Seat 9: LOI (button) showed [Ah Ac Ts 3h] and won ($4240)
+
+
+PokerStars Hand #2700000051:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:11:13 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: CHASE ($3680 in chips)
+Seat 2: RAMJAM ($6645 in chips)
+Seat 3: IOWA MATT ($10130 in chips)
+Seat 4: TALL PAUL ($5940 in chips)
+Seat 5: IAN ($900 in chips)
+Seat 6: KENNY B ($3735 in chips)
+Seat 7: LOI ($7810 in chips)
+Seat 8: DOUG ($14090 in chips)
+Seat 9: PRAVEENN ($5000 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Jh Jc Th 5d]
+Dealt to RAMJAM [Qs Js 3d 2s]
+Dealt to TALL PAUL [Kc 8d 7c 4d]
+Dealt to IAN [Qd Jd 9h 5c]
+Dealt to KENNY B [As Ks 8c 7h]
+Dealt to LOI [Td Tc 8h 2c]
+Dealt to DOUG [Qh Ts 7d 6h]
+Dealt to PRAVEENN [6s 5h 3s 3c]
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $75 to $100
+LOI: calls $100
+DOUG: folds
+PRAVEENN: calls $100
+CHASE: calls $95
+RAMJAM: folds
+IOWA MATT: folds
+*** FLOP *** [6c 7s 8s]
+CHASE: checks
+KENNY B: bets $300
+LOI: calls $300
+PRAVEENN: calls $300
+CHASE: folds
+*** TURN *** [6c 7s 8s] [3h]
+KENNY B: checks
+LOI: bets $1350
+PRAVEENN: calls $1350
+KENNY B: calls $1350
+*** RIVER *** [6c 7s 8s 3h] [Ad]
+KENNY B: checks
+LOI: bets $5400
+PRAVEENN: calls $3250 and is all-in
+KENNY B: folds
+Uncalled bet ($2150) returned to LOI
+*** SHOW DOWN ***
+LOI: shows [Td Tc 8h 2c]
+PRAVEENN: shows [6s 5h 3s 3c]
+PRAVEENN collected $11885 from pot
+*** SUMMARY ***
+Total pot $11885 | Rake $0
+Board [6c 7s 8s 3h Ad]
+Seat 1: CHASE (small blind) folded on the Flop
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: IOWA MATT folded before Flop
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded before Flop (didn't bet)
+Seat 6: KENNY B folded on the River
+Seat 7: LOI showed [Td Tc 8h 2c] and lost
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: PRAVEENN (button) showed [6s 5h 3s 3c] and won ($11885)
+
+
+PokerStars Hand #2700000057:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:24:14 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: LOI ($4820 in chips)
+Seat 2: DOUG ($13905 in chips)
+Seat 3: PRAVEENN ($11435 in chips)
+Seat 4: CHASE ($3660 in chips)
+Seat 5: RAMJAM ($5270 in chips)
+Seat 6: IOWA MATT ($10015 in chips)
+Seat 7: TALL PAUL ($6090 in chips)
+Seat 8: IAN ($2460 in chips)
+Seat 9: KENNY B ($3075 in chips)
+LOI: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to LOI [9s 8h 8c 2d]
+Dealt to DOUG [Kc 9h 4d 2c]
+Dealt to PRAVEENN [Qs Js Jc 6d]
+Dealt to CHASE [Ks Qd Tc 4c]
+Dealt to RAMJAM [Ac Kd 9d 4s]
+Dealt to IOWA MATT [Ah 8s 6h 3h]
+Dealt to TALL PAUL [As 6s 5h 2h]
+Dealt to KENNY B [Ad 9c 7s 7h]
+CHASE: folds
+RAMJAM: calls $25
+IOWA MATT: raises $100 to $125
+TALL PAUL: calls $125
+IAN: folds
+KENNY B: calls $125
+LOI: folds
+DOUG: folds
+PRAVEENN: calls $100
+RAMJAM: calls $100
+*** FLOP *** [8d 5s 6c]
+PRAVEENN: checks
+RAMJAM: checks
+IOWA MATT: bets $750
+TALL PAUL: folds
+KENNY B: raises $2200 to $2950 and is all-in
+PRAVEENN: folds
+RAMJAM: folds
+IOWA MATT: folds
+Uncalled bet ($2200) returned to KENNY B
+KENNY B collected $2140 from pot
+*** SUMMARY ***
+Total pot $2140 | Rake $0
+Board [8d 5s 6c]
+Seat 1: LOI (small blind) folded before Flop
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded on the Flop
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded on the Flop
+Seat 6: IOWA MATT folded on the Flop
+Seat 7: TALL PAUL folded on the Flop
+Seat 8: IAN folded before Flop (didn't bet)
+Seat 9: KENNY B (button) collected ($2140)
+
+
+PokerStars Hand #2700000059:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:29:23 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: PRAVEENN ($10605 in chips)
+Seat 2: CHASE ($3625 in chips)
+Seat 3: RAMJAM ($5120 in chips)
+Seat 4: IOWA MATT ($14990 in chips)
+Seat 5: TALL PAUL ($5940 in chips)
+Seat 6: IAN ($2460 in chips)
+Seat 7: KENNY B ($3940 in chips)
+Seat 8: LOI ($2500 in chips)
+Seat 9: DOUG ($13900 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+*** HOLE CARDS ***
+Dealt to RAMJAM [Kh Qs Ts 6d]
+Dealt to IOWA MATT [Ad Td Tc 5h]
+Dealt to TALL PAUL [Jh 8d 6c 4h]
+Dealt to IAN [Jc 6h 4d 3h]
+Dealt to KENNY B [Kd 8c 7d 4c]
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $150 to $250
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: calls $150
+*** FLOP *** [Qc 3c 7c]
+IOWA MATT: checks
+KENNY B: checks
+*** TURN *** [Qc 3c 7c] [Js]
+IOWA MATT: checks
+KENNY B: bets $175
+IOWA MATT: folds
+Uncalled bet ($175) returned to KENNY B
+KENNY B collected $540 from pot
+*** SUMMARY ***
+Total pot $540 | Rake $0
+Board [Qc 3c 7c Js]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) folded before Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT folded on the Turn
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded before Flop (didn't bet)
+Seat 7: KENNY B collected ($540)
+Seat 8: LOI folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000062:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:36:57 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($14425 in chips)
+Seat 2: TALL PAUL ($5905 in chips)
+Seat 3: IAN ($2430 in chips)
+Seat 4: KENNY B ($3030 in chips)
+Seat 5: LOI ($2200 in chips)
+Seat 6: DOUG ($13800 in chips)
+Seat 7: PRAVEENN ($10725 in chips)
+Seat 8: CHASE ($5435 in chips)
+Seat 9: RAMJAM ($5105 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IOWA MATT [9s 9c 8h 7d]
+Dealt to TALL PAUL [Qs Qd Qc Td]
+Dealt to IAN [Ad 8c 6d 4s]
+Dealt to KENNY B [Js Jd 9h 6h]
+Dealt to LOI [Kc Jc 8d 2s]
+Dealt to DOUG [As Qh 5s 2d]
+Dealt to PRAVEENN [Kh 7h 3s 2h]
+Dealt to CHASE [Ts 8s 6c 3c]
+Dealt to RAMJAM [Ac Th 9d 7c]
+LOI: folds
+DOUG: raises $100 to $150
+PRAVEENN: calls $150
+CHASE: folds
+RAMJAM: calls $150
+IOWA MATT: calls $145
+TALL PAUL: folds
+IAN: calls $125
+KENNY B: calls $100
+*** FLOP *** [5h 4h Ah]
+IOWA MATT: checks
+IAN: checks
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+RAMJAM: checks
+*** TURN *** [5h 4h Ah] [3h]
+IOWA MATT: checks
+IAN: checks
+KENNY B: checks
+DOUG: bets $50
+PRAVEENN: raises $450 to $500
+RAMJAM: folds
+IOWA MATT: folds
+IAN: folds
+KENNY B: calls $500
+DOUG: folds
+*** RIVER *** [5h 4h Ah 3h] [7s]
+KENNY B: checks
+PRAVEENN: bets $1400
+KENNY B: calls $1400
+*** SHOW DOWN ***
+KENNY B: shows [Js Jd 9h 6h]
+PRAVEENN: shows [Kh 7h 3s 2h]
+PRAVEENN collected $4760 from pot
+*** SUMMARY ***
+Total pot $4760 | Rake $0
+Board [5h 4h Ah 3h 7s]
+Seat 1: IOWA MATT (small blind) folded on the Turn
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded on the Turn
+Seat 4: KENNY B showed [Js Jd 9h 6h] and lost
+Seat 5: LOI folded before Flop (didn't bet)
+Seat 6: DOUG folded on the Turn
+Seat 7: PRAVEENN showed [Kh 7h 3s 2h] and won ($4760)
+Seat 8: CHASE folded before Flop (didn't bet)
+Seat 9: RAMJAM (button) folded on the Turn
+
+
+PokerStars Hand #2700000063:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:39:49 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($14275 in chips)
+Seat 2: TALL PAUL ($5895 in chips)
+Seat 3: IAN ($2405 in chips)
+Seat 4: KENNY B ($1080 in chips)
+Seat 5: LOI ($2200 in chips)
+Seat 6: DOUG ($13600 in chips)
+Seat 7: PRAVEENN ($13435 in chips)
+Seat 8: CHASE ($5385 in chips)
+Seat 9: RAMJAM ($4955 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to KENNY B [Kc Th 7s 3h]
+Dealt to LOI [Ac Qc 6c 4s]
+Dealt to DOUG [Tc 9h 8s 3c]
+Dealt to PRAVEENN [9d 7h 5d 4h]
+LOI: calls $50
+DOUG: folds
+PRAVEENN: folds
+CHASE: calls $50
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: checks
+*** FLOP *** [Qd Ah 5s]
+KENNY B: checks
+LOI: bets $150
+CHASE: folds
+KENNY B: folds
+Uncalled bet ($150) returned to LOI
+LOI collected $190 from pot
+*** SUMMARY ***
+Total pot $190 | Rake $0
+Board [Qd Ah 5s]
+Seat 1: IOWA MATT (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded before Flop
+Seat 4: KENNY B folded on the Flop
+Seat 5: LOI collected ($190)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: PRAVEENN folded before Flop (didn't bet)
+Seat 8: CHASE folded on the Flop
+Seat 9: RAMJAM (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000065:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:43:13 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IAN ($2155 in chips)
+Seat 2: KENNY B ($1020 in chips)
+Seat 3: LOI ($3065 in chips)
+Seat 4: DOUG ($13550 in chips)
+Seat 5: PRAVEENN ($13335 in chips)
+Seat 6: CHASE ($5335 in chips)
+Seat 7: IOWA MATT ($14225 in chips)
+Seat 8: TALL PAUL ($5245 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+LOI: posts straddle $25
+DOUG: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IAN [Ah Kd 7h 6s]
+Dealt to KENNY B [Qc 6d 3s 2h]
+Dealt to LOI [Js 7s 4h 3d]
+Dealt to DOUG [Kh Qh Td 8c]
+Dealt to PRAVEENN [As Qd 9s 9c]
+Dealt to CHASE [Ad 8d 5s 4s]
+Dealt to IOWA MATT [Ac 9h 7c 3h]
+Dealt to TALL PAUL [Ks Jh Jc 6h]
+PRAVEENN: calls $50
+CHASE: raises $150 to $200
+IOWA MATT: folds
+TALL PAUL: calls $200
+IAN: calls $195
+KENNY B: folds
+LOI: calls $175
+DOUG: calls $150
+PRAVEENN: calls $150
+*** FLOP *** [4d 5c 4c]
+IAN: checks
+LOI: checks
+DOUG: checks
+PRAVEENN: checks
+CHASE: bets $500
+TALL PAUL: folds
+IAN: folds
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+Uncalled bet ($500) returned to CHASE
+CHASE collected $1210 from pot
+*** SUMMARY ***
+Total pot $1210 | Rake $0
+Board [4d 5c 4c]
+Seat 1: IAN (small blind) folded on the Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: LOI folded on the Flop
+Seat 4: DOUG folded on the Flop
+Seat 5: PRAVEENN folded on the Flop
+Seat 6: CHASE collected ($1210)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL (button) folded on the Flop
+
+
+PokerStars Hand #2700000066:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:45:03 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: KENNY B ($5515 in chips)
+Seat 2: LOI ($2880 in chips)
+Seat 3: DOUG ($13325 in chips)
+Seat 4: PRAVEENN ($13160 in chips)
+Seat 5: CHASE ($6345 in chips)
+Seat 6: RAMJAM ($4955 in chips)
+Seat 7: IOWA MATT ($14225 in chips)
+Seat 8: TALL PAUL ($5220 in chips)
+Seat 9: IAN ($2155 in chips)
+KENNY B: posts small blind $5
+LOI: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Ac 7c 4h 3d]
+Dealt to LOI [Ks Kd Jc 7s]
+Dealt to DOUG [9s 6h 5c 4s]
+Dealt to PRAVEENN [Ah Kc Th 5h]
+Dealt to CHASE [Ad 6s 4d 2h]
+Dealt to RAMJAM [Qh Ts 6c 5s]
+Dealt to IOWA MATT [As Kh 6d 4c]
+Dealt to TALL PAUL [Qs Qc Jh 3h]
+Dealt to IAN [Tc 8c 2s 2c]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: folds
+KENNY B: calls $20
+LOI: raises $100 to $125
+DOUG: folds
+PRAVEENN: calls $100
+TALL PAUL: calls $100
+KENNY B: calls $100
+*** FLOP *** [Qd 9c Jd]
+KENNY B: checks
+LOI: checks
+PRAVEENN: bets $400
+TALL PAUL: calls $400
+KENNY B: folds
+LOI: folds
+*** TURN *** [Qd 9c Jd] [3s]
+PRAVEENN: bets $1325
+TALL PAUL: folds
+Uncalled bet ($1325) returned to PRAVEENN
+PRAVEENN collected $1325 from pot
+*** SUMMARY ***
+Total pot $1325 | Rake $0
+Board [Qd 9c Jd 3s]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: LOI (big blind) folded on the Flop
+Seat 3: DOUG folded before Flop
+Seat 4: PRAVEENN collected ($1325)
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded on the Turn
+Seat 9: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000067:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:47:16 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: LOI ($2760 in chips)
+Seat 2: DOUG ($13315 in chips)
+Seat 3: PRAVEENN ($13960 in chips)
+Seat 4: CHASE ($6345 in chips)
+Seat 5: RAMJAM ($4955 in chips)
+Seat 6: IOWA MATT ($14225 in chips)
+Seat 7: TALL PAUL ($4695 in chips)
+Seat 8: IAN ($2155 in chips)
+Seat 9: KENNY B ($5395 in chips)
+LOI: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to LOI [Ac Js 5c 3h]
+Dealt to DOUG [6h 6d 4d 2c]
+Dealt to TALL PAUL [Ks Qd 9d 4c]
+Dealt to IAN [As 9c 7c 3c]
+Dealt to KENNY B [Jd Ts Td 4h]
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: folds
+KENNY B: raises $75 to $100
+LOI: calls $95
+DOUG: folds
+PRAVEENN: folds
+TALL PAUL: calls $75
+*** FLOP *** [7s Ad 5d]
+LOI: checks
+TALL PAUL: checks
+KENNY B: bets $175
+LOI: raises $425 to $600
+TALL PAUL: folds
+KENNY B: folds
+Uncalled bet ($425) returned to LOI
+LOI collected $685 from pot
+*** SUMMARY ***
+Total pot $685 | Rake $0
+Board [7s Ad 5d]
+Seat 1: LOI (small blind) collected ($685)
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded before Flop
+Seat 4: CHASE folded before Flop (didn't bet)
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the Flop
+Seat 8: IAN folded before Flop (didn't bet)
+Seat 9: KENNY B (button) folded on the Flop
+
+
+PokerStars Hand #2700000068:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:48:50 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: DOUG ($13310 in chips)
+Seat 2: PRAVEENN ($13950 in chips)
+Seat 3: CHASE ($6320 in chips)
+Seat 4: RAMJAM ($4955 in chips)
+Seat 5: IOWA MATT ($14225 in chips)
+Seat 6: TALL PAUL ($4620 in chips)
+Seat 7: IAN ($2155 in chips)
+Seat 8: KENNY B ($5120 in chips)
+Seat 9: LOI ($3075 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to DOUG [9d 7c 5d 4c]
+Dealt to PRAVEENN [Kc Qh 4s 3d]
+Dealt to CHASE [Ks 8s 7d 3h]
+Dealt to RAMJAM [Ac Jd 5s 5h]
+Dealt to IOWA MATT [Jh 8d 4d 2c]
+Dealt to TALL PAUL [Ts 7s 5c 4h]
+Dealt to IAN [Kd Qs 6s 3s]
+Dealt to KENNY B [Jc Td 9s 3c]
+Dealt to LOI [Ad Qc Tc 8h]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $75 to $100
+LOI: calls $100
+DOUG: calls $95
+PRAVEENN: folds
+CHASE: folds
+*** FLOP *** [2s As Qd]
+DOUG: checks
+KENNY B: checks
+LOI: bets $350
+DOUG: folds
+KENNY B: folds
+Uncalled bet ($350) returned to LOI
+LOI collected $335 from pot
+*** SUMMARY ***
+Total pot $335 | Rake $0
+Board [2s As Qd]
+Seat 1: DOUG (small blind) folded on the Flop
+Seat 2: PRAVEENN (big blind) folded before Flop
+Seat 3: CHASE folded before Flop
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN folded before Flop (didn't bet)
+Seat 8: KENNY B folded on the Flop
+Seat 9: LOI (button) collected ($335)
+
+
+PokerStars Hand #2700000069:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:50:16 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: PRAVEENN ($13945 in chips)
+Seat 2: CHASE ($6310 in chips)
+Seat 3: RAMJAM ($4930 in chips)
+Seat 4: IOWA MATT ($14225 in chips)
+Seat 5: TALL PAUL ($4620 in chips)
+Seat 6: IAN ($2055 in chips)
+Seat 7: KENNY B ($4920 in chips)
+Seat 8: LOI ($3410 in chips)
+Seat 9: DOUG ($13215 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Td 6s 6h 5d]
+Dealt to RAMJAM [Ts 3d 2h 2c]
+Dealt to IOWA MATT [Ac Ks Kc 4h]
+Dealt to TALL PAUL [Qs 8d 4s 3h]
+Dealt to IAN [7c 6d 5s 3c]
+Dealt to KENNY B [Js Th 9h 2s]
+Dealt to LOI [Ad Qh Qc 6c]
+Dealt to DOUG [Kd Jc 9s 4d]
+IOWA MATT: raises $75 to $100
+TALL PAUL: folds
+IAN: calls $100
+KENNY B: calls $100
+LOI: raises $400 to $500
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: raises $1250 to $1750
+IAN: folds
+KENNY B: folds
+LOI: raises $1660 to $3410 and is all-in
+IOWA MATT: raises $10815 to $14225 and is all-in
+*** FLOP *** [3s Tc 2d]
+*** TURN *** [3s Tc 2d] [8c]
+*** RIVER *** [3s Tc 2d 8c] [5c]
+*** SHOW DOWN ***
+IOWA MATT: shows [Ac Ks Kc 4h]
+LOI: shows [Ad Qh Qc 6c]
+IOWA MATT collected $17875 from pot
+*** SUMMARY ***
+Total pot $17875 | Rake $0
+Board [3s Tc 2d 8c 5c]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) folded before Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT showed [Ac Ks Kc 4h] and won ($17875)
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IAN folded before Flop
+Seat 7: KENNY B folded before Flop
+Seat 8: LOI showed [Ad Qh Qc 6c] and lost
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000070:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:52:23 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: CHASE ($6305 in chips)
+Seat 2: RAMJAM ($4920 in chips)
+Seat 3: IOWA MATT ($17850 in chips)
+Seat 4: TALL PAUL ($4620 in chips)
+Seat 5: IAN ($2055 in chips)
+Seat 6: KENNY B ($4920 in chips)
+Seat 7: LOI ($1000 in chips)
+Seat 8: DOUG ($13215 in chips)
+Seat 9: PRAVEENN ($13945 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to CHASE [Js Ts 7h 5h]
+Dealt to RAMJAM [Jd 8h 5s 2d]
+Dealt to IOWA MATT [Ah Ac Kd 8c]
+Dealt to TALL PAUL [Kc 4d 2s 2h]
+Dealt to IAN [As Jh 8s 4h]
+Dealt to KENNY B [Td Tc 9h 5c]
+Dealt to PRAVEENN [Kh 9c 3s 3c]
+TALL PAUL: folds
+IAN: raises $75 to $100
+KENNY B: calls $100
+LOI: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: raises $325 to $425
+IAN: calls $325
+KENNY B: calls $325
+*** FLOP *** [3d Ks Ad]
+IOWA MATT: bets $1200
+IAN: folds
+KENNY B: folds
+Uncalled bet ($1200) returned to IOWA MATT
+IOWA MATT collected $1290 from pot
+*** SUMMARY ***
+Total pot $1290 | Rake $0
+Board [3d Ks Ad]
+Seat 1: CHASE (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: IOWA MATT collected ($1290)
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded on the Flop
+Seat 6: KENNY B folded on the Flop
+Seat 7: LOI folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: PRAVEENN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000073:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 22:59:31 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: TALL PAUL ($5340 in chips)
+Seat 2: IAN ($1595 in chips)
+Seat 3: KENNY B ($3920 in chips)
+Seat 4: DOUG ($13190 in chips)
+Seat 5: PRAVEENN ($12820 in chips)
+Seat 6: CHASE ($6305 in chips)
+Seat 7: RAMJAM ($4395 in chips)
+Seat 8: IOWA MATT ($21115 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Jh 9c 4h 2d]
+Dealt to IAN [Kh 8s 7h 3c]
+Dealt to DOUG [Kc Qs Qh 3d]
+Dealt to PRAVEENN [As Ad Qd 2s]
+Dealt to CHASE [Qc Jd 9h 7c]
+Dealt to IOWA MATT [Tc 9s 9d 6d]
+DOUG: calls $25
+PRAVEENN: raises $100 to $125
+CHASE: folds
+RAMJAM: calls $125
+IOWA MATT: calls $125
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+DOUG: calls $100
+*** FLOP *** [6c 5h Ac]
+DOUG: checks
+PRAVEENN: bets $500
+RAMJAM: folds
+IOWA MATT: folds
+DOUG: folds
+Uncalled bet ($500) returned to PRAVEENN
+PRAVEENN collected $540 from pot
+*** SUMMARY ***
+Total pot $540 | Rake $0
+Board [6c 5h Ac]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded before Flop
+Seat 3: KENNY B folded before Flop
+Seat 4: DOUG folded on the Flop
+Seat 5: PRAVEENN collected ($540)
+Seat 6: CHASE folded before Flop (didn't bet)
+Seat 7: RAMJAM folded on the Flop
+Seat 8: IOWA MATT (button) folded on the Flop
+
+
+PokerStars Hand #2700000074:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:01:27 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: IAN ($1590 in chips)
+Seat 2: KENNY B ($3910 in chips)
+Seat 3: DOUG ($12990 in chips)
+Seat 4: PRAVEENN ($13360 in chips)
+Seat 5: CHASE ($6305 in chips)
+Seat 6: RAMJAM ($4270 in chips)
+Seat 7: IOWA MATT ($20990 in chips)
+Seat 8: TALL PAUL ($5340 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to IAN [Kh 8h 5d 4c]
+Dealt to KENNY B [Ad Ac 6h 5h]
+Dealt to DOUG [As 8d 6s 5c]
+Dealt to PRAVEENN [Ks Qh 9c 3h]
+Dealt to CHASE [Kd Qs 9h 3s]
+Dealt to RAMJAM [Td 8s 7s 4h]
+Dealt to IOWA MATT [Js 5s 3d 2s]
+Dealt to TALL PAUL [Jh Th 7h 2d]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $75 to $100
+DOUG: calls $75
+PRAVEENN: calls $75
+*** FLOP *** [6c Jc Ts]
+KENNY B: checks
+DOUG: checks
+PRAVEENN: bets $325
+KENNY B: folds
+DOUG: folds
+Uncalled bet ($325) returned to PRAVEENN
+PRAVEENN collected $305 from pot
+*** SUMMARY ***
+Total pot $305 | Rake $0
+Board [6c Jc Ts]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded on the Flop
+Seat 3: DOUG folded on the Flop
+Seat 4: PRAVEENN collected ($305)
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000075:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:02:32 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: KENNY B ($3695 in chips)
+Seat 2: DOUG ($12980 in chips)
+Seat 3: PRAVEENN ($13540 in chips)
+Seat 4: CHASE ($6280 in chips)
+Seat 5: RAMJAM ($4270 in chips)
+Seat 6: IOWA MATT ($20990 in chips)
+Seat 7: TALL PAUL ($5340 in chips)
+Seat 8: IAN ($1590 in chips)
+KENNY B: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Qh Qc 4c 3d]
+Dealt to DOUG [Kd Jc Td 9d]
+Dealt to PRAVEENN [Kc Th 8d 2s]
+Dealt to CHASE [Js Jh 7h 2h]
+Dealt to RAMJAM [8c 7d 5h 2c]
+Dealt to IOWA MATT [Ks Qd Ts 8h]
+Dealt to TALL PAUL [Tc 8s 5s 4s]
+CHASE: calls $25
+RAMJAM: folds
+IOWA MATT: raises $100 to $125
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $120
+DOUG: calls $115
+PRAVEENN: folds
+CHASE: calls $100
+*** FLOP *** [9c Kh 7s]
+KENNY B: checks
+DOUG: checks
+CHASE: checks
+IOWA MATT: bets $525
+KENNY B: folds
+DOUG: calls $525
+CHASE: folds
+*** TURN *** [9c Kh 7s] [3s]
+DOUG: bets $25
+IOWA MATT: raises $1625 to $1650
+DOUG: folds
+Uncalled bet ($1625) returned to IOWA MATT
+IOWA MATT collected $1625 from pot
+*** SUMMARY ***
+Total pot $1625 | Rake $0
+Board [9c Kh 7s 3s]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: DOUG (big blind) folded on the Turn
+Seat 3: PRAVEENN folded before Flop
+Seat 4: CHASE folded on the Flop
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: IOWA MATT collected ($1625)
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000076:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:05:11 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: DOUG ($12290 in chips)
+Seat 2: PRAVEENN ($13415 in chips)
+Seat 3: CHASE ($6155 in chips)
+Seat 4: RAMJAM ($4270 in chips)
+Seat 5: IOWA MATT ($21940 in chips)
+Seat 6: TALL PAUL ($5340 in chips)
+Seat 7: IAN ($1590 in chips)
+Seat 8: KENNY B ($3695 in chips)
+DOUG: posts small blind $5
+PRAVEENN: posts big blind $10
+CHASE: posts straddle $25
+*** HOLE CARDS ***
+Dealt to DOUG [Kh 8s 5d 4h]
+Dealt to PRAVEENN [Ac Kd Js 6d]
+Dealt to CHASE [Jh Tc 5h 3h]
+Dealt to RAMJAM [Qd 9d 8c 7d]
+Dealt to IOWA MATT [Td 8h 6c 2d]
+Dealt to TALL PAUL [9s 5c 3c 2c]
+Dealt to IAN [As Th 5s 4c]
+Dealt to KENNY B [Qc 6h 4s 3s]
+RAMJAM: calls $25
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: calls $25
+KENNY B: folds
+DOUG: calls $20
+PRAVEENN: raises $100 to $125
+CHASE: folds
+RAMJAM: calls $100
+IAN: calls $100
+DOUG: calls $100
+*** FIRST FLOP *** [Ts Ad 9h]
+DOUG: checks
+PRAVEENN: bets $525
+RAMJAM: folds
+IAN: raises $940 to $1465 and is all-in
+DOUG: folds
+PRAVEENN: calls $940
+*** FIRST TURN *** [Ts Ad 9h] [7h]
+*** FIRST RIVER *** [Ts Ad 9h 7h] [2s]
+*** SECOND TURN *** [Ts Ad 9h] [Kc]
+*** SECOND RIVER *** [Ts Ad 9h Kc] [Jc]
+*** FIRST SHOW DOWN ***
+PRAVEENN: shows [Ac Kd Js 6d]
+IAN: shows [As Th 5s 4c]
+IAN collected $1728 from pot
+*** SECOND SHOW DOWN ***
+PRAVEENN: shows [Ac Kd Js 6d]
+IAN: shows [As Th 5s 4c]
+PRAVEENN collected $1730 from pot
+*** SUMMARY ***
+Total pot $3455 | Rake $0
+Hand was run twice
+FIRST Board [Ts Ad 9h 7h 2s]
+SECOND Board [Ts Ad 9h Kc Jc]
+Seat 1: DOUG (small blind) folded on the Flop
+Seat 2: PRAVEENN (big blind) showed [Ac Kd Js 6d] and won ($1730)
+Seat 3: CHASE folded before Flop
+Seat 4: RAMJAM folded on the Flop
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IAN showed [As Th 5s 4c] and won ($1725)
+Seat 8: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000077:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:07:42 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: PRAVEENN ($13675 in chips)
+Seat 2: CHASE ($6145 in chips)
+Seat 3: RAMJAM ($4120 in chips)
+Seat 4: IOWA MATT ($21890 in chips)
+Seat 5: TALL PAUL ($5340 in chips)
+Seat 6: IAN ($1675 in chips)
+Seat 7: KENNY B ($3695 in chips)
+Seat 8: NOODLE ($4100 in chips)
+Seat 9: DOUG ($12190 in chips)
+PRAVEENN: posts small blind $5
+CHASE: posts big blind $10
+RAMJAM: posts straddle $25
+IOWA MATT: posts straddle $50
+*** HOLE CARDS ***
+Dealt to PRAVEENN [Qc Js Jh 8c]
+Dealt to CHASE [9h 9c 8h 6d]
+Dealt to RAMJAM [Qd Jd Tc 4c]
+Dealt to IOWA MATT [6h 3c 2h 2c]
+Dealt to TALL PAUL [As Ac 5h 4h]
+Dealt to IAN [Ah Qh Td 7c]
+Dealt to KENNY B [Qs Th 5c 3s]
+Dealt to NOODLE [Ad Ts 8d 6s]
+Dealt to DOUG [Kh 5d 4d 3d]
+TALL PAUL: calls $50
+IAN: calls $50
+KENNY B: folds
+NOODLE: raises $250 to $300
+DOUG: folds
+PRAVEENN: calls $295
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: raises $1025 to $1325
+IAN: folds
+NOODLE: calls $1025
+PRAVEENN: folds
+*** FIRST FLOP *** [9d 3h Jc]
+TALL PAUL: bets $3100
+NOODLE: calls $2775 and is all-in
+*** FIRST TURN *** [9d 3h Jc] [2s]
+*** FIRST RIVER *** [9d 3h Jc 2s] [Kc]
+*** SECOND TURN *** [9d 3h Jc] [8s]
+*** SECOND RIVER *** [9d 3h Jc 8s] [Kd]
+*** FIRST SHOW DOWN ***
+TALL PAUL: shows [As Ac 5h 4h]
+NOODLE: shows [Ad Ts 8d 6s]
+TALL PAUL collected $4480 from pot
+*** SECOND SHOW DOWN ***
+TALL PAUL: shows [As Ac 5h 4h]
+NOODLE: shows [Ad Ts 8d 6s]
+TALL PAUL collected $4480 from pot
+*** SUMMARY ***
+Total pot $8960 | Rake $0
+Hand was run twice
+FIRST Board [9d 3h Jc 2s Kc]
+SECOND Board [9d 3h Jc 8s Kd]
+Seat 1: PRAVEENN (small blind) folded before Flop
+Seat 2: CHASE (big blind) folded before Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: IOWA MATT folded before Flop
+Seat 5: TALL PAUL showed [As Ac 5h 4h] and won ($8960)
+Seat 6: IAN folded before Flop
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: NOODLE showed [Ad Ts 8d 6s] and lost
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000078:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:11:23 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: CHASE ($6140 in chips)
+Seat 2: RAMJAM ($3920 in chips)
+Seat 3: IOWA MATT ($21865 in chips)
+Seat 4: TALL PAUL ($9825 in chips)
+Seat 5: IAN ($1675 in chips)
+Seat 6: KENNY B ($3695 in chips)
+Seat 7: NOODLE ($3000 in chips)
+Seat 8: DOUG ($12190 in chips)
+Seat 9: PRAVEENN ($13180 in chips)
+CHASE: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+TALL PAUL: posts straddle $50
+*** HOLE CARDS ***
+Dealt to RAMJAM [Qd 9h 8d 7h]
+Dealt to TALL PAUL [Ks Qc Th 3d]
+Dealt to IAN [Ad Ac Ts 2c]
+Dealt to KENNY B [Jd Tc 9c 4c]
+Dealt to NOODLE [Jh 8c 4d 3h]
+Dealt to DOUG [9s 9d 5s 4s]
+Dealt to PRAVEENN [Jc 6h 5h 3c]
+IAN: raises $150 to $200
+KENNY B: folds
+NOODLE: folds
+DOUG: folds
+PRAVEENN: calls $200
+CHASE: folds
+RAMJAM: calls $190
+IOWA MATT: folds
+TALL PAUL: folds
+*** FLOP *** [5d Js As]
+RAMJAM: checks
+IAN: bets $350
+PRAVEENN: calls $350
+RAMJAM: folds
+*** TURN *** [5d Js As] [3s]
+IAN: bets $1125 and is all-in
+PRAVEENN: folds
+Uncalled bet ($1125) returned to IAN
+IAN collected $1380 from pot
+*** SUMMARY ***
+Total pot $1380 | Rake $0
+Board [5d Js As 3s]
+Seat 1: CHASE (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) folded on the Flop
+Seat 3: IOWA MATT folded before Flop
+Seat 4: TALL PAUL folded before Flop
+Seat 5: IAN collected ($1380)
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: NOODLE folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: PRAVEENN (button) folded on the Turn
+
+
+PokerStars Hand #2700000079:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:13:47 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: RAMJAM ($3915 in chips)
+Seat 2: IOWA MATT ($21855 in chips)
+Seat 3: TALL PAUL ($9800 in chips)
+Seat 4: IAN ($2455 in chips)
+Seat 5: KENNY B ($3695 in chips)
+Seat 6: NOODLE ($3000 in chips)
+Seat 7: DOUG ($12140 in chips)
+Seat 8: PRAVEENN ($12780 in chips)
+Seat 9: CHASE ($6090 in chips)
+RAMJAM: posts small blind $5
+IOWA MATT: posts big blind $10
+TALL PAUL: posts straddle $25
+IAN: posts straddle $50
+*** HOLE CARDS ***
+Dealt to RAMJAM [As Ad 5d 4c]
+Dealt to IOWA MATT [Jh 8d 3c 2d]
+Dealt to TALL PAUL [Qh Jc 9d 2c]
+Dealt to KENNY B [Jd 9s 3s 2h]
+Dealt to NOODLE [Qs Th 7s 4d]
+Dealt to DOUG [Ks Qd Td 6c]
+Dealt to PRAVEENN [Kc Tc 7c 6s]
+Dealt to CHASE [Ah 9h 9c 5s]
+KENNY B: folds
+NOODLE: folds
+DOUG: calls $50
+PRAVEENN: calls $50
+CHASE: calls $50
+RAMJAM: raises $250 to $300
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+DOUG: folds
+PRAVEENN: calls $250
+CHASE: calls $250
+*** FLOP *** [8c 5c Qc]
+RAMJAM: checks
+PRAVEENN: checks
+CHASE: checks
+*** TURN *** [8c 5c Qc] [5h]
+RAMJAM: bets $500
+PRAVEENN: calls $500
+CHASE: raises $800 to $1300
+RAMJAM: folds
+PRAVEENN: calls $800
+*** RIVER *** [8c 5c Qc 5h] [6d]
+PRAVEENN: checks
+CHASE: checks
+*** SHOW DOWN ***
+PRAVEENN: shows [Kc Tc 7c 6s]
+CHASE: shows [Ah 9h 9c 5s]
+PRAVEENN collected $4135 from pot
+*** SUMMARY ***
+Total pot $4135 | Rake $0
+Board [8c 5c Qc 5h 6d]
+Seat 1: RAMJAM (small blind) folded on the Turn
+Seat 2: IOWA MATT (big blind) folded before Flop
+Seat 3: TALL PAUL folded before Flop
+Seat 4: IAN folded before Flop
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: NOODLE folded before Flop (didn't bet)
+Seat 7: DOUG folded before Flop
+Seat 8: PRAVEENN showed [Kc Tc 7c 6s] and won ($4135)
+Seat 9: CHASE (button) showed [Ah 9h 9c 5s] and lost
+
+
+PokerStars Hand #2700000080:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:16:52 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IOWA MATT ($21805 in chips)
+Seat 2: TALL PAUL ($9790 in chips)
+Seat 3: IAN ($2430 in chips)
+Seat 4: KENNY B ($3645 in chips)
+Seat 5: NOODLE ($3000 in chips)
+Seat 6: DOUG ($12140 in chips)
+Seat 7: PRAVEENN ($15365 in chips)
+Seat 8: CHASE ($4490 in chips)
+Seat 9: RAMJAM ($3070 in chips)
+IOWA MATT: posts small blind $5
+TALL PAUL: posts big blind $10
+IAN: posts straddle $25
+KENNY B: posts straddle $50
+*** HOLE CARDS ***
+Dealt to IOWA MATT [Qd 8s 8d 7h]
+Dealt to TALL PAUL [Qc 9s 3c 2d]
+Dealt to IAN [Ks 9d 6s 5c]
+Dealt to KENNY B [Ad Kh 8h 7c]
+Dealt to NOODLE [Jd Td 4h 3d]
+Dealt to DOUG [Jc Th 6h 2c]
+Dealt to CHASE [Ac Jh Ts 7s]
+Dealt to RAMJAM [6d 6c 5d 3s]
+NOODLE: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: calls $50
+RAMJAM: calls $50
+IOWA MATT: calls $45
+TALL PAUL: folds
+IAN: folds
+KENNY B: checks
+*** FLOP *** [As 2s 4d]
+IOWA MATT: checks
+KENNY B: checks
+CHASE: bets $150
+RAMJAM: calls $150
+IOWA MATT: folds
+KENNY B: folds
+*** TURN *** [As 2s 4d] [Ah]
+CHASE: checks
+RAMJAM: checks
+*** RIVER *** [As 2s 4d Ah] [Js]
+CHASE: checks
+RAMJAM: checks
+*** SHOW DOWN ***
+CHASE: shows [Ac Jh Ts 7s]
+RAMJAM: shows [6d 6c 5d 3s]
+CHASE collected $535 from pot
+*** SUMMARY ***
+Total pot $535 | Rake $0
+Board [As 2s 4d Ah Js]
+Seat 1: IOWA MATT (small blind) folded on the Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IAN folded before Flop
+Seat 4: KENNY B folded on the Flop
+Seat 5: NOODLE folded before Flop (didn't bet)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: PRAVEENN folded before Flop (didn't bet)
+Seat 8: CHASE showed [Ac Jh Ts 7s] and won ($535)
+Seat 9: RAMJAM (button) showed [6d 6c 5d 3s] and lost
+
+
+PokerStars Hand #2700000081:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:18:59 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($9785 in chips)
+Seat 2: IAN ($2420 in chips)
+Seat 3: KENNY B ($3620 in chips)
+Seat 4: NOODLE ($2950 in chips)
+Seat 5: DOUG ($12090 in chips)
+Seat 6: PRAVEENN ($15315 in chips)
+Seat 7: CHASE ($4875 in chips)
+Seat 8: RAMJAM ($2920 in chips)
+Seat 9: IOWA MATT ($21805 in chips)
+TALL PAUL: posts small blind $5
+IAN: posts big blind $10
+KENNY B: posts straddle $25
+NOODLE: posts straddle $50
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Ah Qc Jd 7d]
+Dealt to IAN [Ac 6h 6c 2s]
+Dealt to KENNY B [Ad 9s 7s 5d]
+Dealt to NOODLE [8s 5h 4h 4d]
+Dealt to DOUG [Ks Kc 4s 4c]
+Dealt to PRAVEENN [8d 7h 7c 6s]
+Dealt to CHASE [Kh Kd 9d 8c]
+Dealt to RAMJAM [Js Jh 9h 9c]
+Dealt to IOWA MATT [Qh Th Tc 6d]
+DOUG: calls $50
+PRAVEENN: calls $50
+CHASE: calls $50
+RAMJAM: raises $250 to $300
+IOWA MATT: folds
+TALL PAUL: folds
+IAN: folds
+KENNY B: calls $275
+NOODLE: folds
+DOUG: calls $250
+PRAVEENN: calls $250
+CHASE: calls $250
+*** FLOP *** [5s Jc 3h]
+KENNY B: checks
+DOUG: checks
+PRAVEENN: checks
+CHASE: checks
+RAMJAM: bets $1000
+KENNY B: folds
+DOUG: folds
+PRAVEENN: folds
+CHASE: raises $1500 to $2500
+RAMJAM: raises $120 to $2620 and is all-in
+CHASE: calls $120
+*** TURN *** [5s Jc 3h] [2h]
+*** RIVER *** [5s Jc 3h 2h] [5c]
+*** SHOW DOWN ***
+CHASE: shows [Kh Kd 9d 8c]
+RAMJAM: shows [Js Jh 9h 9c]
+RAMJAM collected $6805 from pot
+*** SUMMARY ***
+Total pot $6805 | Rake $0
+Board [5s Jc 3h 2h 5c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IAN (big blind) folded before Flop
+Seat 3: KENNY B folded on the Flop
+Seat 4: NOODLE folded before Flop
+Seat 5: DOUG folded on the Flop
+Seat 6: PRAVEENN folded on the Flop
+Seat 7: CHASE showed [Kh Kd 9d 8c] and lost
+Seat 8: RAMJAM showed [Js Jh 9h 9c] and won ($6805)
+Seat 9: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000082:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:22:20 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: IAN ($2415 in chips)
+Seat 2: KENNY B ($3335 in chips)
+Seat 3: NOODLE ($2900 in chips)
+Seat 4: DOUG ($11790 in chips)
+Seat 5: PRAVEENN ($15065 in chips)
+Seat 6: CHASE ($1955 in chips)
+Seat 7: RAMJAM ($6805 in chips)
+Seat 8: IOWA MATT ($21755 in chips)
+Seat 9: TALL PAUL ($9785 in chips)
+IAN: posts small blind $5
+KENNY B: posts big blind $10
+NOODLE: posts straddle $25
+DOUG: posts straddle $50
+*** HOLE CARDS ***
+Dealt to NOODLE [Kd Qs 8c 6d]
+Dealt to DOUG [Kh 9d 4h 3h]
+Dealt to PRAVEENN [Ah Th Tc 7d]
+Dealt to CHASE [Ad Qc Ts 3d]
+Dealt to RAMJAM [Jd Jc 8s 8h]
+Dealt to IOWA MATT [Ac Ks 5c 2c]
+PRAVEENN: calls $50
+CHASE: calls $50
+RAMJAM: calls $50
+IOWA MATT: calls $50
+TALL PAUL: folds
+IAN: folds
+KENNY B: folds
+NOODLE: calls $25
+DOUG: checks
+*** FLOP *** [4c 2h Qh]
+NOODLE: checks
+DOUG: checks
+PRAVEENN: bets $325
+CHASE: folds
+RAMJAM: folds
+IOWA MATT: folds
+NOODLE: folds
+DOUG: calls $325
+*** TURN *** [4c 2h Qh] [9c]
+DOUG: checks
+PRAVEENN: checks
+*** RIVER *** [4c 2h Qh 9c] [6h]
+DOUG: bets $300
+PRAVEENN: raises $1100 to $1400
+DOUG: folds
+Uncalled bet ($1100) returned to PRAVEENN
+PRAVEENN collected $1565 from pot
+*** SUMMARY ***
+Total pot $1565 | Rake $0
+Board [4c 2h Qh 9c 6h]
+Seat 1: IAN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: NOODLE folded on the Flop
+Seat 4: DOUG folded on the River
+Seat 5: PRAVEENN collected ($1565)
+Seat 6: CHASE folded on the Flop
+Seat 7: RAMJAM folded on the Flop
+Seat 8: IOWA MATT folded on the Flop
+Seat 9: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000083:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:25:21 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #9 is the button
+Seat 1: KENNY B ($3210 in chips)
+Seat 2: NOODLE ($2890 in chips)
+Seat 3: DOUG ($11140 in chips)
+Seat 4: PRAVEENN ($15955 in chips)
+Seat 5: CHASE ($1905 in chips)
+Seat 6: RAMJAM ($6755 in chips)
+Seat 7: IOWA MATT ($21755 in chips)
+Seat 8: TALL PAUL ($9760 in chips)
+Seat 9: IAN ($2415 in chips)
+KENNY B: posts small blind $5
+NOODLE: posts big blind $10
+DOUG: posts straddle $25
+*** HOLE CARDS ***
+Dealt to KENNY B [Jh Jd Th Td]
+Dealt to NOODLE [9s 8c 6h 3c]
+Dealt to DOUG [Qd 5c 2s 2c]
+Dealt to PRAVEENN [Ad Kd 5s 5d]
+Dealt to CHASE [Jc 9c 8s 6d]
+Dealt to RAMJAM [7h 7d 3h 3d]
+Dealt to IOWA MATT [9d 8d 7c 3s]
+Dealt to TALL PAUL [Ac Ks Qh 2h]
+Dealt to IAN [9h 6s 5h 2d]
+PRAVEENN: calls $25
+CHASE: folds
+RAMJAM: calls $25
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: folds
+KENNY B: raises $100 to $125
+NOODLE: folds
+DOUG: folds
+PRAVEENN: calls $100
+RAMJAM: calls $100
+TALL PAUL: calls $100
+*** FLOP *** [6c Ah 8h]
+KENNY B: checks
+PRAVEENN: checks
+RAMJAM: bets $300
+TALL PAUL: calls $300
+KENNY B: calls $300
+PRAVEENN: folds
+*** TURN *** [6c Ah 8h] [Qc]
+KENNY B: checks
+RAMJAM: checks
+TALL PAUL: bets $1000
+KENNY B: calls $1000
+RAMJAM: folds
+*** RIVER *** [6c Ah 8h Qc] [Ts]
+KENNY B: checks
+TALL PAUL: checks
+*** SHOW DOWN ***
+KENNY B: shows [Jh Jd Th Td]
+TALL PAUL: shows [Ac Ks Qh 2h]
+KENNY B collected $3435 from pot
+*** SUMMARY ***
+Total pot $3435 | Rake $0
+Board [6c Ah 8h Qc Ts]
+Seat 1: KENNY B (small blind) showed [Jh Jd Th Td] and won ($3435)
+Seat 2: NOODLE (big blind) folded before Flop
+Seat 3: DOUG folded before Flop
+Seat 4: PRAVEENN folded on the Flop
+Seat 5: CHASE folded before Flop (didn't bet)
+Seat 6: RAMJAM folded on the Turn
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: TALL PAUL showed [Ac Ks Qh 2h] and lost
+Seat 9: IAN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000084:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:28:11 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: NOODLE ($2885 in chips)
+Seat 2: DOUG ($11130 in chips)
+Seat 3: PRAVEENN ($15805 in chips)
+Seat 4: RAMJAM ($6330 in chips)
+Seat 5: IOWA MATT ($21755 in chips)
+Seat 6: TALL PAUL ($8335 in chips)
+Seat 7: IAN ($2415 in chips)
+Seat 8: KENNY B ($5345 in chips)
+NOODLE: posts small blind $5
+DOUG: posts big blind $10
+PRAVEENN: posts straddle $25
+*** HOLE CARDS ***
+Dealt to NOODLE [Ad 6h 5s 2s]
+Dealt to DOUG [Qd Jc 8c 4c]
+Dealt to PRAVEENN [Kh Ts 6d 5c]
+Dealt to RAMJAM [9d 8h 5d 4h]
+Dealt to IOWA MATT [Kc Td 4d 3c]
+Dealt to TALL PAUL [Qc Jh 9c 6s]
+Dealt to IAN [As Ah Tc 2c]
+Dealt to KENNY B [Js Jd 7h 3d]
+RAMJAM: folds
+IOWA MATT: folds
+TALL PAUL: calls $25
+IAN: raises $100 to $125
+KENNY B: calls $125
+NOODLE: folds
+DOUG: folds
+PRAVEENN: calls $100
+TALL PAUL: calls $100
+*** FLOP *** [Qh Th Kd]
+PRAVEENN: checks
+TALL PAUL: checks
+IAN: checks
+KENNY B: bets $250
+PRAVEENN: calls $250
+TALL PAUL: folds
+IAN: folds
+*** TURN *** [Qh Th Kd] [4s]
+PRAVEENN: checks
+KENNY B: bets $550
+PRAVEENN: folds
+Uncalled bet ($550) returned to KENNY B
+KENNY B collected $1015 from pot
+*** SUMMARY ***
+Total pot $1015 | Rake $0
+Board [Qh Th Kd 4s]
+Seat 1: NOODLE (small blind) folded before Flop
+Seat 2: DOUG (big blind) folded before Flop
+Seat 3: PRAVEENN folded on the Turn
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded on the Flop
+Seat 7: IAN folded on the Flop
+Seat 8: KENNY B (button) collected ($1015)
+
+
+PokerStars Hand #2700000086:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:33:50 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: PRAVEENN ($15255 in chips)
+Seat 2: RAMJAM ($6130 in chips)
+Seat 3: IOWA MATT ($21630 in chips)
+Seat 4: TALL PAUL ($8235 in chips)
+Seat 5: IAN ($965 in chips)
+Seat 6: KENNY B ($5885 in chips)
+Seat 7: NOODLE ($4515 in chips)
+Seat 8: DOUG ($11025 in chips)
+PRAVEENN: posts small blind $5
+RAMJAM: posts big blind $10
+IOWA MATT: posts straddle $25
+*** HOLE CARDS ***
+Dealt to RAMJAM [7s 7c 6s 6d]
+Dealt to IOWA MATT [Jh Td 9s 8d]
+Dealt to IAN [Qd 5c 3c 2s]
+Dealt to KENNY B [Ac Kh 3s 3h]
+Dealt to NOODLE [Ah Jc 6h 5d]
+Dealt to DOUG [Ad 8s 7h 4d]
+TALL PAUL: folds
+IAN: folds
+KENNY B: raises $75 to $100
+NOODLE: folds
+DOUG: calls $100
+PRAVEENN: calls $95
+RAMJAM: calls $90
+IOWA MATT: calls $75
+*** FLOP *** [2d 4h 9h]
+PRAVEENN: checks
+RAMJAM: checks
+IOWA MATT: checks
+KENNY B: checks
+DOUG: checks
+*** TURN *** [2d 4h 9h] [As]
+PRAVEENN: checks
+RAMJAM: checks
+IOWA MATT: checks
+KENNY B: bets $300
+DOUG: calls $300
+PRAVEENN: folds
+RAMJAM: folds
+IOWA MATT: folds
+*** RIVER *** [2d 4h 9h As] [Js]
+KENNY B: checks
+DOUG: bets $100
+KENNY B: calls $100
+*** SHOW DOWN ***
+KENNY B: shows [Ac Kh 3s 3h]
+DOUG: shows [Ad 8s 7h 4d]
+DOUG collected $1300 from pot
+*** SUMMARY ***
+Total pot $1300 | Rake $0
+Board [2d 4h 9h As Js]
+Seat 1: PRAVEENN (small blind) folded on the Turn
+Seat 2: RAMJAM (big blind) folded on the Turn
+Seat 3: IOWA MATT folded on the Turn
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: IAN folded before Flop (didn't bet)
+Seat 6: KENNY B showed [Ac Kh 3s 3h] and lost
+Seat 7: NOODLE folded before Flop (didn't bet)
+Seat 8: DOUG (button) showed [Ad 8s 7h 4d] and won ($1300)
+
+
+PokerStars Hand #2700000087:  Omaha Pot Limit ($5/$10 USD) - 2026/01/01 23:36:06 ET
+Table 'Tch Austin 5 10 25 Plo 7Nfqr' 9-max Seat #8 is the button
+Seat 1: RAMJAM ($6125 in chips)
+Seat 2: IOWA MATT ($21455 in chips)
+Seat 3: TALL PAUL ($8210 in chips)
+Seat 4: IAN ($965 in chips)
+Seat 5: KENNY B ($5485 in chips)
+Seat 6: NOODLE ($4515 in chips)
+Seat 7: DOUG ($11825 in chips)
+Seat 8: PRAVEENN ($15155 in chips)
+RAMJAM: posts small blind $5
+IOWA MATT: posts big blind $10
+TALL PAUL: posts straddle $25
+*** HOLE CARDS ***
+Dealt to IOWA MATT [Ah 8c 7s 5h]
+Dealt to IAN [Ad 9c 5c 3d]
+Dealt to KENNY B [Qh Qc Th Tc]
+Dealt to NOODLE [6d 6c 4s 3h]
+Dealt to DOUG [Ks Kd 6s 2s]
+Dealt to PRAVEENN [9d 8d 7d 2c]
+IAN: raises $75 to $100
+KENNY B: calls $100
+NOODLE: folds
+DOUG: calls $100
+PRAVEENN: calls $100
+RAMJAM: folds
+IOWA MATT: calls $90
+TALL PAUL: folds
+*** FLOP *** [Qd Js 4c]
+IOWA MATT: checks
+IAN: checks
+KENNY B: bets $350
+DOUG: folds
+PRAVEENN: folds
+IOWA MATT: folds
+IAN: folds
+Uncalled bet ($350) returned to KENNY B
+KENNY B collected $530 from pot
+*** SUMMARY ***
+Total pot $530 | Rake $0
+Board [Qd Js 4c]
+Seat 1: RAMJAM (small blind) folded before Flop
+Seat 2: IOWA MATT (big blind) folded on the Flop
+Seat 3: TALL PAUL folded before Flop
+Seat 4: IAN folded on the Flop
+Seat 5: KENNY B collected ($530)
+Seat 6: NOODLE folded before Flop (didn't bet)
+Seat 7: DOUG folded on the Flop
+Seat 8: PRAVEENN (button) folded on the Flop
+
+
