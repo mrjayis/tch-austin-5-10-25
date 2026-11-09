@@ -1,8 +1,13 @@
-# TCH Social Austin — $5/$10/$25 PLO
+# TCH Social Austin — PLO
 
-A hand-by-hand rebuild of the [TCH Social Austin $5/$10/$25 PLO stream](https://www.youtube.com/watch?v=7NFqRJc9wFw):
-91 hands read off the broadcast overlay, with a HUD dashboard, hand replayer, hand search, equity
-calculator, per-player ranges and PokerStars-format hand histories.
+A hand-by-hand rebuild of three TCH Social Austin PLO streams, read off the broadcast overlay:
+
+1. [$5/$10/$25 PLO](https://www.youtube.com/watch?v=7NFqRJc9wFw) — hands #1–90
+2. [$5/$5/$10 PLO](https://www.youtube.com/watch?v=OPgoyx1xWHk) — hands #91–176
+3. [$10/$10 PLO](https://www.youtube.com/watch?v=fj1B7uQb7Sw) — hands #177–252
+
+with a HUD dashboard, hand replayer, hand search, equity calculator, per-player ranges and
+PokerStars-format hand histories. Stats pool all three sessions.
 
 **Open it:** https://mrjayis.github.io/tch-austin-5-10-25/
 

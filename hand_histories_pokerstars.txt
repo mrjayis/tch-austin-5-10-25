@@ -3785,3 +3785,3469 @@ Seat 7: DOUG folded on the Flop
 Seat 8: PRAVEENN (button) folded on the Flop
 
 
+PokerStars Hand #2700000092:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:01:02 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DOUG ($15082 in chips)
+Seat 2: DUSTIN ($1170 in chips)
+Seat 3: KENNY B ($2078 in chips)
+Seat 4: UKMIKE ($1955 in chips)
+Seat 5: EFAN ($1975 in chips)
+Seat 6: KIMPOSSIBLE ($1975 in chips)
+Seat 7: JOKERCHEIF ($1955 in chips)
+Seat 8: TALL PAUL ($1975 in chips)
+Seat 9: IOWA MATT ($2475 in chips)
+DOUG: posts small blind $5
+DUSTIN: posts big blind $5
+KENNY B: posts straddle $10
+UKMIKE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DOUG [Kh Kc Td 7c]
+Dealt to DUSTIN [Ad Ks 4h 4c]
+Dealt to UKMIKE [Ac 8h 2d 2c]
+Dealt to EFAN [As Jc Ts 2s]
+Dealt to KIMPOSSIBLE [Js 9d 6s 2h]
+Dealt to JOKERCHEIF [6d 5s 5d 3s]
+Dealt to TALL PAUL [Kd Qd 9s 6h]
+Dealt to IOWA MATT [Ah Qs 6c 5h]
+EFAN: calls $20
+KIMPOSSIBLE: folds
+JOKERCHEIF: calls $20
+TALL PAUL: calls $20
+IOWA MATT: raises $120 to $140
+DOUG: calls $135
+DUSTIN: folds
+KENNY B: folds
+UKMIKE: folds
+EFAN: calls $120
+JOKERCHEIF: calls $120
+TALL PAUL: folds
+*** FLOP *** [Th 9h 8d]
+DOUG: checks
+EFAN: checks
+JOKERCHEIF: checks
+IOWA MATT: checks
+*** TURN *** [Th 9h 8d] [Jh]
+DOUG: checks
+EFAN: bets $275
+JOKERCHEIF: folds
+IOWA MATT: calls $275
+DOUG: folds
+*** RIVER *** [Th 9h 8d Jh] [4d]
+EFAN: bets $1165
+IOWA MATT: calls $1165
+*** SHOW DOWN ***
+EFAN: shows [As Jc Ts 2s]
+IOWA MATT: shows [Ah Qs 6c 5h]
+IOWA MATT collected $3495 from pot
+*** SUMMARY ***
+Total pot $3495 | Rake $0
+Board [Th 9h 8d Jh 4d]
+Seat 1: DOUG (small blind) folded on the Turn
+Seat 2: DUSTIN (big blind) folded before Flop
+Seat 3: KENNY B folded before Flop
+Seat 4: UKMIKE folded before Flop
+Seat 5: EFAN showed [As Jc Ts 2s] and lost
+Seat 6: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 7: JOKERCHEIF folded on the Turn
+Seat 8: TALL PAUL folded before Flop
+Seat 9: IOWA MATT (button) showed [Ah Qs 6c 5h] and won ($3495)
+
+
+PokerStars Hand #2700000094:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:07:09 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($2068 in chips)
+Seat 2: UKMIKE ($2345 in chips)
+Seat 3: EFAN ($2325 in chips)
+Seat 4: KIMPOSSIBLE ($1955 in chips)
+Seat 5: JOKERCHEIF ($1835 in chips)
+Seat 6: TALL PAUL ($1955 in chips)
+Seat 7: IOWA MATT ($4390 in chips)
+Seat 8: DOUG ($14947 in chips)
+Seat 9: DUSTIN ($770 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+EFAN: posts straddle $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Tc 8s 4d 2s]
+Dealt to EFAN [As Qc Ts 7s]
+Dealt to KIMPOSSIBLE [Ac 9c 6s 6h]
+Dealt to JOKERCHEIF [9s 7h 3h 2d]
+Dealt to TALL PAUL [Jd Jc Th 9h]
+Dealt to IOWA MATT [Kh Kd Qs 4h]
+Dealt to DUSTIN [Qd Td 9d 8d]
+KIMPOSSIBLE: calls $10
+JOKERCHEIF: folds
+TALL PAUL: raises $40 to $50
+IOWA MATT: folds
+DOUG: folds
+DUSTIN: calls $50
+KENNY B: folds
+UKMIKE: folds
+EFAN: calls $40
+KIMPOSSIBLE: calls $40
+*** FLOP *** [2h Ad Js]
+EFAN: checks
+KIMPOSSIBLE: checks
+TALL PAUL: bets $115
+DUSTIN: calls $115
+EFAN: calls $115
+KIMPOSSIBLE: calls $115
+*** TURN *** [2h Ad Js] [4s]
+EFAN: checks
+KIMPOSSIBLE: checks
+TALL PAUL: bets $670
+DUSTIN: folds
+EFAN: folds
+KIMPOSSIBLE: folds
+Uncalled bet ($670) returned to TALL PAUL
+TALL PAUL collected $670 from pot
+*** SUMMARY ***
+Total pot $670 | Rake $0
+Board [2h Ad Js 4s]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: EFAN folded on the Turn
+Seat 4: KIMPOSSIBLE folded on the Turn
+Seat 5: JOKERCHEIF folded before Flop (didn't bet)
+Seat 6: TALL PAUL collected ($670)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: DUSTIN (button) folded on the Turn
+
+
+PokerStars Hand #2700000096:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:12:31 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: EFAN ($2165 in chips)
+Seat 2: KIMPOSSIBLE ($1365 in chips)
+Seat 3: JOKERCHEIF ($1785 in chips)
+Seat 4: TALL PAUL ($2420 in chips)
+Seat 5: IOWA MATT ($4095 in chips)
+Seat 6: DOUG ($15417 in chips)
+Seat 7: DUSTIN ($1455 in chips)
+Seat 8: KENNY B ($1953 in chips)
+Seat 9: UKMIKE ($2340 in chips)
+EFAN: posts small blind $5
+KIMPOSSIBLE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KIMPOSSIBLE [Kh Qh Jc Ts]
+Dealt to JOKERCHEIF [Ad Qc Td 3h]
+Dealt to TALL PAUL [Kd 5s 5c 2s]
+Dealt to IOWA MATT [As Qs 3c 2h]
+Dealt to DOUG [Ac 9c 8h 8c]
+Dealt to KENNY B [7s 6c 5d 4c]
+Dealt to UKMIKE [7h 6s 5h 4s]
+IOWA MATT: raises $55 to $75
+DOUG: calls $75
+DUSTIN: folds
+KENNY B: calls $75
+UKMIKE: raises $340 to $415
+EFAN: folds
+KIMPOSSIBLE: calls $410
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: folds
+KENNY B: calls $340
+*** FLOP *** [4d Qd Th]
+KIMPOSSIBLE: checks
+KENNY B: checks
+UKMIKE: checks
+*** TURN *** [4d Qd Th] [Kc]
+KIMPOSSIBLE: bets $600
+KENNY B: folds
+UKMIKE: folds
+Uncalled bet ($600) returned to KIMPOSSIBLE
+KIMPOSSIBLE collected $1430 from pot
+*** SUMMARY ***
+Total pot $1430 | Rake $0
+Board [4d Qd Th Kc]
+Seat 1: EFAN (small blind) folded before Flop
+Seat 2: KIMPOSSIBLE (big blind) collected ($1430)
+Seat 3: JOKERCHEIF folded before Flop
+Seat 4: TALL PAUL folded before Flop
+Seat 5: IOWA MATT folded before Flop
+Seat 6: DOUG folded before Flop
+Seat 7: DUSTIN folded before Flop (didn't bet)
+Seat 8: KENNY B folded on the Turn
+Seat 9: UKMIKE (button) folded on the Turn
+
+
+PokerStars Hand #2700000097:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:15:22 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 10-max Seat #10 is the button
+Seat 1: KIMPOSSIBLE ($2790 in chips)
+Seat 2: JOKERCHEIF ($1780 in chips)
+Seat 3: AY ($1560 in chips)
+Seat 4: TALL PAUL ($2390 in chips)
+Seat 5: IOWA MATT ($3945 in chips)
+Seat 6: DOUG ($15342 in chips)
+Seat 7: DUSTIN ($1455 in chips)
+Seat 8: KENNY B ($1613 in chips)
+Seat 9: UKMIKE ($1925 in chips)
+Seat 10: EFAN ($2165 in chips)
+KIMPOSSIBLE: posts small blind $5
+AY: posts big blind $5
+TALL PAUL: posts straddle $10
+IOWA MATT: posts straddle $20
+*** HOLE CARDS ***
+Dealt to JOKERCHEIF [Ah Kc Ts 5s]
+Dealt to IOWA MATT [Ac 8h 6c 5d]
+Dealt to UKMIKE [7h 7d 3h 2c]
+Dealt to EFAN [As Js 7c 6s]
+DOUG: folds
+DUSTIN: folds
+KENNY B: folds
+UKMIKE: folds
+EFAN: raises $55 to $75
+KIMPOSSIBLE: folds
+JOKERCHEIF: calls $70
+AY: folds
+TALL PAUL: folds
+IOWA MATT: calls $55
+*** FLOP *** [9d 7s Ks]
+JOKERCHEIF: checks
+IOWA MATT: checks
+EFAN: bets $150
+JOKERCHEIF: calls $150
+IOWA MATT: calls $150
+*** TURN *** [9d 7s Ks] [Qc]
+JOKERCHEIF: checks
+IOWA MATT: checks
+EFAN: checks
+*** RIVER *** [9d 7s Ks Qc] [Tc]
+JOKERCHEIF: checks
+IOWA MATT: checks
+EFAN: bets $690
+JOKERCHEIF: folds
+IOWA MATT: folds
+Uncalled bet ($690) returned to EFAN
+EFAN collected $690 from pot
+*** SUMMARY ***
+Total pot $690 | Rake $0
+Board [9d 7s Ks Qc Tc]
+Seat 1: KIMPOSSIBLE (small blind) folded before Flop
+Seat 2: JOKERCHEIF folded on the River
+Seat 3: AY (big blind) folded before Flop
+Seat 4: TALL PAUL folded before Flop
+Seat 5: IOWA MATT folded on the River
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: DUSTIN folded before Flop (didn't bet)
+Seat 8: KENNY B folded before Flop (didn't bet)
+Seat 9: UKMIKE folded before Flop (didn't bet)
+Seat 10: EFAN (button) collected ($690)
+
+
+PokerStars Hand #2700000098:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:18:23 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: JOKERCHEIF ($1555 in chips)
+Seat 2: TALL PAUL ($2385 in chips)
+Seat 3: IOWA MATT ($3785 in chips)
+Seat 4: DOUG ($15322 in chips)
+Seat 5: DUSTIN ($1455 in chips)
+Seat 6: KENNY B ($1593 in chips)
+Seat 7: UKMIKE ($1925 in chips)
+Seat 8: EFAN ($2630 in chips)
+Seat 9: KIMPOSSIBLE ($2770 in chips)
+JOKERCHEIF: posts small blind $5
+TALL PAUL: posts big blind $5
+IOWA MATT: posts straddle $10
+DOUG: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DOUG [Ah Ts 9c 8d]
+Dealt to DUSTIN [Jh 9d 6d 5s]
+Dealt to KENNY B [7d 6h 5h 5c]
+Dealt to UKMIKE [Jc Th 4d 3c]
+Dealt to EFAN [Qc 8h 2s 2d]
+Dealt to KIMPOSSIBLE [Ks 9h 8c 6s]
+DUSTIN: folds
+KENNY B: calls $20
+UKMIKE: folds
+EFAN: folds
+KIMPOSSIBLE: calls $20
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: checks
+*** FLOP *** [Ac Qd As]
+DOUG: checks
+KENNY B: checks
+KIMPOSSIBLE: checks
+*** TURN *** [Ac Qd As] [Kh]
+DOUG: bets $25
+KENNY B: folds
+KIMPOSSIBLE: calls $25
+*** RIVER *** [Ac Qd As Kh] [Tc]
+DOUG: bets $95
+KIMPOSSIBLE: folds
+Uncalled bet ($95) returned to DOUG
+DOUG collected $130 from pot
+*** SUMMARY ***
+Total pot $130 | Rake $0
+Board [Ac Qd As Kh Tc]
+Seat 1: JOKERCHEIF (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IOWA MATT folded before Flop
+Seat 4: DOUG collected ($130)
+Seat 5: DUSTIN folded before Flop (didn't bet)
+Seat 6: KENNY B folded on the Turn
+Seat 7: UKMIKE folded before Flop (didn't bet)
+Seat 8: EFAN folded before Flop (didn't bet)
+Seat 9: KIMPOSSIBLE (button) folded on the River
+
+
+PokerStars Hand #2700000099:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:19:42 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($2380 in chips)
+Seat 2: IOWA MATT ($3735 in chips)
+Seat 3: DOUG ($15377 in chips)
+Seat 4: FLASH ($1000 in chips)
+Seat 5: KENNY B ($1593 in chips)
+Seat 6: UKMIKE ($3425 in chips)
+Seat 7: EFAN ($2580 in chips)
+Seat 8: KIMPOSSIBLE ($2745 in chips)
+Seat 9: JOKERCHEIF ($1505 in chips)
+TALL PAUL: posts small blind $5
+IOWA MATT: posts big blind $5
+DOUG: posts straddle $10
+*** HOLE CARDS ***
+Dealt to IOWA MATT [Jh Jc 9d 2h]
+Dealt to FLASH [Ac Qd 6s 5d]
+Dealt to UKMIKE [Qc Th Td 9h]
+Dealt to EFAN [Kc 7s 7c 2d]
+Dealt to JOKERCHEIF [Kh 7d 6h 5h]
+FLASH: calls $10
+KENNY B: folds
+UKMIKE: raises $40 to $50
+EFAN: calls $50
+KIMPOSSIBLE: folds
+JOKERCHEIF: calls $50
+TALL PAUL: folds
+IOWA MATT: calls $45
+DOUG: calls $40
+FLASH: calls $40
+*** FLOP *** [5c Qs Tc]
+IOWA MATT: checks
+DOUG: checks
+FLASH: bets $305
+UKMIKE: raises $695 to $1000
+EFAN: folds
+JOKERCHEIF: folds
+IOWA MATT: folds
+DOUG: folds
+FLASH: calls $645 and is all-in
+*** TURN *** [5c Qs Tc] [3h]
+*** RIVER *** [5c Qs Tc 3h] [8c]
+*** SHOW DOWN ***
+FLASH: shows [Ac Qd 6s 5d]
+UKMIKE: shows [Qc Th Td 9h]
+UKMIKE collected $2255 from pot
+*** SUMMARY ***
+Total pot $2255 | Rake $0
+Board [5c Qs Tc 3h 8c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IOWA MATT (big blind) folded on the Flop
+Seat 3: DOUG folded on the Flop
+Seat 4: FLASH showed [Ac Qd 6s 5d] and lost
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: UKMIKE showed [Qc Th Td 9h] and won ($2255)
+Seat 7: EFAN folded on the Flop
+Seat 8: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 9: JOKERCHEIF (button) folded on the Flop
+
+
+PokerStars Hand #2700000102:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:28:24 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DOUG ($15342 in chips)
+Seat 2: FLASH ($1125 in chips)
+Seat 3: KENNY B ($1623 in chips)
+Seat 4: UKMIKE ($4585 in chips)
+Seat 5: EFAN ($2535 in chips)
+Seat 6: KIMPOSSIBLE ($2700 in chips)
+Seat 7: JOKERCHEIF ($1460 in chips)
+Seat 8: TALL PAUL ($2355 in chips)
+Seat 9: IOWA MATT ($3690 in chips)
+DOUG: posts small blind $5
+FLASH: posts big blind $5
+KENNY B: posts straddle $10
+UKMIKE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DOUG [Jh 9d 5h 3d]
+Dealt to FLASH [Ac Tc 7d 6s]
+Dealt to KENNY B [Kc 8c 7h 5d]
+Dealt to UKMIKE [Qc Th 8h 6c]
+Dealt to EFAN [Kd Qh 5s 4d]
+Dealt to KIMPOSSIBLE [Qd Jd 9c 3c]
+Dealt to JOKERCHEIF [Jc 5c 4h 3h]
+Dealt to TALL PAUL [Ah Ks 8d 2d]
+Dealt to IOWA MATT [Ad Kh 6h 6d]
+EFAN: folds
+KIMPOSSIBLE: calls $20
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: raises $80 to $100
+DOUG: folds
+FLASH: calls $95
+KENNY B: calls $90
+UKMIKE: calls $80
+KIMPOSSIBLE: calls $80
+*** FLOP *** [4c 4s Ts]
+FLASH: checks
+KENNY B: bets $175
+UKMIKE: folds
+KIMPOSSIBLE: folds
+IOWA MATT: folds
+FLASH: folds
+Uncalled bet ($175) returned to KENNY B
+KENNY B collected $505 from pot
+*** SUMMARY ***
+Total pot $505 | Rake $0
+Board [4c 4s Ts]
+Seat 1: DOUG (small blind) folded before Flop
+Seat 2: FLASH (big blind) folded on the Flop
+Seat 3: KENNY B collected ($505)
+Seat 4: UKMIKE folded on the Flop
+Seat 5: EFAN folded before Flop (didn't bet)
+Seat 6: KIMPOSSIBLE folded on the Flop
+Seat 7: JOKERCHEIF folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: IOWA MATT (button) folded on the Flop
+
+
+PokerStars Hand #2700000103:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:31:36 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: FLASH ($1025 in chips)
+Seat 2: KENNY B ($2123 in chips)
+Seat 3: UKMIKE ($4495 in chips)
+Seat 4: EFAN ($2515 in chips)
+Seat 5: KIMPOSSIBLE ($2600 in chips)
+Seat 6: JOKERCHEIF ($1460 in chips)
+Seat 7: TALL PAUL ($2335 in chips)
+Seat 8: IOWA MATT ($3590 in chips)
+Seat 9: DOUG ($15342 in chips)
+FLASH: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+EFAN: posts straddle $20
+*** HOLE CARDS ***
+Dealt to EFAN [Qc Jh 3s 3c]
+Dealt to KIMPOSSIBLE [Qh 8s 7c 3d]
+Dealt to JOKERCHEIF [9s 9h 7h 5s]
+Dealt to TALL PAUL [Ac Jc 6s 5c]
+Dealt to IOWA MATT [Ad Kh Kd 6c]
+KIMPOSSIBLE: folds
+JOKERCHEIF: calls $20
+TALL PAUL: calls $20
+IOWA MATT: raises $80 to $100
+DOUG: folds
+FLASH: folds
+KENNY B: folds
+UKMIKE: folds
+EFAN: calls $80
+JOKERCHEIF: calls $80
+TALL PAUL: calls $80
+*** FLOP *** [6d 4c Qs]
+EFAN: checks
+JOKERCHEIF: checks
+TALL PAUL: checks
+IOWA MATT: bets $420
+EFAN: folds
+JOKERCHEIF: calls $420
+TALL PAUL: folds
+*** TURN *** [6d 4c Qs] [Th]
+JOKERCHEIF: checks
+IOWA MATT: bets $1260
+JOKERCHEIF: folds
+Uncalled bet ($1260) returned to IOWA MATT
+IOWA MATT collected $1260 from pot
+*** SUMMARY ***
+Total pot $1260 | Rake $0
+Board [6d 4c Qs Th]
+Seat 1: FLASH (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: UKMIKE folded before Flop
+Seat 4: EFAN folded on the Flop
+Seat 5: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 6: JOKERCHEIF folded on the Turn
+Seat 7: TALL PAUL folded on the Flop
+Seat 8: IOWA MATT collected ($1260)
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000104:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:33:52 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($2073 in chips)
+Seat 2: UKMIKE ($4490 in chips)
+Seat 3: EFAN ($2425 in chips)
+Seat 4: KIMPOSSIBLE ($2600 in chips)
+Seat 5: JOKERCHEIF ($1940 in chips)
+Seat 6: TALL PAUL ($2255 in chips)
+Seat 7: IOWA MATT ($4330 in chips)
+Seat 8: DOUG ($15332 in chips)
+Seat 9: FLASH ($1025 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+EFAN: posts straddle $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Kh Ts 7h 4s]
+Dealt to UKMIKE [Kd Qc 8c 6d]
+Dealt to EFAN [Qd 6c 4h 2h]
+Dealt to KIMPOSSIBLE [Qs Tc 3c 2s]
+Dealt to TALL PAUL [Kc 8s 4d 3s]
+Dealt to IOWA MATT [Ac Js 9c 5c]
+Dealt to DOUG [Ad Td 5d 2c]
+Dealt to FLASH [As 6s 5h 3h]
+KIMPOSSIBLE: folds
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: calls $10
+DOUG: calls $10
+FLASH: raises $40 to $50
+KENNY B: calls $45
+UKMIKE: raises $180 to $230
+EFAN: folds
+IOWA MATT: folds
+DOUG: folds
+FLASH: calls $180
+KENNY B: calls $180
+*** FLOP *** [4c Jc Ks]
+KENNY B: checks
+UKMIKE: bets $150
+FLASH: calls $150
+KENNY B: calls $150
+*** TURN *** [4c Jc Ks] [7c]
+KENNY B: checks
+UKMIKE: checks
+FLASH: checks
+*** RIVER *** [4c Jc Ks 7c] [9d]
+KENNY B: checks
+UKMIKE: bets $375
+FLASH: folds
+KENNY B: folds
+Uncalled bet ($375) returned to UKMIKE
+UKMIKE collected $1170 from pot
+*** SUMMARY ***
+Total pot $1170 | Rake $0
+Board [4c Jc Ks 7c 9d]
+Seat 1: KENNY B (small blind) folded on the River
+Seat 2: UKMIKE (big blind) collected ($1170)
+Seat 3: EFAN folded before Flop
+Seat 4: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 5: JOKERCHEIF folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop
+Seat 8: DOUG folded before Flop
+Seat 9: FLASH (button) folded on the River
+
+
+PokerStars Hand #2700000105:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:37:31 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: UKMIKE ($5280 in chips)
+Seat 2: EFAN ($2420 in chips)
+Seat 3: KIMPOSSIBLE ($2600 in chips)
+Seat 4: JOKERCHEIF ($1865 in chips)
+Seat 5: TALL PAUL ($2255 in chips)
+Seat 6: IOWA MATT ($4320 in chips)
+Seat 7: DOUG ($15332 in chips)
+Seat 8: FLASH ($645 in chips)
+Seat 9: KENNY B ($1743 in chips)
+UKMIKE: posts small blind $5
+EFAN: posts big blind $5
+KIMPOSSIBLE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to EFAN [Qc Jd Ts Th]
+Dealt to KIMPOSSIBLE [4s 3s 3d 2h]
+Dealt to JOKERCHEIF [Qh Jc 6s 4c]
+Dealt to TALL PAUL [Kc Jh 8h 5h]
+Dealt to IOWA MATT [As Ad Ac Qs]
+Dealt to DOUG [Kh 9h 7s 4d]
+Dealt to FLASH [Kd 7d 6c 4h]
+Dealt to KENNY B [Js 5c 3h 2c]
+TALL PAUL: folds
+IOWA MATT: raises $55 to $75
+DOUG: folds
+FLASH: folds
+KENNY B: folds
+UKMIKE: folds
+EFAN: calls $70
+KIMPOSSIBLE: calls $65
+JOKERCHEIF: calls $55
+*** FLOP *** [3c 8c 7h]
+EFAN: checks
+KIMPOSSIBLE: bets $305
+JOKERCHEIF: folds
+IOWA MATT: calls $305
+EFAN: folds
+*** TURN *** [3c 8c 7h] [7c]
+KIMPOSSIBLE: checks
+IOWA MATT: bets $700
+KIMPOSSIBLE: calls $700
+*** RIVER *** [3c 8c 7h 7c] [Ad]
+KIMPOSSIBLE: bets $1520 and is all-in
+IOWA MATT: calls $1520
+*** SHOW DOWN ***
+KIMPOSSIBLE: shows [4s 3s 3d 2h]
+IOWA MATT: shows [As Ad Ac Qs]
+IOWA MATT collected $5355 from pot
+*** SUMMARY ***
+Total pot $5355 | Rake $0
+Board [3c 8c 7h 7c Ad]
+Seat 1: UKMIKE (small blind) folded before Flop
+Seat 2: EFAN (big blind) folded on the Flop
+Seat 3: KIMPOSSIBLE showed [4s 3s 3d 2h] and lost
+Seat 4: JOKERCHEIF folded on the Flop
+Seat 5: TALL PAUL folded before Flop (didn't bet)
+Seat 6: IOWA MATT showed [As Ad Ac Qs] and won ($5355)
+Seat 7: DOUG folded before Flop (didn't bet)
+Seat 8: FLASH folded before Flop (didn't bet)
+Seat 9: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000108:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:46:34 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: JOKERCHEIF ($1725 in chips)
+Seat 2: TALL PAUL ($3300 in chips)
+Seat 3: IOWA MATT ($6830 in chips)
+Seat 4: DOUG ($16392 in chips)
+Seat 5: FLASH ($1000 in chips)
+Seat 6: KENNY B ($1743 in chips)
+Seat 7: UKMIKE ($4605 in chips)
+Seat 8: EFAN ($2220 in chips)
+Seat 9: KIMPOSSIBLE ($860 in chips)
+JOKERCHEIF: posts small blind $5
+TALL PAUL: posts big blind $5
+IOWA MATT: posts straddle $10
+DOUG: posts straddle $20
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Ad Kc Qc 3d]
+Dealt to IOWA MATT [Qd Jc 7h 6d]
+Dealt to DOUG [9s 5s 3s 2d]
+Dealt to FLASH [Ah Jh 8c 6h]
+Dealt to EFAN [Td 6c 5h 4c]
+Dealt to KIMPOSSIBLE [Jd 9c 8h 4s]
+FLASH: calls $20
+KENNY B: folds
+UKMIKE: folds
+EFAN: folds
+KIMPOSSIBLE: folds
+JOKERCHEIF: folds
+TALL PAUL: calls $15
+IOWA MATT: calls $10
+DOUG: checks
+*** FLOP *** [Th 4h 3h]
+TALL PAUL: checks
+IOWA MATT: checks
+DOUG: checks
+FLASH: bets $75
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: folds
+Uncalled bet ($75) returned to FLASH
+FLASH collected $85 from pot
+*** SUMMARY ***
+Total pot $85 | Rake $0
+Board [Th 4h 3h]
+Seat 1: JOKERCHEIF (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded on the Flop
+Seat 3: IOWA MATT folded on the Flop
+Seat 4: DOUG folded on the Flop
+Seat 5: FLASH collected ($85)
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: UKMIKE folded before Flop (didn't bet)
+Seat 8: EFAN folded before Flop (didn't bet)
+Seat 9: KIMPOSSIBLE (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000113:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:56:51 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DOUG ($16347 in chips)
+Seat 2: FLASH ($960 in chips)
+Seat 3: KENNY B ($1678 in chips)
+Seat 4: UKMIKE ($4470 in chips)
+Seat 5: EFAN ($2195 in chips)
+Seat 6: KIMPOSSIBLE ($1401 in chips)
+Seat 7: JOKERCHEIF ($1900 in chips)
+Seat 8: TALL PAUL ($2909 in chips)
+Seat 9: IOWA MATT ($6785 in chips)
+DOUG: posts small blind $5
+FLASH: posts big blind $5
+KENNY B: posts straddle $10
+UKMIKE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DOUG [Ac 9d 9c 2d]
+Dealt to FLASH [Ad 8h 8d 6s]
+Dealt to KENNY B [Kh 9h 8c 5c]
+Dealt to UKMIKE [Kc 7h 6d 3c]
+Dealt to EFAN [Jc Td 5d 2c]
+Dealt to KIMPOSSIBLE [9s 7s 7c 3h]
+Dealt to JOKERCHEIF [Ah Ts 7d 2s]
+Dealt to TALL PAUL [Qc Jd 6c 3s]
+EFAN: folds
+KIMPOSSIBLE: calls $20
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: calls $15
+FLASH: calls $15
+KENNY B: calls $10
+UKMIKE: checks
+*** FLOP *** [As Qh Jh]
+DOUG: checks
+FLASH: checks
+KENNY B: checks
+UKMIKE: checks
+KIMPOSSIBLE: checks
+*** TURN *** [As Qh Jh] [Js]
+DOUG: checks
+FLASH: checks
+KENNY B: checks
+UKMIKE: checks
+KIMPOSSIBLE: checks
+*** RIVER *** [As Qh Jh Js] [2h]
+DOUG: checks
+FLASH: checks
+KENNY B: bets $50
+UKMIKE: folds
+KIMPOSSIBLE: folds
+DOUG: folds
+FLASH: folds
+Uncalled bet ($50) returned to KENNY B
+KENNY B collected $100 from pot
+*** SUMMARY ***
+Total pot $100 | Rake $0
+Board [As Qh Jh Js 2h]
+Seat 1: DOUG (small blind) folded on the River
+Seat 2: FLASH (big blind) folded on the River
+Seat 3: KENNY B collected ($100)
+Seat 4: UKMIKE folded on the River
+Seat 5: EFAN folded before Flop (didn't bet)
+Seat 6: KIMPOSSIBLE folded on the River
+Seat 7: JOKERCHEIF folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000114:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 20:58:57 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: FLASH ($940 in chips)
+Seat 2: KENNY B ($1773 in chips)
+Seat 3: UKMIKE ($4460 in chips)
+Seat 4: EFAN ($2175 in chips)
+Seat 5: KIMPOSSIBLE ($1401 in chips)
+Seat 6: JOKERCHEIF ($1900 in chips)
+Seat 7: TALL PAUL ($2909 in chips)
+Seat 8: IOWA MATT ($6785 in chips)
+Seat 9: DOUG ($16332 in chips)
+FLASH: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+EFAN: posts straddle $20
+*** HOLE CARDS ***
+Dealt to FLASH [Kc Qs Qc 9d]
+Dealt to KENNY B [Ac Th 6c 2h]
+Dealt to EFAN [Jh 8s 7s 4c]
+Dealt to KIMPOSSIBLE [Kh Tc 8d 7d]
+Dealt to DOUG [Ks 4d 3h 3c]
+KIMPOSSIBLE: calls $20
+JOKERCHEIF: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: folds
+FLASH: calls $15
+KENNY B: raises $80 to $100
+UKMIKE: folds
+EFAN: calls $80
+KIMPOSSIBLE: calls $80
+FLASH: calls $80
+*** FLOP *** [Td 4s As]
+FLASH: checks
+KENNY B: bets $250
+EFAN: calls $250
+KIMPOSSIBLE: folds
+FLASH: folds
+*** TURN *** [Td 4s As] [Jc]
+KENNY B: checks
+EFAN: bets $910
+KENNY B: folds
+Uncalled bet ($910) returned to EFAN
+EFAN collected $910 from pot
+*** SUMMARY ***
+Total pot $910 | Rake $0
+Board [Td 4s As Jc]
+Seat 1: FLASH (small blind) folded on the Flop
+Seat 2: KENNY B (big blind) folded on the Turn
+Seat 3: UKMIKE folded before Flop
+Seat 4: EFAN collected ($910)
+Seat 5: KIMPOSSIBLE folded on the Flop
+Seat 6: JOKERCHEIF folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000115:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:01:24 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($1378 in chips)
+Seat 2: UKMIKE ($4455 in chips)
+Seat 3: EFAN ($2745 in chips)
+Seat 4: KIMPOSSIBLE ($1301 in chips)
+Seat 5: JOKERCHEIF ($1900 in chips)
+Seat 6: TALL PAUL ($2859 in chips)
+Seat 7: IOWA MATT ($6785 in chips)
+Seat 8: DOUG ($16282 in chips)
+Seat 9: FLASH ($860 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+EFAN: posts straddle $10
+*** HOLE CARDS ***
+Dealt to UKMIKE [Qc 7d 5h 4d]
+Dealt to EFAN [Ah Ad 7h 2h]
+Dealt to KIMPOSSIBLE [Th 8d 3s 3d]
+Dealt to JOKERCHEIF [Tc 9c 8h 3h]
+Dealt to TALL PAUL [9d 7s 5d 4s]
+Dealt to IOWA MATT [Jc Td 4c 2s]
+Dealt to DOUG [Ks Qd 6s 6c]
+Dealt to FLASH [Js 9h 5c 2d]
+KIMPOSSIBLE: calls $10
+JOKERCHEIF: folds
+TALL PAUL: raises $40 to $50
+IOWA MATT: folds
+DOUG: calls $50
+FLASH: folds
+KENNY B: calls $45
+UKMIKE: folds
+EFAN: calls $40
+KIMPOSSIBLE: calls $40
+*** FLOP *** [8s 8c Ts]
+KENNY B: checks
+EFAN: checks
+KIMPOSSIBLE: checks
+TALL PAUL: checks
+DOUG: checks
+*** TURN *** [8s 8c Ts] [9s]
+KENNY B: checks
+EFAN: checks
+KIMPOSSIBLE: bets $255
+TALL PAUL: folds
+DOUG: folds
+KENNY B: folds
+EFAN: folds
+Uncalled bet ($255) returned to KIMPOSSIBLE
+KIMPOSSIBLE collected $255 from pot
+*** SUMMARY ***
+Total pot $255 | Rake $0
+Board [8s 8c Ts 9s]
+Seat 1: KENNY B (small blind) folded on the Turn
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: EFAN folded on the Turn
+Seat 4: KIMPOSSIBLE collected ($255)
+Seat 5: JOKERCHEIF folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded on the Turn
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded on the Turn
+Seat 9: FLASH (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000123:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:25:04 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DOUG ($15882 in chips)
+Seat 2: FLASH ($2070 in chips)
+Seat 3: KENNY B ($1900 in chips)
+Seat 4: UKMIKE ($5532 in chips)
+Seat 5: JOKERCHEIF ($1965 in chips)
+Seat 6: KIMPOSSIBLE ($1745 in chips)
+Seat 7: EFAN ($3030 in chips)
+Seat 8: TALL PAUL ($3472 in chips)
+Seat 9: IOWA MATT ($8798 in chips)
+DOUG: posts small blind $5
+FLASH: posts big blind $5
+KENNY B: posts straddle $10
+UKMIKE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to FLASH [Jd Ts 9c 6h]
+Dealt to KENNY B [Tc 7s 6s 4d]
+Dealt to UKMIKE [Ac Qh 9d 8d]
+Dealt to JOKERCHEIF [Td 5d 4c 2d]
+Dealt to KIMPOSSIBLE [As Kh Kd 6c]
+Dealt to EFAN [Jh 8h 7c 3s]
+Dealt to TALL PAUL [7h 7d 4h 2s]
+JOKERCHEIF: folds
+KIMPOSSIBLE: raises $60 to $80
+EFAN: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: calls $75
+FLASH: calls $75
+KENNY B: calls $70
+UKMIKE: calls $60
+*** FLOP *** [Ks 3c Ah]
+DOUG: checks
+FLASH: checks
+KENNY B: checks
+UKMIKE: checks
+KIMPOSSIBLE: bets $300
+DOUG: folds
+FLASH: folds
+KENNY B: folds
+UKMIKE: folds
+Uncalled bet ($300) returned to KIMPOSSIBLE
+KIMPOSSIBLE collected $400 from pot
+*** SUMMARY ***
+Total pot $400 | Rake $0
+Board [Ks 3c Ah]
+Seat 1: DOUG (small blind) folded on the Flop
+Seat 2: FLASH (big blind) folded on the Flop
+Seat 3: KENNY B folded on the Flop
+Seat 4: UKMIKE folded on the Flop
+Seat 5: JOKERCHEIF folded before Flop (didn't bet)
+Seat 6: KIMPOSSIBLE collected ($400)
+Seat 7: EFAN folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000124:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:27:15 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: FLASH ($2065 in chips)
+Seat 2: KENNY B ($1895 in chips)
+Seat 3: UKMIKE ($5462 in chips)
+Seat 4: JOKERCHEIF ($1945 in chips)
+Seat 5: KIMPOSSIBLE ($2065 in chips)
+Seat 6: EFAN ($3030 in chips)
+Seat 7: TALL PAUL ($3472 in chips)
+Seat 8: IOWA MATT ($8798 in chips)
+Seat 9: DOUG ($15882 in chips)
+FLASH: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Kd 9c 3h 2d]
+Dealt to JOKERCHEIF [Kc 6c 5h 4d]
+Dealt to KIMPOSSIBLE [Kh 9h 6h 6d]
+Dealt to TALL PAUL [Qs Jc 5d 4s]
+Dealt to IOWA MATT [Ac 9s 7d 2s]
+Dealt to DOUG [Js 9d 8h 7c]
+KIMPOSSIBLE: calls $20
+EFAN: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: raises $80 to $100
+FLASH: folds
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: calls $80
+KIMPOSSIBLE: calls $80
+*** FLOP *** [4h 7s 8c]
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+DOUG: bets $200
+JOKERCHEIF: raises $720 to $920
+KIMPOSSIBLE: folds
+DOUG: folds
+Uncalled bet ($720) returned to JOKERCHEIF
+JOKERCHEIF collected $720 from pot
+*** SUMMARY ***
+Total pot $720 | Rake $0
+Board [4h 7s 8c]
+Seat 1: FLASH (small blind) folded before Flop
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: UKMIKE folded before Flop
+Seat 4: JOKERCHEIF collected ($720)
+Seat 5: KIMPOSSIBLE folded on the Flop
+Seat 6: EFAN folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded on the Flop
+
+
+PokerStars Hand #2700000125:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:30:10 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($1870 in chips)
+Seat 2: UKMIKE ($5457 in chips)
+Seat 3: JOKERCHEIF ($2360 in chips)
+Seat 4: KIMPOSSIBLE ($1965 in chips)
+Seat 5: EFAN ($3030 in chips)
+Seat 6: TALL PAUL ($3472 in chips)
+Seat 7: IOWA MATT ($8798 in chips)
+Seat 8: DOUG ($15572 in chips)
+Seat 9: FLASH ($2040 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+*** HOLE CARDS ***
+Dealt to JOKERCHEIF [Ac Tc 9c 4h]
+Dealt to KIMPOSSIBLE [Js Jc Td 2s]
+Dealt to EFAN [Ah Qc 6s 3s]
+Dealt to IOWA MATT [Kc 9d 5d 4d]
+Dealt to DOUG [As 9h 4s 2d]
+Dealt to FLASH [Kh Kd 3h 3d]
+KIMPOSSIBLE: calls $10
+EFAN: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: calls $10
+FLASH: raises $15 to $25
+KENNY B: calls $20
+UKMIKE: folds
+JOKERCHEIF: calls $15
+KIMPOSSIBLE: calls $15
+DOUG: calls $15
+*** FLOP *** [8h 7c Qd]
+KENNY B: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+DOUG: checks
+FLASH: checks
+*** TURN *** [8h 7c Qd] [6d]
+KENNY B: checks
+JOKERCHEIF: bets $100
+KIMPOSSIBLE: calls $100
+DOUG: calls $100
+FLASH: calls $100
+KENNY B: folds
+*** RIVER *** [8h 7c Qd 6d] [Th]
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+DOUG: checks
+FLASH: checks
+*** SHOW DOWN ***
+JOKERCHEIF: shows [Ac Tc 9c 4h]
+KIMPOSSIBLE: shows [Js Jc Td 2s]
+DOUG: shows [As 9h 4s 2d]
+FLASH: shows [Kh Kd 3h 3d]
+JOKERCHEIF collected $530 from pot
+*** SUMMARY ***
+Total pot $530 | Rake $0
+Board [8h 7c Qd 6d Th]
+Seat 1: KENNY B (small blind) folded on the Turn
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: JOKERCHEIF showed [Ac Tc 9c 4h] and won ($530)
+Seat 4: KIMPOSSIBLE showed [Js Jc Td 2s] and lost
+Seat 5: EFAN folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG showed [As 9h 4s 2d] and lost
+Seat 9: FLASH (button) showed [Kh Kd 3h 3d] and lost
+
+
+PokerStars Hand #2700000130:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:43:26 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: EFAN ($2970 in chips)
+Seat 2: TALL PAUL ($5407 in chips)
+Seat 3: IOWA MATT ($9163 in chips)
+Seat 4: DOUG ($14942 in chips)
+Seat 5: FLASH ($1510 in chips)
+Seat 6: KENNY B ($3000 in chips)
+Seat 7: UKMIKE ($7327 in chips)
+Seat 8: JOKERCHEIF ($2755 in chips)
+Seat 9: KIMPOSSIBLE ($470 in chips)
+EFAN: posts small blind $5
+TALL PAUL: posts big blind $5
+IOWA MATT: posts straddle $10
+DOUG: posts straddle $20
+*** HOLE CARDS ***
+Dealt to IOWA MATT [Js Th Tc 7c]
+Dealt to DOUG [Ad Qh Jd 9h]
+Dealt to FLASH [Qc 7h 6d 4c]
+Dealt to KENNY B [Ks Kd 6h 6c]
+Dealt to UKMIKE [Kh 7d 2s 2d]
+Dealt to KIMPOSSIBLE [As Kc 7s 4s]
+FLASH: folds
+KENNY B: raises $60 to $80
+UKMIKE: folds
+JOKERCHEIF: folds
+KIMPOSSIBLE: calls $80
+EFAN: calls $75
+TALL PAUL: folds
+IOWA MATT: calls $70
+DOUG: raises $405 to $485
+KENNY B: calls $405
+KIMPOSSIBLE: calls $390 and is all-in
+EFAN: calls $405
+IOWA MATT: calls $405
+*** FIRST FLOP *** [8d 4d Ah]
+EFAN: bets $2485 and is all-in
+IOWA MATT: folds
+DOUG: calls $2485
+KENNY B: folds
+*** FIRST TURN *** [8d 4d Ah] [Td]
+*** FIRST RIVER *** [8d 4d Ah Td] [5s]
+*** SECOND TURN *** [8d 4d Ah] [4h]
+*** SECOND RIVER *** [8d 4d Ah 4h] [Jc]
+*** FIRST SHOW DOWN ***
+EFAN: mucks hand
+DOUG: shows [Ad Qh Jd 9h]
+KIMPOSSIBLE: shows [As Kc 7s 4s]
+KIMPOSSIBLE collected $1178 from pot
+DOUG collected $6207 from pot
+*** SECOND SHOW DOWN ***
+EFAN: mucks hand
+DOUG: shows [Ad Qh Jd 9h]
+KIMPOSSIBLE: shows [As Kc 7s 4s]
+*** SUMMARY ***
+Total pot $7385 | Rake $0
+Hand was run twice
+FIRST Board [8d 4d Ah Td 5s]
+SECOND Board [8d 4d Ah 4h Jc]
+Seat 1: EFAN (small blind) mucked
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: IOWA MATT folded on the Flop
+Seat 4: DOUG showed [Ad Qh Jd 9h] and won ($6207)
+Seat 5: FLASH folded before Flop (didn't bet)
+Seat 6: KENNY B folded on the Flop
+Seat 7: UKMIKE folded before Flop (didn't bet)
+Seat 8: JOKERCHEIF folded before Flop (didn't bet)
+Seat 9: KIMPOSSIBLE (button) showed [As Kc 7s 4s] and won ($1178)
+
+
+PokerStars Hand #2700000131:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 21:48:14 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($5402 in chips)
+Seat 2: IOWA MATT ($8753 in chips)
+Seat 3: DOUG ($18189 in chips)
+Seat 4: FLASH ($1510 in chips)
+Seat 5: KENNY B ($2475 in chips)
+Seat 6: UKMIKE ($7327 in chips)
+Seat 7: JOKERCHEIF ($2715 in chips)
+Seat 8: KIMPOSSIBLE ($1178 in chips)
+Seat 9: EFAN ($2000 in chips)
+TALL PAUL: posts small blind $5
+IOWA MATT: posts big blind $5
+DOUG: posts straddle $10
+*** HOLE CARDS ***
+Dealt to FLASH [As Ks 3s 2h]
+Dealt to KENNY B [9d 7c 6s 6h]
+Dealt to JOKERCHEIF [Js 5h 4s 3h]
+Dealt to KIMPOSSIBLE [Ac Kd Kc Jh]
+Dealt to EFAN [Qc 9s 9h 5s]
+FLASH: calls $10
+KENNY B: raises $30 to $40
+UKMIKE: folds
+JOKERCHEIF: calls $40
+KIMPOSSIBLE: raises $150 to $190
+EFAN: calls $190
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: folds
+FLASH: calls $180
+KENNY B: calls $150
+JOKERCHEIF: calls $150
+*** FIRST FLOP *** [5c 5d 6d]
+FLASH: checks
+KENNY B: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+EFAN: bets $970
+FLASH: folds
+KENNY B: calls $970
+JOKERCHEIF: folds
+KIMPOSSIBLE: folds
+*** FIRST TURN *** [5c 5d 6d] [Th]
+KENNY B: checks
+EFAN: bets $840 and is all-in
+KENNY B: calls $840
+*** FIRST RIVER *** [5c 5d 6d Th] [Qd]
+*** SECOND RIVER *** [5c 5d 6d Th] [4c]
+*** FIRST SHOW DOWN ***
+KENNY B: shows [9d 7c 6s 6h]
+EFAN: shows [Qc 9s 9h 5s]
+KENNY B collected $2295 from pot
+*** SECOND SHOW DOWN ***
+KENNY B: shows [9d 7c 6s 6h]
+EFAN: shows [Qc 9s 9h 5s]
+KENNY B collected $2295 from pot
+*** SUMMARY ***
+Total pot $4590 | Rake $0
+Hand was run twice
+FIRST Board [5c 5d 6d Th Qd]
+SECOND Board [5c 5d 6d Th 4c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: IOWA MATT (big blind) folded before Flop
+Seat 3: DOUG folded before Flop
+Seat 4: FLASH folded on the Flop
+Seat 5: KENNY B showed [9d 7c 6s 6h] and won ($4590)
+Seat 6: UKMIKE folded before Flop (didn't bet)
+Seat 7: JOKERCHEIF folded on the Flop
+Seat 8: KIMPOSSIBLE folded on the Flop
+Seat 9: EFAN (button) showed [Qc 9s 9h 5s] and lost
+
+
+PokerStars Hand #2700000135:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 22:03:39 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #8 is the button
+Seat 1: KENNY B ($6305 in chips)
+Seat 2: UKMIKE ($7252 in chips)
+Seat 3: JOKERCHEIF ($2335 in chips)
+Seat 4: KIMPOSSIBLE ($948 in chips)
+Seat 5: EFAN ($1360 in chips)
+Seat 6: TALL PAUL ($5362 in chips)
+Seat 7: IOWA MATT ($9643 in chips)
+Seat 8: DOUG ($18384 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Kd 8d 5c 2c]
+Dealt to JOKERCHEIF [Ah Jh 9s 3h]
+Dealt to TALL PAUL [Ks Kh 9c 8h]
+Dealt to IOWA MATT [Kc Jd Td 6d]
+Dealt to DOUG [Ad 8s 6h 5s]
+KIMPOSSIBLE: folds
+EFAN: folds
+TALL PAUL: raises $30 to $40
+IOWA MATT: folds
+DOUG: calls $40
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: calls $30
+*** FLOP *** [Qs 9d 5d]
+JOKERCHEIF: checks
+TALL PAUL: checks
+DOUG: checks
+*** TURN *** [Qs 9d 5d] [5h]
+JOKERCHEIF: checks
+TALL PAUL: bets $55
+DOUG: calls $55
+JOKERCHEIF: folds
+*** RIVER *** [Qs 9d 5d 5h] [4c]
+TALL PAUL: bets $150
+DOUG: calls $150
+*** SHOW DOWN ***
+TALL PAUL: shows [Ks Kh 9c 8h]
+DOUG: shows [Ad 8s 6h 5s]
+DOUG collected $540 from pot
+*** SUMMARY ***
+Total pot $540 | Rake $0
+Board [Qs 9d 5d 5h 4c]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: JOKERCHEIF folded on the Turn
+Seat 4: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 5: EFAN folded before Flop (didn't bet)
+Seat 6: TALL PAUL showed [Ks Kh 9c 8h] and lost
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG (button) showed [Ad 8s 6h 5s] and won ($540)
+
+
+PokerStars Hand #2700000144:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 22:28:49 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DUSTIN ($2510 in chips)
+Seat 2: KENNY B ($9715 in chips)
+Seat 3: UKMIKE ($5022 in chips)
+Seat 4: JOKERCHEIF ($1675 in chips)
+Seat 5: KIMPOSSIBLE ($2000 in chips)
+Seat 6: EFAN ($965 in chips)
+Seat 7: TALL PAUL ($4792 in chips)
+Seat 8: IOWA MATT ($8853 in chips)
+Seat 9: DOUG ($19344 in chips)
+DUSTIN: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [9h 8h 7d 5h]
+Dealt to JOKERCHEIF [Ac Jd 7c 3h]
+Dealt to KIMPOSSIBLE [9s 9d 6d 3c]
+Dealt to EFAN [Kd Ts 9c 8d]
+Dealt to TALL PAUL [As 7h 6h 3s]
+Dealt to IOWA MATT [Kh 5c 4s 2h]
+KIMPOSSIBLE: calls $20
+EFAN: calls $20
+TALL PAUL: raises $80 to $100
+IOWA MATT: folds
+DOUG: folds
+DUSTIN: folds
+KENNY B: calls $95
+UKMIKE: folds
+JOKERCHEIF: calls $80
+KIMPOSSIBLE: calls $80
+EFAN: calls $80
+*** FLOP *** [4c Th Qd]
+KENNY B: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+EFAN: checks
+TALL PAUL: checks
+*** TURN *** [4c Th Qd] [Qs]
+KENNY B: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+EFAN: checks
+TALL PAUL: checks
+*** RIVER *** [4c Th Qd Qs] [Ad]
+KENNY B: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+EFAN: checks
+TALL PAUL: checks
+*** SHOW DOWN ***
+KENNY B: shows [9h 8h 7d 5h]
+JOKERCHEIF: shows [Ac Jd 7c 3h]
+KIMPOSSIBLE: shows [9s 9d 6d 3c]
+EFAN: shows [Kd Ts 9c 8d]
+TALL PAUL: shows [As 7h 6h 3s]
+JOKERCHEIF collected $515 from pot
+*** SUMMARY ***
+Total pot $515 | Rake $0
+Board [4c Th Qd Qs Ad]
+Seat 1: DUSTIN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) showed [9h 8h 7d 5h] and lost
+Seat 3: UKMIKE folded before Flop
+Seat 4: JOKERCHEIF showed [Ac Jd 7c 3h] and won ($515)
+Seat 5: KIMPOSSIBLE showed [9s 9d 6d 3c] and lost
+Seat 6: EFAN showed [Kd Ts 9c 8d] and lost
+Seat 7: TALL PAUL showed [As 7h 6h 3s] and lost
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000145:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 22:30:44 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($9615 in chips)
+Seat 2: UKMIKE ($5017 in chips)
+Seat 3: JOKERCHEIF ($2180 in chips)
+Seat 4: KIMPOSSIBLE ($1900 in chips)
+Seat 5: EFAN ($865 in chips)
+Seat 6: TALL PAUL ($4782 in chips)
+Seat 7: IOWA MATT ($8853 in chips)
+Seat 8: DOUG ($19344 in chips)
+Seat 9: DUSTIN ($2510 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Qd Jd Ts 3s]
+Dealt to JOKERCHEIF [Ad Qs 8s 3c]
+Dealt to KIMPOSSIBLE [Kc 9d 5c 2s]
+Dealt to EFAN [Ac Qc Jc 2c]
+Dealt to TALL PAUL [Ah 5h 4s 2h]
+Dealt to IOWA MATT [As Td 7c 6d]
+Dealt to DOUG [Jh 9c 5s 5d]
+Dealt to DUSTIN [Th 9h 6s 6h]
+KIMPOSSIBLE: folds
+EFAN: folds
+TALL PAUL: calls $10
+IOWA MATT: folds
+DOUG: folds
+DUSTIN: raises $40 to $50
+KENNY B: calls $45
+UKMIKE: folds
+JOKERCHEIF: calls $40
+TALL PAUL: calls $40
+*** FLOP *** [4d 7d Ks]
+KENNY B: checks
+JOKERCHEIF: checks
+TALL PAUL: checks
+DUSTIN: checks
+*** TURN *** [4d 7d Ks] [Js]
+KENNY B: bets $80
+JOKERCHEIF: calls $80
+TALL PAUL: folds
+DUSTIN: folds
+*** RIVER *** [4d 7d Ks Js] [8d]
+KENNY B: checks
+JOKERCHEIF: bets $365
+KENNY B: calls $365
+*** SHOW DOWN ***
+KENNY B: shows [Qd Jd Ts 3s]
+JOKERCHEIF: shows [Ad Qs 8s 3c]
+KENNY B collected $1095 from pot
+*** SUMMARY ***
+Total pot $1095 | Rake $0
+Board [4d 7d Ks Js 8d]
+Seat 1: KENNY B (small blind) showed [Qd Jd Ts 3s] and won ($1095)
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: JOKERCHEIF showed [Ad Qs 8s 3c] and lost
+Seat 4: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 5: EFAN folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded on the Turn
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: DUSTIN (button) folded on the Turn
+
+
+PokerStars Hand #2700000153:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 22:51:18 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #8 is the button
+Seat 1: DUSTIN ($2405 in chips)
+Seat 2: KENNY B ($10885 in chips)
+Seat 3: UKMIKE ($5232 in chips)
+Seat 4: JOKERCHEIF ($2245 in chips)
+Seat 5: KIMPOSSIBLE ($2225 in chips)
+Seat 6: TALL PAUL ($4642 in chips)
+Seat 7: IOWA MATT ($8788 in chips)
+Seat 8: DOUG ($18614 in chips)
+DUSTIN: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DUSTIN [As Ah Kc 9s]
+Dealt to KENNY B [Qc 7h 6c 5d]
+Dealt to JOKERCHEIF [9c 8c 7s 4s]
+Dealt to KIMPOSSIBLE [Kd Ts 7c 3h]
+Dealt to TALL PAUL [Qs Jh 8s 4c]
+Dealt to IOWA MATT [8d 6h 6d 4d]
+Dealt to DOUG [Qh 8h 5c 4h]
+KIMPOSSIBLE: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: calls $20
+DUSTIN: raises $75 to $95
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: calls $75
+DOUG: calls $75
+*** FLOP *** [3s 7d Kh]
+DUSTIN: checks
+JOKERCHEIF: bets $125
+DOUG: folds
+DUSTIN: calls $125
+*** TURN *** [3s 7d Kh] [5h]
+DUSTIN: checks
+JOKERCHEIF: bets $300
+DUSTIN: folds
+Uncalled bet ($300) returned to JOKERCHEIF
+JOKERCHEIF collected $550 from pot
+*** SUMMARY ***
+Total pot $550 | Rake $0
+Board [3s 7d Kh 5h]
+Seat 1: DUSTIN (small blind) folded on the Turn
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: UKMIKE folded before Flop
+Seat 4: JOKERCHEIF collected ($550)
+Seat 5: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG (button) folded on the Flop
+
+
+PokerStars Hand #2700000155:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 22:56:57 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($10880 in chips)
+Seat 2: UKMIKE ($5202 in chips)
+Seat 3: JOKERCHEIF ($2180 in chips)
+Seat 4: KIMPOSSIBLE ($2200 in chips)
+Seat 5: SON ($1000 in chips)
+Seat 6: TALL PAUL ($4642 in chips)
+Seat 7: IOWA MATT ($8763 in chips)
+Seat 8: DOUG ($19004 in chips)
+Seat 9: DUSTIN ($2165 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Ad 9c 7d 5d]
+Dealt to UKMIKE [Kh Kd 3s 2s]
+Dealt to JOKERCHEIF [Ts 8h 6h 3d]
+Dealt to KIMPOSSIBLE [Qd Jd 4d 3c]
+Dealt to SON [As Jh Tc 4s]
+Dealt to TALL PAUL [Ah 9s 8s 7c]
+Dealt to IOWA MATT [Js 8d 5h 2c]
+Dealt to DOUG [Kc 8c 6s 6c]
+KIMPOSSIBLE: calls $10
+SON: calls $10
+TALL PAUL: calls $10
+IOWA MATT: folds
+DOUG: calls $10
+DUSTIN: folds
+KENNY B: raises $30 to $40
+UKMIKE: calls $35
+JOKERCHEIF: calls $30
+KIMPOSSIBLE: calls $30
+SON: calls $30
+TALL PAUL: calls $30
+DOUG: calls $30
+*** FIRST FLOP *** [5s Th Td]
+KENNY B: bets $60
+UKMIKE: calls $60
+JOKERCHEIF: calls $60
+KIMPOSSIBLE: folds
+SON: raises $200 to $260
+TALL PAUL: folds
+DOUG: folds
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: calls $200
+*** FIRST TURN *** [5s Th Td] [5c]
+JOKERCHEIF: checks
+SON: bets $700 and is all-in
+JOKERCHEIF: calls $700
+*** FIRST RIVER *** [5s Th Td 5c] [2d]
+*** SECOND RIVER *** [5s Th Td 5c] [Qc]
+*** FIRST SHOW DOWN ***
+JOKERCHEIF: shows [Ts 8h 6h 3d]
+SON: shows [As Jh Tc 4s]
+SON collected $1160 from pot
+*** SECOND SHOW DOWN ***
+JOKERCHEIF: shows [Ts 8h 6h 3d]
+SON: shows [As Jh Tc 4s]
+SON collected $1160 from pot
+*** SUMMARY ***
+Total pot $2320 | Rake $0
+Hand was run twice
+FIRST Board [5s Th Td 5c 2d]
+SECOND Board [5s Th Td 5c Qc]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: UKMIKE (big blind) folded on the Flop
+Seat 3: JOKERCHEIF showed [Ts 8h 6h 3d] and lost
+Seat 4: KIMPOSSIBLE folded on the Flop
+Seat 5: SON showed [As Jh Tc 4s] and won ($2320)
+Seat 6: TALL PAUL folded on the Flop
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded on the Flop
+Seat 9: DUSTIN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000157:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:04:51 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: JOKERCHEIF ($1165 in chips)
+Seat 2: KIMPOSSIBLE ($2145 in chips)
+Seat 3: SON ($1940 in chips)
+Seat 4: TALL PAUL ($4542 in chips)
+Seat 5: IOWA MATT ($8763 in chips)
+Seat 6: DOUG ($18894 in chips)
+Seat 7: DUSTIN ($2165 in chips)
+Seat 8: KENNY B ($10485 in chips)
+Seat 9: UKMIKE ($7227 in chips)
+JOKERCHEIF: posts small blind $5
+KIMPOSSIBLE: posts big blind $5
+SON: posts straddle $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KIMPOSSIBLE [Ks Td 7s 3d]
+Dealt to SON [Qc 7h 6c 5h]
+Dealt to TALL PAUL [Th 8c 7c 4d]
+Dealt to IOWA MATT [Ad Kd 8h 4s]
+Dealt to DOUG [Ah Qd Js 5s]
+Dealt to DUSTIN [9s 7d 6s 6d]
+Dealt to KENNY B [Tc 9c 5d 3c]
+IOWA MATT: folds
+DOUG: raises $60 to $80
+DUSTIN: calls $80
+KENNY B: folds
+UKMIKE: calls $80
+JOKERCHEIF: folds
+KIMPOSSIBLE: folds
+SON: calls $70
+TALL PAUL: folds
+*** FLOP *** [5c 8s 2c]
+SON: checks
+DOUG: checks
+DUSTIN: checks
+UKMIKE: checks
+*** TURN *** [5c 8s 2c] [Jc]
+SON: checks
+DOUG: checks
+DUSTIN: checks
+UKMIKE: bets $300
+SON: calls $300
+DOUG: folds
+DUSTIN: folds
+*** RIVER *** [5c 8s 2c Jc] [3h]
+SON: bets $150
+UKMIKE: calls $150
+*** SHOW DOWN ***
+SON: shows [Qc 7h 6c 5h]
+UKMIKE: mucks hand
+SON collected $1250 from pot
+*** SUMMARY ***
+Total pot $1250 | Rake $0
+Board [5c 8s 2c Jc 3h]
+Seat 1: JOKERCHEIF (small blind) folded before Flop
+Seat 2: KIMPOSSIBLE (big blind) folded before Flop
+Seat 3: SON showed [Qc 7h 6c 5h] and won ($1250)
+Seat 4: TALL PAUL folded before Flop
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: DOUG folded on the Turn
+Seat 7: DUSTIN folded on the Turn
+Seat 8: KENNY B folded before Flop (didn't bet)
+Seat 9: UKMIKE (button) mucked
+
+
+PokerStars Hand #2700000164:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:21:51 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #8 is the button
+Seat 1: DUSTIN ($1785 in chips)
+Seat 2: KENNY B ($9935 in chips)
+Seat 3: UKMIKE ($8122 in chips)
+Seat 4: JOKERCHEIF ($2360 in chips)
+Seat 5: KIMPOSSIBLE ($2188 in chips)
+Seat 6: SON ($3355 in chips)
+Seat 7: TALL PAUL ($4417 in chips)
+Seat 8: IOWA MATT ($8698 in chips)
+DUSTIN: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Ks Qh Jd 8d]
+Dealt to JOKERCHEIF [Ah Qs 7s 3c]
+Dealt to KIMPOSSIBLE [Qd 8h 6c 5d]
+Dealt to SON [Ac 9s 6d 4d]
+Dealt to TALL PAUL [Kh 6h 5s 4c]
+Dealt to IOWA MATT [Kc Th 2h 2d]
+KIMPOSSIBLE: folds
+SON: folds
+TALL PAUL: raises $60 to $80
+IOWA MATT: folds
+DUSTIN: folds
+KENNY B: calls $75
+UKMIKE: folds
+JOKERCHEIF: calls $60
+*** FLOP *** [5c Ts As]
+KENNY B: checks
+JOKERCHEIF: checks
+TALL PAUL: checks
+*** TURN *** [5c Ts As] [7h]
+KENNY B: bets $150
+JOKERCHEIF: raises $275 to $425
+TALL PAUL: folds
+KENNY B: calls $275
+*** RIVER *** [5c Ts As 7h] [2s]
+KENNY B: bets $875
+JOKERCHEIF: calls $875
+*** SHOW DOWN ***
+KENNY B: shows [Ks Qh Jd 8d]
+JOKERCHEIF: shows [Ah Qs 7s 3c]
+JOKERCHEIF collected $2855 from pot
+*** SUMMARY ***
+Total pot $2855 | Rake $0
+Board [5c Ts As 7h 2s]
+Seat 1: DUSTIN (small blind) folded before Flop
+Seat 2: KENNY B (big blind) showed [Ks Qh Jd 8d] and lost
+Seat 3: UKMIKE folded before Flop
+Seat 4: JOKERCHEIF showed [Ah Qs 7s 3c] and won ($2855)
+Seat 5: KIMPOSSIBLE folded before Flop (didn't bet)
+Seat 6: SON folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the Turn
+Seat 8: IOWA MATT (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000165:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:24:46 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($8630 in chips)
+Seat 2: UKMIKE ($8117 in chips)
+Seat 3: JOKERCHEIF ($3905 in chips)
+Seat 4: KIMPOSSIBLE ($2168 in chips)
+Seat 5: SON ($3355 in chips)
+Seat 6: TALL PAUL ($4417 in chips)
+Seat 7: IOWA MATT ($8698 in chips)
+Seat 8: DOUG ($18481 in chips)
+Seat 9: DUSTIN ($1785 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+KIMPOSSIBLE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Qs Qh Td 2h]
+Dealt to UKMIKE [Kc Qd Jc 6s]
+Dealt to JOKERCHEIF [Ad Ts 4d 3d]
+Dealt to SON [9d 8d 6d 5c]
+Dealt to TALL PAUL [Th 9c 8c 7c]
+Dealt to IOWA MATT [7h 7d 5d 3s]
+Dealt to DOUG [Ac Ks Jh Jd]
+Dealt to DUSTIN [As Ah 5s 2d]
+SON: calls $20
+TALL PAUL: raises $80 to $100
+IOWA MATT: folds
+DOUG: calls $100
+DUSTIN: raises $350 to $450
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: folds
+KIMPOSSIBLE: folds
+SON: folds
+TALL PAUL: calls $350
+DOUG: folds
+*** FLOP *** [4s 2c 5h]
+TALL PAUL: checks
+DUSTIN: bets $1060
+TALL PAUL: folds
+Uncalled bet ($1060) returned to DUSTIN
+DUSTIN collected $1060 from pot
+*** SUMMARY ***
+Total pot $1060 | Rake $0
+Board [4s 2c 5h]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: UKMIKE (big blind) folded before Flop
+Seat 3: JOKERCHEIF folded before Flop
+Seat 4: KIMPOSSIBLE folded before Flop
+Seat 5: SON folded before Flop
+Seat 6: TALL PAUL folded on the Flop
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop
+Seat 9: DUSTIN (button) collected ($1060)
+
+
+PokerStars Hand #2700000167:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:29:55 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: JOKERCHEIF ($3880 in chips)
+Seat 2: KIMPOSSIBLE ($1593 in chips)
+Seat 3: SON ($3305 in chips)
+Seat 4: TALL PAUL ($3797 in chips)
+Seat 5: IOWA MATT ($8698 in chips)
+Seat 6: DOUG ($19281 in chips)
+Seat 7: DUSTIN ($2395 in chips)
+Seat 8: KENNY B ($8480 in chips)
+Seat 9: UKMIKE ($8112 in chips)
+JOKERCHEIF: posts small blind $5
+KIMPOSSIBLE: posts big blind $5
+SON: posts straddle $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to JOKERCHEIF [8s 7h 5s 3d]
+Dealt to KIMPOSSIBLE [Kh 8d 7s 2d]
+Dealt to SON [Ah Ad Ts 6c]
+Dealt to TALL PAUL [As Jc 9h 9c]
+Dealt to IOWA MATT [Kc 5h 4h 4c]
+Dealt to DUSTIN [Kd Qc 7c 3c]
+Dealt to KENNY B [Qh Js 5c 4d]
+IOWA MATT: folds
+DOUG: folds
+DUSTIN: folds
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: calls $15
+KIMPOSSIBLE: calls $15
+SON: raises $40 to $60
+TALL PAUL: calls $40
+JOKERCHEIF: calls $40
+KIMPOSSIBLE: folds
+*** FLOP *** [4s 5d Qd]
+JOKERCHEIF: checks
+SON: bets $125
+TALL PAUL: folds
+JOKERCHEIF: calls $125
+*** TURN *** [4s 5d Qd] [9d]
+JOKERCHEIF: checks
+SON: bets $250
+JOKERCHEIF: folds
+Uncalled bet ($250) returned to SON
+SON collected $450 from pot
+*** SUMMARY ***
+Total pot $450 | Rake $0
+Board [4s 5d Qd 9d]
+Seat 1: JOKERCHEIF (small blind) folded on the Turn
+Seat 2: KIMPOSSIBLE (big blind) folded before Flop
+Seat 3: SON collected ($450)
+Seat 4: TALL PAUL folded on the Flop
+Seat 5: IOWA MATT folded before Flop (didn't bet)
+Seat 6: DOUG folded before Flop (didn't bet)
+Seat 7: DUSTIN folded before Flop (didn't bet)
+Seat 8: KENNY B folded before Flop (didn't bet)
+Seat 9: UKMIKE (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000174:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:48:30 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: DUSTIN ($2050 in chips)
+Seat 2: KENNY B ($7380 in chips)
+Seat 3: UKMIKE ($7842 in chips)
+Seat 4: JOKERCHEIF ($3425 in chips)
+Seat 5: KIMPOSSIBLE ($1608 in chips)
+Seat 6: SON ($3610 in chips)
+Seat 7: TALL PAUL ($3677 in chips)
+Seat 8: IOWA MATT ($9743 in chips)
+Seat 9: DOUG ($20101 in chips)
+DUSTIN: posts small blind $5
+KENNY B: posts big blind $5
+UKMIKE: posts straddle $10
+JOKERCHEIF: posts straddle $20
+*** HOLE CARDS ***
+Dealt to DUSTIN [As Kd Qd 7s]
+Dealt to KENNY B [Ad Qc 4d 2h]
+Dealt to JOKERCHEIF [Ks 8h 5h 2d]
+Dealt to KIMPOSSIBLE [9s 6c 4s 3s]
+Dealt to SON [Js 8s 8c 3d]
+Dealt to TALL PAUL [Ac 7d 6h 2s]
+Dealt to IOWA MATT [Ts 9d 5d 3c]
+Dealt to DOUG [Ah Tc 9h 9c]
+KIMPOSSIBLE: calls $20
+SON: calls $20
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: raises $100 to $120
+DUSTIN: raises $280 to $400
+KENNY B: folds
+UKMIKE: folds
+JOKERCHEIF: folds
+KIMPOSSIBLE: folds
+SON: folds
+DOUG: calls $280
+*** FLOP *** [3h Jc 6d]
+DUSTIN: bets $345
+DOUG: folds
+Uncalled bet ($345) returned to DUSTIN
+DUSTIN collected $875 from pot
+*** SUMMARY ***
+Total pot $875 | Rake $0
+Board [3h Jc 6d]
+Seat 1: DUSTIN (small blind) collected ($875)
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: UKMIKE folded before Flop
+Seat 4: JOKERCHEIF folded before Flop
+Seat 5: KIMPOSSIBLE folded before Flop
+Seat 6: SON folded before Flop
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: IOWA MATT folded before Flop (didn't bet)
+Seat 9: DOUG (button) folded on the Flop
+
+
+PokerStars Hand #2700000175:  Omaha Pot Limit ($5/$5 USD) - 2026/01/02 23:51:16 ET
+Table 'Tch Austin 5 5 10 Plo Opgoyx' 9-max Seat #9 is the button
+Seat 1: KENNY B ($7375 in chips)
+Seat 2: UKMIKE ($7767 in chips)
+Seat 3: JOKERCHEIF ($3415 in chips)
+Seat 4: KIMPOSSIBLE ($1568 in chips)
+Seat 5: SON ($3590 in chips)
+Seat 6: TALL PAUL ($3677 in chips)
+Seat 7: IOWA MATT ($9743 in chips)
+Seat 8: DOUG ($19821 in chips)
+Seat 9: DUSTIN ($2530 in chips)
+KENNY B: posts small blind $5
+UKMIKE: posts big blind $5
+JOKERCHEIF: posts straddle $10
+KIMPOSSIBLE: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Ah Kd 3d 2h]
+Dealt to UKMIKE [As Th Tc 4s]
+Dealt to JOKERCHEIF [Kh Qs Qh 9h]
+Dealt to KIMPOSSIBLE [Ac Ts 5c 4d]
+Dealt to SON [Qd 8s 4h 3c]
+Dealt to TALL PAUL [Jh 7c 4c 3s]
+Dealt to IOWA MATT [Ad 9s 6h 5s]
+Dealt to DOUG [8c 7s 7d 2c]
+Dealt to DUSTIN [Ks Jd 2s 2d]
+SON: folds
+TALL PAUL: folds
+IOWA MATT: folds
+DOUG: folds
+DUSTIN: folds
+KENNY B: raises $55 to $75
+UKMIKE: calls $70
+JOKERCHEIF: raises $75 to $150
+KIMPOSSIBLE: calls $130
+KENNY B: calls $75
+UKMIKE: calls $75
+*** FLOP *** [6d Kc Jc]
+KENNY B: checks
+UKMIKE: checks
+JOKERCHEIF: checks
+KIMPOSSIBLE: checks
+*** TURN *** [6d Kc Jc] [3h]
+KENNY B: checks
+UKMIKE: bets $600
+JOKERCHEIF: calls $600
+KIMPOSSIBLE: calls $600
+KENNY B: folds
+*** RIVER *** [6d Kc Jc 3h] [5h]
+UKMIKE: bets $900
+JOKERCHEIF: folds
+KIMPOSSIBLE: folds
+Uncalled bet ($900) returned to UKMIKE
+UKMIKE collected $2400 from pot
+*** SUMMARY ***
+Total pot $2400 | Rake $0
+Board [6d Kc Jc 3h 5h]
+Seat 1: KENNY B (small blind) folded on the Turn
+Seat 2: UKMIKE (big blind) collected ($2400)
+Seat 3: JOKERCHEIF folded on the River
+Seat 4: KIMPOSSIBLE folded on the River
+Seat 5: SON folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: IOWA MATT folded before Flop (didn't bet)
+Seat 8: DOUG folded before Flop (didn't bet)
+Seat 9: DUSTIN (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000178:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:04:36 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #6 is the button
+Seat 1: LUCKY LIAM ($900 in chips)
+Seat 2: KENNY B ($3115 in chips)
+Seat 3: TALL PAUL ($1955 in chips)
+Seat 4: JUSTIN (TCH) ($1975 in chips)
+Seat 5: PAUL ($1525 in chips)
+Seat 6: CHRIS THE NIT ($1900 in chips)
+LUCKY LIAM: posts small blind $10
+KENNY B: posts big blind $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to LUCKY LIAM [Th 7c 6d 5d]
+Dealt to KENNY B [Ts 5c 4d 3s]
+Dealt to TALL PAUL [9h 8c 3d 2s]
+Dealt to JUSTIN (TCH) [Td 6c 5h 2h]
+Dealt to PAUL [Ad Ac 7d 4c]
+Dealt to CHRIS THE NIT [Qc 9d 8d 6s]
+JUSTIN (TCH): folds
+PAUL: raises $55 to $75
+CHRIS THE NIT: calls $75
+LUCKY LIAM: calls $65
+KENNY B: folds
+TALL PAUL: folds
+*** FLOP *** [9s 4h Kh]
+LUCKY LIAM: checks
+PAUL: checks
+CHRIS THE NIT: checks
+*** TURN *** [9s 4h Kh] [Jc]
+LUCKY LIAM: checks
+PAUL: checks
+CHRIS THE NIT: checks
+*** RIVER *** [9s 4h Kh Jc] [Tc]
+LUCKY LIAM: bets $150
+PAUL: folds
+CHRIS THE NIT: calls $150
+*** SHOW DOWN ***
+LUCKY LIAM: shows [Th 7c 6d 5d]
+CHRIS THE NIT: shows [Qc 9d 8d 6s]
+CHRIS THE NIT collected $555 from pot
+*** SUMMARY ***
+Total pot $555 | Rake $0
+Board [9s 4h Kh Jc Tc]
+Seat 1: LUCKY LIAM (small blind) showed [Th 7c 6d 5d] and lost
+Seat 2: KENNY B (big blind) folded before Flop
+Seat 3: TALL PAUL folded before Flop
+Seat 4: JUSTIN (TCH) folded before Flop (didn't bet)
+Seat 5: PAUL folded on the River
+Seat 6: CHRIS THE NIT (button) showed [Qc 9d 8d 6s] and won ($555)
+
+
+PokerStars Hand #2700000180:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:08:51 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #6 is the button
+Seat 1: TALL PAUL ($1925 in chips)
+Seat 2: JUSTIN (TCH) ($2115 in chips)
+Seat 3: PAUL ($1430 in chips)
+Seat 4: CHRIS THE NIT ($2285 in chips)
+Seat 5: LUCKY LIAM ($670 in chips)
+Seat 6: KENNY B ($3095 in chips)
+TALL PAUL: posts small blind $10
+JUSTIN (TCH): posts big blind $10
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Jc Td 6s 6d]
+Dealt to JUSTIN (TCH) [Ks Kh 8d 6c]
+Dealt to PAUL [9h 8c 7h 2c]
+Dealt to CHRIS THE NIT [Ad Qs 5s 4c]
+Dealt to LUCKY LIAM [Qd 8s 7d 5h]
+Dealt to KENNY B [Kc Ts 5c 3c]
+PAUL: calls $10
+CHRIS THE NIT: calls $10
+LUCKY LIAM: calls $10
+KENNY B: folds
+TALL PAUL: checks
+JUSTIN (TCH): checks
+*** FLOP *** [4d 2d 9c]
+TALL PAUL: checks
+JUSTIN (TCH): checks
+PAUL: bets $50
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $50
+TALL PAUL: folds
+JUSTIN (TCH): calls $50
+*** TURN *** [4d 2d 9c] [Tc]
+JUSTIN (TCH): checks
+PAUL: bets $150
+LUCKY LIAM: calls $150
+JUSTIN (TCH): folds
+*** RIVER *** [4d 2d 9c Tc] [As]
+PAUL: bets $400
+LUCKY LIAM: folds
+Uncalled bet ($400) returned to PAUL
+PAUL collected $500 from pot
+*** SUMMARY ***
+Total pot $500 | Rake $0
+Board [4d 2d 9c Tc As]
+Seat 1: TALL PAUL (small blind) folded on the Flop
+Seat 2: JUSTIN (TCH) (big blind) folded on the Turn
+Seat 3: PAUL collected ($500)
+Seat 4: CHRIS THE NIT folded on the Flop
+Seat 5: LUCKY LIAM folded on the River
+Seat 6: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000181:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:11:30 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #6 is the button
+Seat 1: JUSTIN (TCH) ($2055 in chips)
+Seat 2: PAUL ($1710 in chips)
+Seat 3: CHRIS THE NIT ($2255 in chips)
+Seat 4: LUCKY LIAM ($470 in chips)
+Seat 5: KENNY B ($3095 in chips)
+Seat 6: TALL PAUL ($1925 in chips)
+JUSTIN (TCH): posts small blind $10
+PAUL: posts big blind $10
+CHRIS THE NIT: posts straddle $20
+*** HOLE CARDS ***
+Dealt to JUSTIN (TCH) [Ks Kc Jd Ts]
+Dealt to PAUL [Qs 6d 4h 4c]
+Dealt to CHRIS THE NIT [Ac 9c 8s 8c]
+Dealt to LUCKY LIAM [Jc 9d 5s 3h]
+Dealt to KENNY B [Td 8h 6s 6c]
+Dealt to TALL PAUL [Kd Qh Qd 2h]
+LUCKY LIAM: folds
+KENNY B: raises $30 to $50
+TALL PAUL: raises $100 to $150
+JUSTIN (TCH): calls $140
+PAUL: folds
+CHRIS THE NIT: calls $130
+KENNY B: calls $100
+*** FLOP *** [Th 2d 8d]
+JUSTIN (TCH): checks
+CHRIS THE NIT: checks
+KENNY B: bets $350
+TALL PAUL: folds
+JUSTIN (TCH): folds
+CHRIS THE NIT: calls $350
+*** TURN *** [Th 2d 8d] [9s]
+CHRIS THE NIT: checks
+KENNY B: checks
+*** RIVER *** [Th 2d 8d 9s] [Kh]
+CHRIS THE NIT: bets $550
+KENNY B: folds
+Uncalled bet ($550) returned to CHRIS THE NIT
+CHRIS THE NIT collected $1310 from pot
+*** SUMMARY ***
+Total pot $1310 | Rake $0
+Board [Th 2d 8d 9s Kh]
+Seat 1: JUSTIN (TCH) (small blind) folded on the Flop
+Seat 2: PAUL (big blind) folded before Flop
+Seat 3: CHRIS THE NIT collected ($1310)
+Seat 4: LUCKY LIAM folded before Flop (didn't bet)
+Seat 5: KENNY B folded on the River
+Seat 6: TALL PAUL (button) folded on the Flop
+
+
+PokerStars Hand #2700000186:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:24:06 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #7 is the button
+Seat 1: KENNY B ($2520 in chips)
+Seat 2: TALL PAUL ($2230 in chips)
+Seat 3: JUSTIN (TCH) ($1980 in chips)
+Seat 4: SK ($1655 in chips)
+Seat 5: PAUL ($1225 in chips)
+Seat 6: CHRIS THE NIT ($4385 in chips)
+Seat 7: LUCKY LIAM ($1435 in chips)
+KENNY B: posts small blind $10
+TALL PAUL: posts big blind $10
+JUSTIN (TCH): posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Tc 8c 6c 5s]
+Dealt to TALL PAUL [Kh 8s 8h 5h]
+Dealt to JUSTIN (TCH) [Ac 9s 7d 2c]
+Dealt to SK [Ah Ad 9d 6s]
+Dealt to PAUL [Qc Td 6d 3d]
+Dealt to CHRIS THE NIT [Kd 9h 8d 2s]
+Dealt to LUCKY LIAM [Qd Ts 7h 4c]
+SK: calls $20
+PAUL: calls $20
+CHRIS THE NIT: calls $20
+LUCKY LIAM: calls $20
+KENNY B: calls $10
+TALL PAUL: calls $10
+JUSTIN (TCH): checks
+*** FLOP *** [Jc 4d 5d]
+KENNY B: checks
+TALL PAUL: checks
+JUSTIN (TCH): checks
+SK: bets $100
+PAUL: calls $100
+CHRIS THE NIT: folds
+LUCKY LIAM: folds
+KENNY B: folds
+TALL PAUL: folds
+JUSTIN (TCH): folds
+*** TURN *** [Jc 4d 5d] [Jd]
+SK: checks
+PAUL: checks
+*** RIVER *** [Jc 4d 5d Jd] [9c]
+SK: bets $200
+PAUL: calls $200
+*** SHOW DOWN ***
+SK: shows [Ah Ad 9d 6s]
+PAUL: shows [Qc Td 6d 3d]
+SK collected $740 from pot
+*** SUMMARY ***
+Total pot $740 | Rake $0
+Board [Jc 4d 5d Jd 9c]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: TALL PAUL (big blind) folded on the Flop
+Seat 3: JUSTIN (TCH) folded on the Flop
+Seat 4: SK showed [Ah Ad 9d 6s] and won ($740)
+Seat 5: PAUL showed [Qc Td 6d 3d] and lost
+Seat 6: CHRIS THE NIT folded on the Flop
+Seat 7: LUCKY LIAM (button) folded on the Flop
+
+
+PokerStars Hand #2700000187:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:27:04 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #7 is the button
+Seat 1: TALL PAUL ($2220 in chips)
+Seat 2: JUSTIN (TCH) ($1970 in chips)
+Seat 3: SK ($2045 in chips)
+Seat 4: PAUL ($905 in chips)
+Seat 5: CHRIS THE NIT ($4385 in chips)
+Seat 6: LUCKY LIAM ($1435 in chips)
+Seat 7: KENNY B ($2470 in chips)
+TALL PAUL: posts small blind $10
+JUSTIN (TCH): posts big blind $10
+SK: posts straddle $20
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Ah 8s 5d 4c]
+Dealt to JUSTIN (TCH) [Qh 7c 5h 4h]
+Dealt to SK [Ac Qd Jc 9h]
+Dealt to PAUL [Kd Th 2s 2c]
+Dealt to CHRIS THE NIT [Tc 9d 8d 6c]
+Dealt to KENNY B [Td 6s 5s 3h]
+PAUL: calls $20
+CHRIS THE NIT: raises $30 to $50
+LUCKY LIAM: folds
+KENNY B: calls $50
+TALL PAUL: folds
+JUSTIN (TCH): folds
+SK: calls $30
+PAUL: calls $30
+*** FLOP *** [5c Jh 7d]
+SK: checks
+PAUL: checks
+CHRIS THE NIT: bets $100
+KENNY B: calls $100
+SK: raises $325 to $425
+PAUL: folds
+CHRIS THE NIT: calls $325
+KENNY B: folds
+*** TURN *** [5c Jh 7d] [7h]
+SK: bets $600
+CHRIS THE NIT: folds
+Uncalled bet ($600) returned to SK
+SK collected $1170 from pot
+*** SUMMARY ***
+Total pot $1170 | Rake $0
+Board [5c Jh 7d 7h]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: JUSTIN (TCH) (big blind) folded before Flop
+Seat 3: SK collected ($1170)
+Seat 4: PAUL folded on the Flop
+Seat 5: CHRIS THE NIT folded on the Turn
+Seat 6: LUCKY LIAM folded before Flop (didn't bet)
+Seat 7: KENNY B (button) folded on the Flop
+
+
+PokerStars Hand #2700000188:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:29:37 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #7 is the button
+Seat 1: JUSTIN (TCH) ($1960 in chips)
+Seat 2: SK ($2690 in chips)
+Seat 3: PAUL ($755 in chips)
+Seat 4: CHRIS THE NIT ($3910 in chips)
+Seat 5: LUCKY LIAM ($1435 in chips)
+Seat 6: KENNY B ($2370 in chips)
+Seat 7: TALL PAUL ($2220 in chips)
+JUSTIN (TCH): posts small blind $10
+SK: posts big blind $10
+PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to JUSTIN (TCH) [Qh 6c 3d 2c]
+Dealt to SK [Ac Kh Tc 9s]
+Dealt to PAUL [Qc 5d 4s 3s]
+Dealt to CHRIS THE NIT [Js 6s 6h 4c]
+Dealt to LUCKY LIAM [Jd Ts 8s 8d]
+Dealt to KENNY B [Ks 4h 4d 3c]
+Dealt to TALL PAUL [Kc 7d 5s 5c]
+CHRIS THE NIT: calls $20
+LUCKY LIAM: raises $80 to $100
+KENNY B: folds
+TALL PAUL: folds
+JUSTIN (TCH): folds
+SK: calls $90
+PAUL: calls $80
+CHRIS THE NIT: calls $80
+*** FLOP *** [6d 9h 8c]
+SK: checks
+PAUL: checks
+CHRIS THE NIT: checks
+LUCKY LIAM: bets $250
+SK: folds
+PAUL: folds
+CHRIS THE NIT: calls $250
+*** TURN *** [6d 9h 8c] [Ad]
+CHRIS THE NIT: checks
+LUCKY LIAM: bets $500
+CHRIS THE NIT: folds
+Uncalled bet ($500) returned to LUCKY LIAM
+LUCKY LIAM collected $910 from pot
+*** SUMMARY ***
+Total pot $910 | Rake $0
+Board [6d 9h 8c Ad]
+Seat 1: JUSTIN (TCH) (small blind) folded before Flop
+Seat 2: SK (big blind) folded on the Flop
+Seat 3: PAUL folded on the Flop
+Seat 4: CHRIS THE NIT folded on the Turn
+Seat 5: LUCKY LIAM collected ($910)
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: TALL PAUL (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000193:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:48:23 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #1 is the button
+Seat 1: ROHAN ($3545 in chips)
+Seat 2: LUCKY LIAM ($3930 in chips)
+Seat 3: KENNY B ($1460 in chips)
+Seat 4: TALL PAUL ($2075 in chips)
+Seat 5: RAMJAM ($500 in chips)
+Seat 6: JUSTIN (TCH) ($2745 in chips)
+Seat 7: SK ($1500 in chips)
+Seat 8: PAUL ($1825 in chips)
+Seat 9: CHRIS THE NIT ($3375 in chips)
+LUCKY LIAM: posts small blind $10
+KENNY B: posts big blind $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to LUCKY LIAM [8d 6c 5h 3d]
+Dealt to TALL PAUL [Kd Qs 9c 7s]
+Dealt to RAMJAM [6s 6d 3s 2c]
+Dealt to JUSTIN (TCH) [As Ks 3h 2s]
+Dealt to PAUL [Kc 9h 4c 3c]
+Dealt to CHRIS THE NIT [Qc Js Ts 4d]
+RAMJAM: folds
+JUSTIN (TCH): raises $60 to $80
+SK: folds
+PAUL: folds
+CHRIS THE NIT: calls $80
+ROHAN: folds
+LUCKY LIAM: calls $70
+KENNY B: folds
+TALL PAUL: calls $60
+*** FLOP *** [8h 7h Ad]
+LUCKY LIAM: checks
+TALL PAUL: checks
+JUSTIN (TCH): checks
+CHRIS THE NIT: checks
+*** TURN *** [8h 7h Ad] [Qh]
+LUCKY LIAM: checks
+TALL PAUL: checks
+JUSTIN (TCH): checks
+CHRIS THE NIT: checks
+*** RIVER *** [8h 7h Ad Qh] [Jc]
+LUCKY LIAM: bets $225
+TALL PAUL: folds
+JUSTIN (TCH): folds
+CHRIS THE NIT: folds
+Uncalled bet ($225) returned to LUCKY LIAM
+LUCKY LIAM collected $330 from pot
+*** SUMMARY ***
+Total pot $330 | Rake $0
+Board [8h 7h Ad Qh Jc]
+Seat 1: ROHAN (button) folded before Flop (didn't bet)
+Seat 2: LUCKY LIAM (small blind) collected ($330)
+Seat 3: KENNY B (big blind) folded before Flop
+Seat 4: TALL PAUL folded on the River
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: JUSTIN (TCH) folded on the River
+Seat 7: SK folded before Flop (didn't bet)
+Seat 8: PAUL folded before Flop (didn't bet)
+Seat 9: CHRIS THE NIT folded on the River
+
+
+PokerStars Hand #2700000194:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:51:47 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: KENNY B ($1450 in chips)
+Seat 2: TALL PAUL ($2065 in chips)
+Seat 3: RAMJAM ($500 in chips)
+Seat 4: ROHAN ($3545 in chips)
+Seat 5: JUSTIN (TCH) ($2655 in chips)
+Seat 6: SK ($1500 in chips)
+Seat 7: PAUL ($1825 in chips)
+Seat 8: CHRIS THE NIT ($3225 in chips)
+Seat 9: LUCKY LIAM ($4190 in chips)
+KENNY B: posts small blind $10
+TALL PAUL: posts big blind $10
+*** HOLE CARDS ***
+Dealt to KENNY B [Qc 5h 4h 3c]
+Dealt to TALL PAUL [Jd 9s 9d 3h]
+Dealt to RAMJAM [Qd Jc Tc 6h]
+Dealt to ROHAN [Qs Qh Js 7d]
+Dealt to JUSTIN (TCH) [Td 7c 6d 6c]
+Dealt to SK [Ad Ks Ts 2d]
+Dealt to PAUL [Th 8s 8c 2h]
+Dealt to CHRIS THE NIT [Kh 7s 5s 5d]
+Dealt to LUCKY LIAM [As 9c 6s 5c]
+RAMJAM: calls $10
+ROHAN: calls $10
+JUSTIN (TCH): calls $10
+SK: raises $60 to $70
+PAUL: calls $70
+CHRIS THE NIT: calls $70
+LUCKY LIAM: raises $130 to $200
+KENNY B: folds
+TALL PAUL: folds
+RAMJAM: calls $190
+ROHAN: calls $190
+JUSTIN (TCH): folds
+SK: calls $130
+PAUL: calls $130
+CHRIS THE NIT: calls $130
+*** FLOP *** [8h Jh 9h]
+RAMJAM: bets $300 and is all-in
+ROHAN: folds
+SK: folds
+PAUL: calls $300
+CHRIS THE NIT: folds
+LUCKY LIAM: folds
+*** TURN *** [8h Jh 9h] [Kc]
+*** RIVER *** [8h Jh 9h Kc] [3d]
+*** SHOW DOWN ***
+RAMJAM: shows [Qd Jc Tc 6h]
+PAUL: shows [Th 8s 8c 2h]
+PAUL collected $1830 from pot
+*** SUMMARY ***
+Total pot $1830 | Rake $0
+Board [8h Jh 9h Kc 3d]
+Seat 1: KENNY B (small blind) folded before Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: RAMJAM showed [Qd Jc Tc 6h] and lost
+Seat 4: ROHAN folded on the Flop
+Seat 5: JUSTIN (TCH) folded before Flop
+Seat 6: SK folded on the Flop
+Seat 7: PAUL showed [Th 8s 8c 2h] and won ($1830)
+Seat 8: CHRIS THE NIT folded on the Flop
+Seat 9: LUCKY LIAM (button) folded on the Flop
+
+
+PokerStars Hand #2700000195:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:54:22 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: TALL PAUL ($2055 in chips)
+Seat 2: ROHAN ($3245 in chips)
+Seat 3: JUSTIN (TCH) ($2635 in chips)
+Seat 4: SK ($1280 in chips)
+Seat 5: PAUL ($3135 in chips)
+Seat 6: CHRIS THE NIT ($3095 in chips)
+Seat 7: LUCKY LIAM ($3970 in chips)
+Seat 8: KENNY B ($1350 in chips)
+TALL PAUL: posts small blind $10
+ROHAN: posts big blind $10
+JUSTIN (TCH): posts straddle $20
+*** HOLE CARDS ***
+Dealt to ROHAN [Ah Th 8s 2d]
+Dealt to JUSTIN (TCH) [Qs Jh Td 4h]
+Dealt to SK [9s 9h 5h 3s]
+Dealt to PAUL [Js Jc 9d 7d]
+Dealt to LUCKY LIAM [Kc Jd 6d 4d]
+Dealt to KENNY B [Ac 8c 6h 4s]
+SK: calls $20
+PAUL: calls $20
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $20
+KENNY B: raises $80 to $100
+TALL PAUL: folds
+ROHAN: calls $90
+JUSTIN (TCH): calls $80
+SK: calls $80
+PAUL: calls $80
+LUCKY LIAM: folds
+*** FLOP *** [Qd 7c 4c]
+ROHAN: checks
+JUSTIN (TCH): checks
+SK: checks
+PAUL: checks
+KENNY B: bets $530
+ROHAN: folds
+JUSTIN (TCH): folds
+SK: folds
+PAUL: folds
+Uncalled bet ($530) returned to KENNY B
+KENNY B collected $530 from pot
+*** SUMMARY ***
+Total pot $530 | Rake $0
+Board [Qd 7c 4c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: ROHAN (big blind) folded on the Flop
+Seat 3: JUSTIN (TCH) folded on the Flop
+Seat 4: SK folded on the Flop
+Seat 5: PAUL folded on the Flop
+Seat 6: CHRIS THE NIT folded before Flop (didn't bet)
+Seat 7: LUCKY LIAM folded before Flop
+Seat 8: KENNY B (button) collected ($530)
+
+
+PokerStars Hand #2700000196:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:56:29 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: ROHAN ($3235 in chips)
+Seat 2: JUSTIN (TCH) ($2485 in chips)
+Seat 3: SK ($1200 in chips)
+Seat 4: PAUL ($3045 in chips)
+Seat 5: CHRIS THE NIT ($3095 in chips)
+Seat 6: LUCKY LIAM ($3960 in chips)
+Seat 7: KENNY B ($1880 in chips)
+Seat 8: TALL PAUL ($2045 in chips)
+ROHAN: posts small blind $10
+JUSTIN (TCH): posts big blind $10
+*** HOLE CARDS ***
+Dealt to ROHAN [Qh 8d 4d 3c]
+Dealt to JUSTIN (TCH) [As Ac Jc 5c]
+Dealt to SK [Ks Jh 6h 5d]
+Dealt to PAUL [Ah 8c 6c 5s]
+Dealt to LUCKY LIAM [Kc 7h 4c 2h]
+Dealt to TALL PAUL [Ad Qc Th 3s]
+SK: calls $10
+PAUL: calls $10
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $10
+KENNY B: folds
+TALL PAUL: calls $10
+ROHAN: checks
+JUSTIN (TCH): raises $60 to $70
+SK: calls $60
+PAUL: calls $60
+LUCKY LIAM: folds
+TALL PAUL: folds
+ROHAN: folds
+*** FLOP *** [Kd Jd 4h]
+JUSTIN (TCH): checks
+SK: bets $200
+PAUL: folds
+JUSTIN (TCH): folds
+Uncalled bet ($200) returned to SK
+SK collected $240 from pot
+*** SUMMARY ***
+Total pot $240 | Rake $0
+Board [Kd Jd 4h]
+Seat 1: ROHAN (small blind) folded before Flop
+Seat 2: JUSTIN (TCH) (big blind) folded on the Flop
+Seat 3: SK collected ($240)
+Seat 4: PAUL folded on the Flop
+Seat 5: CHRIS THE NIT folded before Flop (didn't bet)
+Seat 6: LUCKY LIAM folded before Flop
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: TALL PAUL (button) folded before Flop
+
+
+PokerStars Hand #2700000197:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 20:59:20 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: JUSTIN (TCH) ($2475 in chips)
+Seat 2: SK ($1295 in chips)
+Seat 3: PAUL ($2910 in chips)
+Seat 4: CHRIS THE NIT ($3075 in chips)
+Seat 5: LUCKY LIAM ($3940 in chips)
+Seat 6: KENNY B ($1880 in chips)
+Seat 7: TALL PAUL ($1970 in chips)
+Seat 8: RAMJAM ($600 in chips)
+Seat 9: ROHAN ($3160 in chips)
+JUSTIN (TCH): posts small blind $10
+SK: posts big blind $10
+PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to JUSTIN (TCH) [8s 5d 4c 3h]
+Dealt to SK [Js 7s 7h 3c]
+Dealt to PAUL [Qd Qc Td 5s]
+Dealt to CHRIS THE NIT [Ah 7c 6d 2s]
+Dealt to LUCKY LIAM [Qs Ts 7d 3d]
+Dealt to KENNY B [Ks 9s 6c 3s]
+Dealt to TALL PAUL [As Kd Jh 2d]
+Dealt to RAMJAM [Kc Tc 8c 4d]
+Dealt to ROHAN [9h 6h 5c 4s]
+CHRIS THE NIT: calls $20
+LUCKY LIAM: calls $20
+KENNY B: folds
+TALL PAUL: raises $55 to $75
+RAMJAM: folds
+ROHAN: calls $75
+JUSTIN (TCH): folds
+SK: calls $65
+PAUL: calls $55
+CHRIS THE NIT: calls $55
+LUCKY LIAM: calls $55
+*** FLOP *** [2h Kh Jc]
+SK: checks
+PAUL: checks
+CHRIS THE NIT: checks
+LUCKY LIAM: checks
+TALL PAUL: bets $225
+ROHAN: folds
+SK: folds
+PAUL: folds
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $225
+*** TURN *** [2h Kh Jc] [9c]
+LUCKY LIAM: bets $910
+TALL PAUL: folds
+Uncalled bet ($910) returned to LUCKY LIAM
+LUCKY LIAM collected $910 from pot
+*** SUMMARY ***
+Total pot $910 | Rake $0
+Board [2h Kh Jc 9c]
+Seat 1: JUSTIN (TCH) (small blind) folded before Flop
+Seat 2: SK (big blind) folded on the Flop
+Seat 3: PAUL folded on the Flop
+Seat 4: CHRIS THE NIT folded on the Flop
+Seat 5: LUCKY LIAM collected ($910)
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the Turn
+Seat 8: RAMJAM folded before Flop (didn't bet)
+Seat 9: ROHAN (button) folded on the Flop
+
+
+PokerStars Hand #2700000198:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 21:02:41 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: SK ($1285 in chips)
+Seat 2: PAUL ($2850 in chips)
+Seat 3: CHRIS THE NIT ($3020 in chips)
+Seat 4: LUCKY LIAM ($4570 in chips)
+Seat 5: KENNY B ($1880 in chips)
+Seat 6: TALL PAUL ($1745 in chips)
+Seat 7: RAMJAM ($600 in chips)
+Seat 8: ROHAN ($3150 in chips)
+Seat 9: JUSTIN (TCH) ($2475 in chips)
+SK: posts small blind $10
+PAUL: posts big blind $10
+*** HOLE CARDS ***
+Dealt to SK [Qc 9s 7d 3h]
+Dealt to PAUL [Kh Qd 7h 5s]
+Dealt to CHRIS THE NIT [Kd Qs 7s 3s]
+Dealt to LUCKY LIAM [Ad Qh 6c 3d]
+Dealt to KENNY B [Js Td 6d 5c]
+Dealt to TALL PAUL [Jd 6h 4h 2s]
+Dealt to ROHAN [Ks 9d 9c 6s]
+Dealt to JUSTIN (TCH) [Jc Tc 8s 7c]
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $10
+KENNY B: folds
+TALL PAUL: folds
+RAMJAM: folds
+ROHAN: calls $10
+JUSTIN (TCH): raises $50 to $60
+SK: folds
+PAUL: calls $50
+LUCKY LIAM: calls $50
+ROHAN: calls $50
+*** FLOP *** [5h 8c 2d]
+PAUL: checks
+LUCKY LIAM: checks
+ROHAN: checks
+JUSTIN (TCH): bets $175
+PAUL: folds
+LUCKY LIAM: folds
+ROHAN: folds
+Uncalled bet ($175) returned to JUSTIN (TCH)
+JUSTIN (TCH) collected $250 from pot
+*** SUMMARY ***
+Total pot $250 | Rake $0
+Board [5h 8c 2d]
+Seat 1: SK (small blind) folded before Flop
+Seat 2: PAUL (big blind) folded on the Flop
+Seat 3: CHRIS THE NIT folded before Flop (didn't bet)
+Seat 4: LUCKY LIAM folded on the Flop
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: ROHAN folded on the Flop
+Seat 9: JUSTIN (TCH) (button) collected ($250)
+
+
+PokerStars Hand #2700000203:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 21:25:13 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: KENNY B ($5725 in chips)
+Seat 2: TALL PAUL ($3150 in chips)
+Seat 3: RAMJAM ($980 in chips)
+Seat 4: ROHAN ($1835 in chips)
+Seat 5: JUSTIN (TCH) ($2415 in chips)
+Seat 6: SK ($1900 in chips)
+Seat 7: PAUL ($8555 in chips)
+Seat 8: CHRIS THE NIT ($3000 in chips)
+Seat 9: LUCKY LIAM ($8215 in chips)
+KENNY B: posts small blind $10
+TALL PAUL: posts big blind $10
+RAMJAM: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [8c 6h 6c 5s]
+Dealt to RAMJAM [Jd 9s 8s 4h]
+Dealt to ROHAN [Ks Qh 4c 3c]
+Dealt to JUSTIN (TCH) [Qc Js 9h 8h]
+Dealt to SK [As Kd Qs 8d]
+Dealt to PAUL [Jc Ts Td 3h]
+Dealt to CHRIS THE NIT [Jh 7s 7h 3s]
+Dealt to LUCKY LIAM [Ah Th Tc 4d]
+ROHAN: calls $20
+JUSTIN (TCH): raises $80 to $100
+SK: calls $100
+PAUL: calls $100
+CHRIS THE NIT: calls $100
+LUCKY LIAM: calls $100
+KENNY B: calls $90
+TALL PAUL: folds
+RAMJAM: folds
+ROHAN: calls $80
+*** FLOP *** [Qd 7d Ad]
+KENNY B: checks
+ROHAN: checks
+JUSTIN (TCH): checks
+SK: checks
+PAUL: checks
+CHRIS THE NIT: checks
+LUCKY LIAM: checks
+*** TURN *** [Qd 7d Ad] [5h]
+KENNY B: checks
+ROHAN: checks
+JUSTIN (TCH): checks
+SK: bets $400
+PAUL: folds
+CHRIS THE NIT: calls $400
+LUCKY LIAM: folds
+KENNY B: folds
+ROHAN: folds
+JUSTIN (TCH): folds
+*** RIVER *** [Qd 7d Ad 5h] [5c]
+SK: checks
+CHRIS THE NIT: bets $750
+SK: calls $750
+*** SHOW DOWN ***
+SK: shows [As Kd Qs 8d]
+CHRIS THE NIT: shows [Jh 7s 7h 3s]
+CHRIS THE NIT collected $3030 from pot
+*** SUMMARY ***
+Total pot $3030 | Rake $0
+Board [Qd 7d Ad 5h 5c]
+Seat 1: KENNY B (small blind) folded on the Turn
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: RAMJAM folded before Flop
+Seat 4: ROHAN folded on the Turn
+Seat 5: JUSTIN (TCH) folded on the Turn
+Seat 6: SK showed [As Kd Qs 8d] and lost
+Seat 7: PAUL folded on the Turn
+Seat 8: CHRIS THE NIT showed [Jh 7s 7h 3s] and won ($3030)
+Seat 9: LUCKY LIAM (button) folded on the Turn
+
+
+PokerStars Hand #2700000204:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 21:29:58 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($3130 in chips)
+Seat 2: RAMJAM ($980 in chips)
+Seat 3: ROHAN ($1715 in chips)
+Seat 4: JUSTIN (TCH) ($2415 in chips)
+Seat 5: SK ($750 in chips)
+Seat 6: PAUL ($8455 in chips)
+Seat 7: CHRIS THE NIT ($4760 in chips)
+Seat 8: LUCKY LIAM ($8195 in chips)
+Seat 9: KENNY B ($5725 in chips)
+TALL PAUL: posts small blind $10
+RAMJAM: posts big blind $10
+ROHAN: posts straddle $20
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Qc Td 5h 5c]
+Dealt to RAMJAM [Kh Kd Jd 2s]
+Dealt to ROHAN [Ad 7h 5s 2h]
+Dealt to JUSTIN (TCH) [Kc Qd 9h 9d]
+Dealt to SK [8s 7d 4h 3d]
+Dealt to PAUL [Ks Qs 7c 6c]
+Dealt to CHRIS THE NIT [Ac Js Th 4d]
+Dealt to LUCKY LIAM [Qh 8h 6d 4s]
+Dealt to KENNY B [Jh 6s 4c 2d]
+JUSTIN (TCH): calls $20
+SK: folds
+PAUL: folds
+CHRIS THE NIT: calls $20
+LUCKY LIAM: calls $20
+KENNY B: folds
+TALL PAUL: calls $10
+RAMJAM: raises $120 to $140
+ROHAN: folds
+JUSTIN (TCH): calls $120
+CHRIS THE NIT: calls $120
+LUCKY LIAM: calls $120
+TALL PAUL: folds
+*** FLOP *** [9s Jc 3h]
+RAMJAM: bets $600
+JUSTIN (TCH): calls $600
+CHRIS THE NIT: folds
+LUCKY LIAM: folds
+*** TURN *** [9s Jc 3h] [As]
+RAMJAM: bets $240 and is all-in
+JUSTIN (TCH): calls $240
+*** RIVER *** [9s Jc 3h As] [9c]
+*** SHOW DOWN ***
+RAMJAM: shows [Kh Kd Jd 2s]
+JUSTIN (TCH): shows [Kc Qd 9h 9d]
+JUSTIN (TCH) collected $2280 from pot
+*** SUMMARY ***
+Total pot $2280 | Rake $0
+Board [9s Jc 3h As 9c]
+Seat 1: TALL PAUL (small blind) folded before Flop
+Seat 2: RAMJAM (big blind) showed [Kh Kd Jd 2s] and lost
+Seat 3: ROHAN folded before Flop
+Seat 4: JUSTIN (TCH) showed [Kc Qd 9h 9d] and won ($2280)
+Seat 5: SK folded before Flop (didn't bet)
+Seat 6: PAUL folded before Flop (didn't bet)
+Seat 7: CHRIS THE NIT folded on the Flop
+Seat 8: LUCKY LIAM folded on the Flop
+Seat 9: KENNY B (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000213:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:08:33 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: TALL PAUL ($11795 in chips)
+Seat 2: RAMJAM ($1750 in chips)
+Seat 3: ROHAN ($1980 in chips)
+Seat 4: JUSTIN (TCH) ($4270 in chips)
+Seat 5: SK ($2500 in chips)
+Seat 6: PAUL ($6110 in chips)
+Seat 7: CHRIS THE NIT ($1980 in chips)
+Seat 8: LUCKY LIAM ($7930 in chips)
+Seat 9: KENNY B ($8490 in chips)
+TALL PAUL: posts small blind $10
+RAMJAM: posts big blind $10
+ROHAN: posts straddle $20
+*** HOLE CARDS ***
+Dealt to TALL PAUL [Ac Qd Jd Jc]
+Dealt to RAMJAM [Ah Td 9d 8d]
+Dealt to JUSTIN (TCH) [Ks Ts 8c 6c]
+Dealt to PAUL [Js 8h 7s 6h]
+Dealt to CHRIS THE NIT [5s 5h 4h 2h]
+Dealt to LUCKY LIAM [Ad 7c 3d 2s]
+Dealt to KENNY B [Tc 9h 6d 3c]
+JUSTIN (TCH): calls $20
+SK: folds
+PAUL: calls $20
+CHRIS THE NIT: calls $20
+LUCKY LIAM: calls $20
+KENNY B: calls $20
+TALL PAUL: raises $130 to $150
+RAMJAM: folds
+ROHAN: folds
+JUSTIN (TCH): calls $130
+PAUL: calls $130
+CHRIS THE NIT: calls $130
+LUCKY LIAM: calls $130
+KENNY B: calls $130
+*** FLOP *** [4s 9s Qs]
+TALL PAUL: checks
+JUSTIN (TCH): checks
+PAUL: checks
+CHRIS THE NIT: checks
+LUCKY LIAM: checks
+KENNY B: checks
+*** TURN *** [4s 9s Qs] [Qh]
+TALL PAUL: bets $200
+JUSTIN (TCH): calls $200
+PAUL: calls $200
+CHRIS THE NIT: folds
+LUCKY LIAM: folds
+KENNY B: folds
+*** RIVER *** [4s 9s Qs Qh] [8s]
+TALL PAUL: checks
+JUSTIN (TCH): checks
+PAUL: checks
+*** SHOW DOWN ***
+TALL PAUL: shows [Ac Qd Jd Jc]
+JUSTIN (TCH): shows [Ks Ts 8c 6c]
+PAUL: shows [Js 8h 7s 6h]
+JUSTIN (TCH) collected $1530 from pot
+*** SUMMARY ***
+Total pot $1530 | Rake $0
+Board [4s 9s Qs Qh 8s]
+Seat 1: TALL PAUL (small blind) showed [Ac Qd Jd Jc] and lost
+Seat 2: RAMJAM (big blind) folded before Flop
+Seat 3: ROHAN folded before Flop
+Seat 4: JUSTIN (TCH) showed [Ks Ts 8c 6c] and won ($1530)
+Seat 5: SK folded before Flop (didn't bet)
+Seat 6: PAUL showed [Js 8h 7s 6h] and lost
+Seat 7: CHRIS THE NIT folded on the Turn
+Seat 8: LUCKY LIAM folded on the Turn
+Seat 9: KENNY B (button) folded on the Turn
+
+
+PokerStars Hand #2700000216:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:18:51 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: ROHAN ($1735 in chips)
+Seat 2: JUSTIN (TCH) ($5035 in chips)
+Seat 3: SK ($2225 in chips)
+Seat 4: PAUL ($5035 in chips)
+Seat 5: CHRIS THE NIT ($1805 in chips)
+Seat 6: LUCKY LIAM ($7635 in chips)
+Seat 7: KENNY B ($9515 in chips)
+Seat 8: TALL PAUL ($11830 in chips)
+Seat 9: RAMJAM ($1650 in chips)
+ROHAN: posts small blind $10
+JUSTIN (TCH): posts big blind $10
+SK: posts straddle $20
+*** HOLE CARDS ***
+Dealt to ROHAN [Tc 8s 8h 6s]
+Dealt to SK [Ac Kh Jh 2c]
+Dealt to PAUL [6h 6d 6c 4s]
+Dealt to CHRIS THE NIT [5h 4d 2s 2h]
+Dealt to LUCKY LIAM [Ad Th 8c 5s]
+Dealt to KENNY B [Qd Jd Ts 9c]
+Dealt to TALL PAUL [Qs 9s 5d 4h]
+Dealt to RAMJAM [Qh 9h 7d 7c]
+PAUL: folds
+CHRIS THE NIT: calls $20
+LUCKY LIAM: calls $20
+KENNY B: raises $100 to $120
+TALL PAUL: folds
+RAMJAM: calls $120
+ROHAN: calls $110
+JUSTIN (TCH): raises $130 to $250
+SK: calls $230
+CHRIS THE NIT: folds
+LUCKY LIAM: folds
+KENNY B: calls $130
+RAMJAM: calls $130
+ROHAN: calls $130
+*** FLOP *** [Qc Kc 5c]
+ROHAN: checks
+JUSTIN (TCH): checks
+SK: bets $500
+KENNY B: folds
+RAMJAM: folds
+ROHAN: folds
+JUSTIN (TCH): folds
+Uncalled bet ($500) returned to SK
+SK collected $1290 from pot
+*** SUMMARY ***
+Total pot $1290 | Rake $0
+Board [Qc Kc 5c]
+Seat 1: ROHAN (small blind) folded on the Flop
+Seat 2: JUSTIN (TCH) (big blind) folded on the Flop
+Seat 3: SK collected ($1290)
+Seat 4: PAUL folded before Flop (didn't bet)
+Seat 5: CHRIS THE NIT folded before Flop
+Seat 6: LUCKY LIAM folded before Flop
+Seat 7: KENNY B folded on the Flop
+Seat 8: TALL PAUL folded before Flop (didn't bet)
+Seat 9: RAMJAM (button) folded on the Flop
+
+
+PokerStars Hand #2700000217:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:21:15 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: JUSTIN (TCH) ($4785 in chips)
+Seat 2: SK ($3415 in chips)
+Seat 3: PAUL ($5015 in chips)
+Seat 4: CHRIS THE NIT ($1805 in chips)
+Seat 5: LUCKY LIAM ($7615 in chips)
+Seat 6: KENNY B ($9265 in chips)
+Seat 7: TALL PAUL ($11830 in chips)
+Seat 8: RAMJAM ($1300 in chips)
+Seat 9: ROHAN ($1505 in chips)
+JUSTIN (TCH): posts small blind $10
+SK: posts big blind $10
+PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to SK [7h 6c 5s 2c]
+Dealt to PAUL [Ac Jh 4h 3h]
+Dealt to LUCKY LIAM [Kh Js 3s 2s]
+Dealt to KENNY B [9d 8d 6s 5c]
+Dealt to RAMJAM [Ks 7s 7c 4c]
+CHRIS THE NIT: folds
+LUCKY LIAM: calls $20
+KENNY B: raises $80 to $100
+TALL PAUL: folds
+RAMJAM: calls $100
+ROHAN: calls $100
+JUSTIN (TCH): folds
+SK: calls $90
+PAUL: calls $80
+LUCKY LIAM: calls $80
+*** FLOP *** [Jd Td Kd]
+SK: checks
+PAUL: checks
+LUCKY LIAM: checks
+KENNY B: checks
+RAMJAM: checks
+ROHAN: checks
+*** TURN *** [Jd Td Kd] [Ts]
+SK: checks
+PAUL: checks
+LUCKY LIAM: bets $420
+KENNY B: folds
+RAMJAM: folds
+ROHAN: folds
+SK: folds
+PAUL: folds
+Uncalled bet ($420) returned to LUCKY LIAM
+LUCKY LIAM collected $610 from pot
+*** SUMMARY ***
+Total pot $610 | Rake $0
+Board [Jd Td Kd Ts]
+Seat 1: JUSTIN (TCH) (small blind) folded before Flop
+Seat 2: SK (big blind) folded on the Turn
+Seat 3: PAUL folded on the Turn
+Seat 4: CHRIS THE NIT folded before Flop (didn't bet)
+Seat 5: LUCKY LIAM collected ($610)
+Seat 6: KENNY B folded on the Turn
+Seat 7: TALL PAUL folded before Flop (didn't bet)
+Seat 8: RAMJAM folded on the Turn
+Seat 9: ROHAN (button) folded on the Turn
+
+
+PokerStars Hand #2700000226:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:44:46 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: ROHAN ($3805 in chips)
+Seat 2: JUSTIN (TCH) ($2135 in chips)
+Seat 3: SK ($4470 in chips)
+Seat 4: PAUL ($4430 in chips)
+Seat 5: LUCKY LIAM ($9575 in chips)
+Seat 6: KENNY B ($8430 in chips)
+Seat 7: TALL PAUL ($12555 in chips)
+Seat 8: RAMJAM ($1280 in chips)
+ROHAN: posts small blind $10
+JUSTIN (TCH): posts big blind $10
+*** HOLE CARDS ***
+Dealt to ROHAN [Ah 8h 8d 2s]
+Dealt to JUSTIN (TCH) [Qh 9s 4s 3s]
+Dealt to SK [Jd Td 9d 3c]
+Dealt to PAUL [Jc Tc 4c 2d]
+Dealt to LUCKY LIAM [Qs Ts 9h 8s]
+Dealt to KENNY B [Ks Kc Js 7s]
+Dealt to TALL PAUL [Ad Kd 8c 6c]
+Dealt to RAMJAM [Ac Qd Qc 6h]
+SK: calls $10
+PAUL: calls $10
+LUCKY LIAM: folds
+KENNY B: raises $40 to $50
+TALL PAUL: calls $50
+RAMJAM: raises $150 to $200
+ROHAN: calls $190
+JUSTIN (TCH): folds
+SK: folds
+PAUL: calls $190
+KENNY B: calls $150
+TALL PAUL: calls $150
+*** FLOP *** [2h Jh 2c]
+ROHAN: checks
+PAUL: bets $1020
+KENNY B: folds
+TALL PAUL: folds
+RAMJAM: folds
+ROHAN: folds
+Uncalled bet ($1020) returned to PAUL
+PAUL collected $1020 from pot
+*** SUMMARY ***
+Total pot $1020 | Rake $0
+Board [2h Jh 2c]
+Seat 1: ROHAN (small blind) folded on the Flop
+Seat 2: JUSTIN (TCH) (big blind) folded before Flop
+Seat 3: SK folded before Flop
+Seat 4: PAUL collected ($1020)
+Seat 5: LUCKY LIAM folded before Flop (didn't bet)
+Seat 6: KENNY B folded on the Flop
+Seat 7: TALL PAUL folded on the Flop
+Seat 8: RAMJAM (button) folded on the Flop
+
+
+PokerStars Hand #2700000227:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:47:11 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: JUSTIN (TCH) ($2125 in chips)
+Seat 2: SK ($4440 in chips)
+Seat 3: PAUL ($5250 in chips)
+Seat 4: RAMJAM ($1080 in chips)
+Seat 5: LUCKY LIAM ($9555 in chips)
+Seat 6: KENNY B ($8230 in chips)
+Seat 7: TALL PAUL ($12355 in chips)
+Seat 8: ROHAN ($3805 in chips)
+JUSTIN (TCH): posts small blind $10
+SK: posts big blind $10
+PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to SK [Kd Qc Td 4h]
+Dealt to PAUL [Jd 7h 4s 2s]
+Dealt to LUCKY LIAM [8h 6d 5d 3c]
+Dealt to KENNY B [Kc Qh 5h 4d]
+Dealt to TALL PAUL [As 8c 7c 6h]
+Dealt to ROHAN [Th 9s 9c 2c]
+RAMJAM: folds
+LUCKY LIAM: calls $20
+KENNY B: folds
+TALL PAUL: calls $20
+ROHAN: calls $20
+JUSTIN (TCH): folds
+SK: calls $10
+PAUL: checks
+*** FLOP *** [Ks 3h Jh]
+SK: checks
+PAUL: checks
+LUCKY LIAM: checks
+TALL PAUL: checks
+ROHAN: checks
+*** TURN *** [Ks 3h Jh] [9h]
+SK: bets $75
+PAUL: folds
+LUCKY LIAM: folds
+TALL PAUL: folds
+ROHAN: calls $75
+*** RIVER *** [Ks 3h Jh 9h] [9d]
+SK: checks
+ROHAN: bets $200
+SK: folds
+Uncalled bet ($200) returned to ROHAN
+ROHAN collected $260 from pot
+*** SUMMARY ***
+Total pot $260 | Rake $0
+Board [Ks 3h Jh 9h 9d]
+Seat 1: JUSTIN (TCH) (small blind) folded before Flop
+Seat 2: SK (big blind) folded on the River
+Seat 3: PAUL folded on the Turn
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: LUCKY LIAM folded on the Turn
+Seat 6: KENNY B folded before Flop (didn't bet)
+Seat 7: TALL PAUL folded on the Turn
+Seat 8: ROHAN (button) collected ($260)
+
+
+PokerStars Hand #2700000228:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:49:27 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: SK ($4315 in chips)
+Seat 2: PAUL ($5180 in chips)
+Seat 3: RAMJAM ($1080 in chips)
+Seat 4: LUCKY LIAM ($9545 in chips)
+Seat 5: KENNY B ($8230 in chips)
+Seat 6: TALL PAUL ($12335 in chips)
+Seat 7: ROHAN ($3970 in chips)
+Seat 8: JUSTIN (TCH) ($2125 in chips)
+SK: posts small blind $10
+PAUL: posts big blind $10
+*** HOLE CARDS ***
+Dealt to SK [7h 7c 5h 3c]
+Dealt to PAUL [Ac Qd 6h 4d]
+Dealt to RAMJAM [Ks Tc 8h 2c]
+Dealt to LUCKY LIAM [Ts 8d 4s 2h]
+Dealt to KENNY B [Jh Jd Jc Th]
+Dealt to TALL PAUL [Ah 8c 6s 2d]
+Dealt to ROHAN [9c 7s 5s 2s]
+Dealt to JUSTIN (TCH) [Kh 7d 6c 4c]
+RAMJAM: folds
+LUCKY LIAM: calls $10
+KENNY B: folds
+TALL PAUL: folds
+ROHAN: folds
+JUSTIN (TCH): raises $40 to $50
+SK: calls $40
+PAUL: calls $40
+LUCKY LIAM: calls $40
+*** FLOP *** [Qh Td 5d]
+SK: checks
+PAUL: checks
+LUCKY LIAM: checks
+JUSTIN (TCH): bets $175
+SK: folds
+PAUL: folds
+LUCKY LIAM: folds
+Uncalled bet ($175) returned to JUSTIN (TCH)
+JUSTIN (TCH) collected $200 from pot
+*** SUMMARY ***
+Total pot $200 | Rake $0
+Board [Qh Td 5d]
+Seat 1: SK (small blind) folded on the Flop
+Seat 2: PAUL (big blind) folded on the Flop
+Seat 3: RAMJAM folded before Flop (didn't bet)
+Seat 4: LUCKY LIAM folded on the Flop
+Seat 5: KENNY B folded before Flop (didn't bet)
+Seat 6: TALL PAUL folded before Flop (didn't bet)
+Seat 7: ROHAN folded before Flop (didn't bet)
+Seat 8: JUSTIN (TCH) (button) collected ($200)
+
+
+PokerStars Hand #2700000231:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 22:59:39 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: LUCKY LIAM ($9415 in chips)
+Seat 2: KENNY B ($8280 in chips)
+Seat 3: TALL PAUL ($12275 in chips)
+Seat 4: DOUG ($11000 in chips)
+Seat 5: ROHAN ($3370 in chips)
+Seat 6: SK ($3915 in chips)
+Seat 7: PAUL ($4740 in chips)
+Seat 8: RAMJAM ($2570 in chips)
+LUCKY LIAM: posts small blind $10
+KENNY B: posts big blind $10
+TALL PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [As Qh Tc 6c]
+Dealt to DOUG [Qd 9h 7c 4c]
+Dealt to SK [Ah Ac Jh 3d]
+Dealt to PAUL [Kd Jd 3h 2c]
+DOUG: folds
+ROHAN: calls $20
+SK: raises $80 to $100
+PAUL: calls $100
+RAMJAM: folds
+LUCKY LIAM: folds
+KENNY B: calls $90
+TALL PAUL: folds
+ROHAN: calls $80
+*** FLOP *** [2h 9c 8c]
+KENNY B: checks
+ROHAN: checks
+SK: bets $400
+PAUL: folds
+KENNY B: calls $400
+ROHAN: folds
+*** TURN *** [2h 9c 8c] [8h]
+KENNY B: checks
+SK: checks
+*** RIVER *** [2h 9c 8c 8h] [Js]
+KENNY B: checks
+SK: checks
+*** SHOW DOWN ***
+KENNY B: shows [As Qh Tc 6c]
+SK: shows [Ah Ac Jh 3d]
+KENNY B collected $1230 from pot
+*** SUMMARY ***
+Total pot $1230 | Rake $0
+Board [2h 9c 8c 8h Js]
+Seat 1: LUCKY LIAM (small blind) folded before Flop
+Seat 2: KENNY B (big blind) showed [As Qh Tc 6c] and won ($1230)
+Seat 3: TALL PAUL folded before Flop
+Seat 4: DOUG folded before Flop (didn't bet)
+Seat 5: ROHAN folded on the Flop
+Seat 6: SK showed [Ah Ac Jh 3d] and lost
+Seat 7: PAUL folded on the Flop
+Seat 8: RAMJAM (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000232:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:02:32 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: KENNY B ($9100 in chips)
+Seat 2: TALL PAUL ($12265 in chips)
+Seat 3: DOUG ($10980 in chips)
+Seat 4: ROHAN ($3290 in chips)
+Seat 5: SK ($3515 in chips)
+Seat 6: PAUL ($4740 in chips)
+Seat 7: RAMJAM ($2550 in chips)
+Seat 8: LUCKY LIAM ($9415 in chips)
+KENNY B: posts small blind $10
+TALL PAUL: posts big blind $10
+DOUG: posts straddle $20
+*** HOLE CARDS ***
+Dealt to KENNY B [Ac Kd 5s 3d]
+Dealt to TALL PAUL [Qh 9h 8d 4d]
+Dealt to DOUG [Kh 9c 6s 5h]
+Dealt to ROHAN [Jd Ts Th 5d]
+Dealt to SK [As Jh 7d 2c]
+Dealt to PAUL [Jc 9d 8s 3h]
+Dealt to RAMJAM [Td Tc 6h 2d]
+Dealt to LUCKY LIAM [Ks 5c 4s 4h]
+ROHAN: calls $20
+SK: folds
+PAUL: calls $20
+RAMJAM: calls $20
+LUCKY LIAM: calls $20
+KENNY B: raises $130 to $150
+TALL PAUL: folds
+DOUG: folds
+ROHAN: calls $130
+PAUL: calls $130
+RAMJAM: folds
+LUCKY LIAM: calls $130
+*** FLOP *** [3s Js 2h]
+KENNY B: checks
+ROHAN: checks
+PAUL: bets $650
+LUCKY LIAM: calls $650
+KENNY B: folds
+ROHAN: folds
+*** TURN *** [3s Js 2h] [6d]
+PAUL: bets $1950
+LUCKY LIAM: raises $5850 to $7800
+PAUL: calls $1990 and is all-in
+*** RIVER *** [3s Js 2h 6d] [7s]
+*** SHOW DOWN ***
+PAUL: shows [Jc 9d 8s 3h]
+LUCKY LIAM: shows [Ks 5c 4s 4h]
+LUCKY LIAM collected $13690 from pot
+*** SUMMARY ***
+Total pot $13690 | Rake $0
+Board [3s Js 2h 6d 7s]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: TALL PAUL (big blind) folded before Flop
+Seat 3: DOUG folded before Flop
+Seat 4: ROHAN folded on the Flop
+Seat 5: SK folded before Flop (didn't bet)
+Seat 6: PAUL showed [Jc 9d 8s 3h] and lost
+Seat 7: RAMJAM folded before Flop
+Seat 8: LUCKY LIAM (button) showed [Ks 5c 4s 4h] and won ($13690)
+
+
+PokerStars Hand #2700000236:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:14:59 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: ROHAN ($6135 in chips)
+Seat 2: SK ($3460 in chips)
+Seat 3: PAUL ($805 in chips)
+Seat 4: RAMJAM ($1100 in chips)
+Seat 5: LUCKY LIAM ($13060 in chips)
+Seat 6: KENNY B ($10575 in chips)
+Seat 7: TALL PAUL ($11760 in chips)
+Seat 8: DOUG ($10935 in chips)
+ROHAN: posts small blind $10
+SK: posts big blind $10
+PAUL: posts straddle $20
+*** HOLE CARDS ***
+Dealt to ROHAN [Ac Kd Ts Td]
+Dealt to PAUL [Th 8d 6d 4h]
+Dealt to RAMJAM [Qs Qh Qd 4s]
+Dealt to LUCKY LIAM [Ah Kc Js 3s]
+Dealt to KENNY B [Tc 9s 7c 5c]
+Dealt to TALL PAUL [9c 8c 6s 5s]
+Dealt to DOUG [Qc Jh 8s 2c]
+RAMJAM: folds
+LUCKY LIAM: raises $55 to $75
+KENNY B: calls $75
+TALL PAUL: raises $225 to $300
+DOUG: folds
+ROHAN: calls $290
+SK: folds
+PAUL: calls $280
+LUCKY LIAM: folds
+KENNY B: calls $225
+*** FLOP *** [7h 5d 3d]
+ROHAN: checks
+PAUL: bets $505 and is all-in
+KENNY B: calls $505
+TALL PAUL: calls $505
+ROHAN: calls $505
+*** TURN *** [7h 5d 3d] [Jd]
+ROHAN: checks
+KENNY B: checks
+TALL PAUL: checks
+*** RIVER *** [7h 5d 3d Jd] [Jc]
+ROHAN: checks
+KENNY B: checks
+TALL PAUL: checks
+*** SHOW DOWN ***
+ROHAN: shows [Ac Kd Ts Td]
+PAUL: shows [Th 8d 6d 4h]
+KENNY B: shows [Tc 9s 7c 5c]
+TALL PAUL: shows [9c 8c 6s 5s]
+ROHAN collected $3305 from pot
+*** SUMMARY ***
+Total pot $3305 | Rake $0
+Board [7h 5d 3d Jd Jc]
+Seat 1: ROHAN (small blind) showed [Ac Kd Ts Td] and won ($3305)
+Seat 2: SK (big blind) folded before Flop
+Seat 3: PAUL showed [Th 8d 6d 4h] and lost
+Seat 4: RAMJAM folded before Flop (didn't bet)
+Seat 5: LUCKY LIAM folded before Flop
+Seat 6: KENNY B showed [Tc 9s 7c 5c] and lost
+Seat 7: TALL PAUL showed [9c 8c 6s 5s] and lost
+Seat 8: DOUG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000239:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:24:57 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #7 is the button
+Seat 1: RAMJAM ($920 in chips)
+Seat 2: LUCKY LIAM ($11855 in chips)
+Seat 3: KENNY B ($9675 in chips)
+Seat 4: TALL PAUL ($11965 in chips)
+Seat 5: DOUG ($12825 in chips)
+Seat 6: ROHAN ($8645 in chips)
+Seat 7: SK ($2980 in chips)
+RAMJAM: posts small blind $10
+LUCKY LIAM: posts big blind $10
+KENNY B: posts straddle $20
+*** HOLE CARDS ***
+Dealt to RAMJAM [Kc 9s 7s 5s]
+Dealt to LUCKY LIAM [Js Th 8c 5h]
+Dealt to KENNY B [6h 4c 3h 3d]
+Dealt to TALL PAUL [Kh 4s 3c 2d]
+Dealt to DOUG [8d 7d 5d 2s]
+Dealt to ROHAN [As 6c 4h 3s]
+Dealt to SK [Ad Jd Td 4d]
+TALL PAUL: folds
+DOUG: folds
+ROHAN: calls $20
+SK: calls $20
+RAMJAM: folds
+LUCKY LIAM: calls $10
+KENNY B: checks
+*** FLOP *** [6s 7h 8s]
+LUCKY LIAM: checks
+KENNY B: checks
+ROHAN: checks
+SK: checks
+*** TURN *** [6s 7h 8s] [8h]
+LUCKY LIAM: bets $50
+KENNY B: calls $50
+ROHAN: folds
+SK: folds
+*** RIVER *** [6s 7h 8s 8h] [2h]
+LUCKY LIAM: bets $125
+KENNY B: calls $125
+*** SHOW DOWN ***
+LUCKY LIAM: shows [Js Th 8c 5h]
+KENNY B: shows [6h 4c 3h 3d]
+LUCKY LIAM collected $440 from pot
+*** SUMMARY ***
+Total pot $440 | Rake $0
+Board [6s 7h 8s 8h 2h]
+Seat 1: RAMJAM (small blind) folded before Flop
+Seat 2: LUCKY LIAM (big blind) showed [Js Th 8c 5h] and won ($440)
+Seat 3: KENNY B showed [6h 4c 3h 3d] and lost
+Seat 4: TALL PAUL folded before Flop (didn't bet)
+Seat 5: DOUG folded before Flop (didn't bet)
+Seat 6: ROHAN folded on the Turn
+Seat 7: SK (button) folded on the Turn
+
+
+PokerStars Hand #2700000245:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:40:16 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #9 is the button
+Seat 1: ROHAN ($6705 in chips)
+Seat 2: AY ($1810 in chips)
+Seat 3: SK ($1800 in chips)
+Seat 4: MIKE (AUSTIN) ($6220 in chips)
+Seat 5: RAMJAM ($2840 in chips)
+Seat 6: LUCKY LIAM ($14385 in chips)
+Seat 7: KENNY B ($8340 in chips)
+Seat 8: TALL PAUL ($11815 in chips)
+Seat 9: DOUG ($12990 in chips)
+ROHAN: posts small blind $10
+SK: posts big blind $10
+MIKE (AUSTIN): posts straddle $20
+*** HOLE CARDS ***
+Dealt to SK [Ah Kd Qs 7s]
+Dealt to MIKE (AUSTIN) [Ks Kc 2s 2c]
+Dealt to RAMJAM [Td 4d 3s 3c]
+Dealt to LUCKY LIAM [Jh 9s 9d 6h]
+Dealt to KENNY B [Qh 9h 6d 4s]
+Dealt to TALL PAUL [Ac Ts 7h 6c]
+Dealt to DOUG [Th Tc 5h 2h]
+RAMJAM: folds
+LUCKY LIAM: calls $20
+KENNY B: folds
+TALL PAUL: calls $20
+DOUG: calls $20
+ROHAN: folds
+AY: folds
+SK: calls $10
+MIKE (AUSTIN): raises $100 to $120
+LUCKY LIAM: calls $100
+TALL PAUL: calls $100
+DOUG: calls $100
+SK: calls $100
+*** FLOP *** [8h Jc Jd]
+SK: checks
+MIKE (AUSTIN): checks
+LUCKY LIAM: checks
+TALL PAUL: checks
+DOUG: checks
+*** TURN *** [8h Jc Jd] [8d]
+SK: checks
+MIKE (AUSTIN): checks
+LUCKY LIAM: bets $420
+TALL PAUL: folds
+DOUG: folds
+SK: folds
+MIKE (AUSTIN): folds
+Uncalled bet ($420) returned to LUCKY LIAM
+LUCKY LIAM collected $610 from pot
+*** SUMMARY ***
+Total pot $610 | Rake $0
+Board [8h Jc Jd 8d]
+Seat 1: ROHAN (small blind) folded before Flop
+Seat 2: AY folded before Flop (didn't bet)
+Seat 3: SK (big blind) folded on the Turn
+Seat 4: MIKE (AUSTIN) folded on the Turn
+Seat 5: RAMJAM folded before Flop (didn't bet)
+Seat 6: LUCKY LIAM collected ($610)
+Seat 7: KENNY B folded before Flop (didn't bet)
+Seat 8: TALL PAUL folded on the Turn
+Seat 9: DOUG (button) folded on the Turn
+
+
+PokerStars Hand #2700000248:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:47:29 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #7 is the button
+Seat 1: RAMJAM ($2800 in chips)
+Seat 2: LUCKY LIAM ($14645 in chips)
+Seat 3: KENNY B ($8300 in chips)
+Seat 4: TALL PAUL ($11635 in chips)
+Seat 5: DOUG ($12630 in chips)
+Seat 6: ROHAN ($8965 in chips)
+Seat 7: MIKE (AUSTIN) ($6080 in chips)
+RAMJAM: posts small blind $10
+LUCKY LIAM: posts big blind $10
+KENNY B: posts straddle $20
+TALL PAUL: posts straddle $40
+*** HOLE CARDS ***
+Dealt to RAMJAM [Kc Th 9s 3d]
+Dealt to LUCKY LIAM [Jd 7c 5c 3s]
+Dealt to KENNY B [Ah 6h 5s 5d]
+Dealt to TALL PAUL [Ac Kd Tc 7h]
+Dealt to ROHAN [Js 9c 4h 2c]
+Dealt to MIKE (AUSTIN) [Ts 7s 3c 2s]
+DOUG: folds
+ROHAN: folds
+MIKE (AUSTIN): folds
+RAMJAM: folds
+LUCKY LIAM: calls $30
+KENNY B: raises $110 to $150
+TALL PAUL: raises $350 to $500
+LUCKY LIAM: folds
+KENNY B: calls $350
+*** FLOP *** [Qc 3h 9h]
+KENNY B: checks
+TALL PAUL: checks
+*** TURN *** [Qc 3h 9h] [Qd]
+KENNY B: bets $275
+TALL PAUL: calls $275
+*** RIVER *** [Qc 3h 9h Qd] [Kh]
+KENNY B: bets $575
+TALL PAUL: raises $2750 to $3325
+KENNY B: folds
+Uncalled bet ($2750) returned to TALL PAUL
+TALL PAUL collected $2750 from pot
+*** SUMMARY ***
+Total pot $2750 | Rake $0
+Board [Qc 3h 9h Qd Kh]
+Seat 1: RAMJAM (small blind) folded before Flop
+Seat 2: LUCKY LIAM (big blind) folded before Flop
+Seat 3: KENNY B folded on the River
+Seat 4: TALL PAUL collected ($2750)
+Seat 5: DOUG folded before Flop (didn't bet)
+Seat 6: ROHAN folded before Flop (didn't bet)
+Seat 7: MIKE (AUSTIN) (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #2700000252:  Omaha Pot Limit ($10/$10 USD) - 2026/01/03 23:55:28 ET
+Table 'Tch Austin 10 10 Plo Fj1B7Uq' 9-max Seat #8 is the button
+Seat 1: KENNY B ($6750 in chips)
+Seat 2: TALL PAUL ($12990 in chips)
+Seat 3: DOUG ($12870 in chips)
+Seat 4: ROHAN ($8950 in chips)
+Seat 5: LEE ($1490 in chips)
+Seat 6: MIKE (AUSTIN) ($6055 in chips)
+Seat 7: RAMJAM ($2775 in chips)
+Seat 8: LUCKY LIAM ($14605 in chips)
+KENNY B: posts small blind $10
+TALL PAUL: posts big blind $10
+DOUG: posts straddle $20
+ROHAN: posts straddle $40
+*** HOLE CARDS ***
+Dealt to KENNY B [Tc 8c 6c 5s]
+Dealt to TALL PAUL [Kd Jc 9s 5d]
+Dealt to DOUG [Kc 7c 3d 2s]
+Dealt to ROHAN [Ah Jh 6s 6d]
+Dealt to LEE [As Ad Ac 6h]
+Dealt to MIKE (AUSTIN) [Td 4s 4d 3h]
+Dealt to RAMJAM [Kh Qd 7d 2c]
+Dealt to LUCKY LIAM [9c 5c 3c 2h]
+LEE: folds
+MIKE (AUSTIN): folds
+RAMJAM: folds
+LUCKY LIAM: folds
+KENNY B: calls $30
+TALL PAUL: calls $30
+DOUG: calls $20
+ROHAN: raises $160 to $200
+KENNY B: calls $160
+TALL PAUL: calls $160
+DOUG: folds
+*** FLOP *** [8h Th Qh]
+KENNY B: checks
+TALL PAUL: checks
+ROHAN: bets $500
+KENNY B: folds
+TALL PAUL: folds
+Uncalled bet ($500) returned to ROHAN
+ROHAN collected $640 from pot
+*** SUMMARY ***
+Total pot $640 | Rake $0
+Board [8h Th Qh]
+Seat 1: KENNY B (small blind) folded on the Flop
+Seat 2: TALL PAUL (big blind) folded on the Flop
+Seat 3: DOUG folded before Flop
+Seat 4: ROHAN collected ($640)
+Seat 5: LEE folded before Flop (didn't bet)
+Seat 6: MIKE (AUSTIN) folded before Flop (didn't bet)
+Seat 7: RAMJAM folded before Flop (didn't bet)
+Seat 8: LUCKY LIAM (button) folded before Flop (didn't bet)
+
+
